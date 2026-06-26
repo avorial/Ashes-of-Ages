@@ -1,0 +1,22 @@
+name: "Ashes of Ages"
+gameType: "Dark Ages: Vampire"
+categories:
+  - Characters
+  - NPCs
+  - Organizations
+  - Species
+  - Locations
+  - Items
+  - Events
+  - Lore
+  - Games
+visibility:
+  default: gm
+approvals:
+  aiDefault: unapproved
+theme:
+  preset: "fantasy"
+  accent: "#d4a957"
+  accent2: "#a075ff"
+  displayFont: "Fraunces"
+  banner: ""
