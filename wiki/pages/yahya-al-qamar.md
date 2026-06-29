@@ -1,5 +1,6 @@
 ---
 title: "Yahya al-Qamar"
+name: "Yahya al-Qamar"
 category: "npc"
 summary: "Yahya al-Qamar imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
 status: "imported"

@@ -1,5 +1,6 @@
 ---
 title: "Adrastos von Orlok"
+name: "Adrastos von Orlok"
 category: "npc"
 summary: "Adrastos von Orlok imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
 status: "imported"

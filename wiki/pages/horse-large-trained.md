@@ -1,7 +1,8 @@
 ---
-title: "Horse, large [trained]"
+title: "Horse, Large [Trained]"
+name: "Horse, Large [Trained]"
 category: "npc"
-summary: "Horse, large [trained] imported from the Foundry Ashes of Ages world (Retainers, Creature). Creature."
+summary: "Horse, Large [Trained] imported from the Foundry Ashes of Ages world (Retainers, Creature). Creature."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "retainers"]
 visibility: "gm"
@@ -9,11 +10,11 @@ approvalStatus: "approved"
 knownToPlayers: false
 parent: "retainers"
 ---
-# Horse, large [trained]
+# Horse, Large [Trained]
 
 ## Overview
 
-Horse, large [trained] imported from the Foundry Ashes of Ages world (Retainers, Creature). Creature.
+Horse, Large [Trained] imported from the Foundry Ashes of Ages world (Retainers, Creature). Creature.
 
 ## Foundry details
 

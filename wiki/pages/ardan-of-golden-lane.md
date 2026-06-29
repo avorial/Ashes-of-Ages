@@ -1,5 +1,6 @@
 ---
 title: "Ardan of Golden Lane"
+name: "Ardan of Golden Lane"
 category: "npc"
 summary: "Ardan of Golden Lane imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire."
 status: "imported"

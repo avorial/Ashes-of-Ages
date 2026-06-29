@@ -1,5 +1,6 @@
 ---
 title: "Pierre de la Salle"
+name: "Pierre de la Salle"
 category: "npc"
 summary: "Pierre de la Salle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire | Nature: Fanatic | Demeanor: Conformist | Concept: Templar Knight."
 status: "imported"

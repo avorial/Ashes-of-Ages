@@ -1,5 +1,6 @@
 ---
-title: "Player characters"
+title: "Player Characters"
+name: "Player Characters"
 category: "character"
 summary: "Player character roster imported from the Ashes of Ages Foundry world."
 status: "imported"
@@ -8,7 +9,7 @@ visibility: "players"
 approvalStatus: "approved"
 knownToPlayers: true
 ---
-# Player characters
+# Player Characters
 
 Player character roster imported from the Ashes of Ages Foundry world.
 

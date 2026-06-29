@@ -1,5 +1,6 @@
 ---
 title: "Alessandro di Ravello"
+name: "Alessandro di Ravello"
 category: "npc"
 summary: "Alessandro di Ravello imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
 status: "imported"

@@ -1,5 +1,6 @@
 ---
 title: "Revenants"
+name: "Revenants"
 category: "npc"
 summary: "Revenant NPCs imported from the Ashes of Ages Foundry world."
 status: "imported"

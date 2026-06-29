@@ -1,7 +1,8 @@
 ---
 title: "Katherine Karálová"
+name: "Katherine Karálová"
 category: "character"
-summary: "Katherine Karálová imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Defender | Demeanor: Pedagogue | Concept: Evergreen Scholar."
+summary: "Katherine Karálová imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Defender | Demeanor: Pedagogue | Concept: Evergreen Scholar."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "player-characters"]
 visibility: "players"
@@ -16,7 +17,7 @@ parent: "player-characters"
 
 ## Overview
 
-Katherine Karálová imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Defender | Demeanor: Pedagogue | Concept: Evergreen Scholar.
+Katherine Karálová imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Defender | Demeanor: Pedagogue | Concept: Evergreen Scholar.
 
 ## Foundry details
 

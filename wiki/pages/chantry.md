@@ -1,5 +1,6 @@
 ---
 title: "Chantry"
+name: "Chantry"
 category: "npc"
 summary: "Chantry-associated NPCs imported from the Ashes of Ages Foundry world."
 status: "imported"

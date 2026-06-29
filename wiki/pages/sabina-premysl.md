@@ -1,5 +1,6 @@
 ---
 title: "Sabina Premysl"
+name: "Sabina Premysl"
 category: "npc"
 summary: "Sabina Premysl imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal."
 status: "imported"

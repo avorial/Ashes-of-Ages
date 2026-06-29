@@ -1,5 +1,6 @@
 ---
 title: "Mira Vlaszy"
+name: "Mira Vlaszy"
 category: "npc"
 summary: "Mira Vlaszy imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal."
 status: "imported"

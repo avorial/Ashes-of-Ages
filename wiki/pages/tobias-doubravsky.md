@@ -1,7 +1,8 @@
 ---
 title: "Tobias Doubravský"
+name: "Tobias Doubravský"
 category: "npc"
-summary: "Tobias Doubravský imported from the Foundry Ashes of Ages world (Unfiled actors, Vampire). Vampire."
+summary: "Tobias Doubravský imported from the Foundry Ashes of Ages world (Unfiled Actors, Vampire). Vampire."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "unfiled-actors"]
 visibility: "gm"
@@ -16,7 +17,7 @@ parent: "unfiled-actors"
 
 ## Overview
 
-Tobias Doubravský imported from the Foundry Ashes of Ages world (Unfiled actors, Vampire). Vampire.
+Tobias Doubravský imported from the Foundry Ashes of Ages world (Unfiled Actors, Vampire). Vampire.
 
 ## Foundry details
 
