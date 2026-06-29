@@ -256,3 +256,7 @@ Istvan sees himself as a defender of his family's legacy and a stalwart protecto
 - Foundry world archive: aoe.zip
 - Actor ID: 7mij8sIlvuJ9KFT8
 - Actor folder: Players
+
+## Session notes
+
+- [[Game 2]] - was the second-highest bidder for [[Radomir Pavlovich's Haven]]. The coterie questions him at [[Istvan Vlaszy's House]], where he reveals his courier work for Radomir and a package route to a [[Remote Tzimisce Castle]].

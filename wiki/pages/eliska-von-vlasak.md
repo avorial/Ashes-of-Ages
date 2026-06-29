@@ -315,3 +315,7 @@ Synesthetia
 - Foundry world archive: aoe.zip
 - Actor ID: 7bHIgypxkxrAQZQG
 - Actor folder: Players
+
+## Session notes
+
+- [[Game 2]] - participates in the marketplace investigation and experiences synesthetic impressions at [[Sabina Premysl's Cottage]], including graveyard/sorrow imagery.

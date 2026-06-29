@@ -299,3 +299,7 @@ One evening, as she quietly emptied the ashes of a fireplace in one of the many 
 - Foundry world archive: aoe.zip
 - Actor ID: 9LLSPA3MVtWPBuLE
 - Actor folder: Players
+
+## Session notes
+
+- [[Game 1]] - researches the blood/rune clue at the [[University of Prague Scriptorium]] and links it to pre-Islamic Banu Haqim desert/djinn magic.

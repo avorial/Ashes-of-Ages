@@ -70,3 +70,8 @@ Borislav thrives on violence and believes the Premysl family should rule Prague'
 - Foundry world archive: aoe.zip
 - Actor ID: MTZar2SM3ovR2u5H
 - Actor folder: NPC's / Reventants
+
+## Session notes
+
+- [[Game 1]] - identified through contacts as a revenant who worked for [[Radomir Pavlovich]].
+- [[Game 2]] - named by Dragan/Sabina as part of the Premysl household.

@@ -121,3 +121,8 @@ Sabina believes she is meant to serve as the Methuselah's voice in Prague, inter
 - Foundry world archive: aoe.zip
 - Actor ID: QoM3WIU1ql3jHkRu
 - Actor folder: NPC's / Reventants
+
+## Session notes
+
+- [[Game 1]] - appears in visions connected to Radomir's haven and the Premysl revenants.
+- [[Game 2]] - explains that Radomir received a mysterious ritual package and used her as a vessel for spirit communion. She begins a ritual to contact the spirit witness before a gargoyle breaks the ward.

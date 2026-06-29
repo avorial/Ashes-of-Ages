@@ -349,3 +349,8 @@ Dalibor of Kozojedy
 - Foundry world archive: aoe.zip
 - Actor ID: jxdqyGJjYjhuvSiB
 - Actor folder: Players
+
+## Session notes
+
+- [[Game 1]] - arranges through retainers to buy [[Radomir Pavlovich's Haven]].
+- [[Game 2]] - his purchase is confirmed; [[Istvan Vlaszy]] was the losing bidder.

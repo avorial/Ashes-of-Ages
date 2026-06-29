@@ -226,3 +226,7 @@ This has also led him to support the current prince and with those succeses has 
 - Foundry world archive: aoe.zip
 - Actor ID: QhK2h487eaC6Y2cJ
 - Actor folder: NPC's / Elders
+
+## Session notes
+
+- [[Game 1]] - summons the coterie to [[Millie's Tavern]], announces [[Radomir Pavlovich]]'s destruction, and gives the group authority to investigate on behalf of the elders.

@@ -227,3 +227,7 @@ Dragan is determined to preserve the Premysl family's legacy by reawakening the 
 - Foundry world archive: aoe.zip
 - Actor ID: 1k1dvqikyUHtBoH0
 - Actor folder: NPC's / Reventants
+
+## Session notes
+
+- [[Game 2]] - visited at [[Dragan Premysl's House]] after [[Istvan Vlaszy]] leads the coterie there. Dragan confirms loyalty to [[Radomir Pavlovich]], bargains with the investigators, and directs them toward [[Sabina Premysl]].
