@@ -329,3 +329,7 @@ Heavy Iron Spikes
 - Foundry world archive: aoe.zip
 - Actor ID: gUoc3HYm0Mk6UCPh
 - Actor folder: Players
+
+## Session notes
+
+- [[Game 1]] - introduced as a former Catholic inquisitor turned Hussite priest under [[Alessandro di Ravello]]'s influence. He removes the [[Bronze Fleshcrafted Vampire Statue]] from Radomir's haven.

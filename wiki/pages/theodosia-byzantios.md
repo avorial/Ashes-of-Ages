@@ -361,3 +361,8 @@ Visions
 - Foundry world archive: aoe.zip
 - Actor ID: 5ABlMK9Y8igRfLz3
 - Actor folder: Players
+
+## Session notes
+
+- [[Game 1]] - uses visions and supernatural perception during the haven investigation.
+- [[Game 2]] - is overwhelmed by nature spirits at [[Sabina Premysl's Cottage]] where the Gauntlet is extremely thin.

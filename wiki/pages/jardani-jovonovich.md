@@ -297,3 +297,8 @@ Ar
 - Foundry world archive: aoe.zip
 - Actor ID: gmV5pBnn4aD69pFO
 - Actor folder: Players
+
+## Session notes
+
+- [[Game 1]] - introduced as a Brujah supporter and leader within the Hussite movement.
+- [[Game 2]] - his Hussite/town guard contacts are noted as a possible way to move through Prague after curfew.

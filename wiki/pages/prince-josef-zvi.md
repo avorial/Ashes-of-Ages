@@ -183,3 +183,8 @@ Under cover of day, Josef slipped into Brandl's lair and, while the prince lay h
 - Foundry world archive: aoe.zip
 - Actor ID: RvLpsGlejNtVvokU
 - Actor folder: NPC's / Elders
+
+## Session notes
+
+- [[Game 1]] - his authority frames the investigation; correspondence shows he refused Radomir's request to expel or enable attacks on Tremere domain.
+- [[Game 1]] - the [[Jewish Quarter]] is under his particular protection.

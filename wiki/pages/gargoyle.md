@@ -153,3 +153,7 @@ Gargoyle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampi
 - Foundry world archive: aoe.zip
 - Actor ID: RRTELAfRwXRT8asf
 - Actor folder: NPC's / Chantry
+
+## Session notes
+
+- [[Game 2]] - a gargoyle crashes through the roof of [[Sabina Premysl's Cottage]] and breaks the ward just as Sabina begins the spirit ritual.
