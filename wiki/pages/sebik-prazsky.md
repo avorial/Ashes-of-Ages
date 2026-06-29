@@ -18,12 +18,12 @@ parent: "elders"
 
 Sebík Pražský imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's / Elders
-- **Foundry Name Note:** Nos Prim
-- **Original Foundry Name:** Sebík Pražský (Nos Prim)
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's / Elders
+- **Foundry name note:** Nos Prim
+- **Original Foundry name:** Sebík Pražský (Nos Prim)
 - **Advantages:** Willpower 4; Blood Pool 0/15
 
 ## Background
@@ -52,7 +52,7 @@ Seb&iacute;k Pražsk&yacute;, originally named Sadb, was born in Caledonia in 18
 
 **Knowledges:** Academics 3, Enigmas 2, Investigation 3, Occult 3
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Background: Status 2** (0)
 - **Background: Generation 3** (0)

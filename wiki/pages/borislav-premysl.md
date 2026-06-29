@@ -18,10 +18,10 @@ parent: "revenants"
 
 Borislav Premysl imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Mortal
-- **Foundry Folder:** NPC's / Reventants
+- **Actor type:** Mortal
+- **Foundry folder:** NPC's / Reventants
 - **Advantages:** Blood Pool 0/10
 
 ## Appearance
@@ -32,7 +32,7 @@ Borislav is a burly, malformed man with disproportionately large limbs, a hunche
 
 Borislav's role within the Premysl family is that of an enforcer and tormentor. While Dragan is the family's honorable blade, Borislav takes on the work requiring ruthlessness and intimidation. He relishes his connection to the Tzimisce and sees his deformities as marks of honor. Borislav was responsible for carrying out much of the violence in the family's campaigns against Christians and outsiders, including the attacks on the Convent of the Knights of the Red Cross following Ahzra's death.
 
-## Roleplaying Notes
+## Roleplaying notes
 
 Borislav thrives on violence and believes the Premysl family should rule Prague's underworld with fear.  Borislav also despises those who sympathize with humans, believing that only the strong have the right to survive. He is, however, fiercely loyal to the family and particularly to Dragan, who he sees as a leader worthy of the Methuselah's service. Borislav's ultimate goal is to see Prague's Kindred recognize the Premysl family's power, bowing to their rule in the Methuselah's name.
 

@@ -1,7 +1,7 @@
 ---
 title: "Dalibor"
 category: "character"
-summary: "Dalibor imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Conniver | Demeanor: Idealist | Concept: Spy/Rogue."
+summary: "Dalibor imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Conniver | Demeanor: Idealist | Concept: Spy/Rogue."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "player-characters"]
 visibility: "players"
@@ -16,14 +16,14 @@ parent: "player-characters"
 
 ## Overview
 
-Dalibor imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Conniver | Demeanor: Idealist | Concept: Spy/Rogue.
+Dalibor imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Conniver | Demeanor: Idealist | Concept: Spy/Rogue.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** Players
-- **Foundry Name Note:** Tony
-- **Original Foundry Name:** Dalibor (Tony)
+- **Actor type:** Vampire
+- **Foundry folder:** Players
+- **Foundry name note:** Tony
+- **Original Foundry name:** Dalibor (Tony)
 - **Nature:** Conniver
 - **Demeanor:** Idealist
 - **Concept:** Spy/Rogue
@@ -99,7 +99,7 @@ Dalibor of Kozojedy
 - **Spent experience**
 - **Spent experience**
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **Literacy** (1)
   You are a learned scholar, able to both read and write. The Merit assumes that you can read and write with fluency in your native tongue, as well as Latin and any languages you may have gained through the Multi-Lingual Merit. In some chronicles, literacy can be assumed. In these cases, Illiteracy becomes a 1-point Flaw.
@@ -191,7 +191,7 @@ Dalibor of Kozojedy
 - **Cutlass**
 - **Dagger**
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Valeren** (0)
 - **Obfuscate** (0); VDA 224

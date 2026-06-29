@@ -1,7 +1,7 @@
 ---
 title: "Eliska von Vlasak"
 category: "character"
-summary: "Eliska von Vlasak imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Visionary | Demeanor: Bon Vivant | Concept: Bon Vivant."
+summary: "Eliska von Vlasak imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Visionary | Demeanor: Bon Vivant | Concept: Bon Vivant."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "player-characters"]
 visibility: "players"
@@ -16,14 +16,14 @@ parent: "player-characters"
 
 ## Overview
 
-Eliska von Vlasak imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Visionary | Demeanor: Bon Vivant | Concept: Bon Vivant.
+Eliska von Vlasak imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Visionary | Demeanor: Bon Vivant | Concept: Bon Vivant.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** Players
-- **Foundry Name Note:** Monique
-- **Original Foundry Name:** Eliska von Vlasak (Monique)
+- **Actor type:** Vampire
+- **Foundry folder:** Players
+- **Foundry name note:** Monique
+- **Original Foundry name:** Eliska von Vlasak (Monique)
 - **Nature:** Visionary
 - **Demeanor:** Bon Vivant
 - **Concept:** Bon Vivant
@@ -130,7 +130,7 @@ Synesthetia
 - **Gained experience**
   Game 14
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **Contacts** (1); V20 112
   Contacts may be pooled within the characters' coterie.
@@ -266,7 +266,7 @@ Synesthetia
   Accuracy: Normal
   Damage: Str; knockdown
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Fortitude** (0); V20 158
   A character's rating in Fortitude adds to his Stamina for the purposes of soaking normal damage (bashing and lethal). A character with this Discipline may also use his dots in Fortitude to soak aggravated damage, though Kindred cannot normally soak things like vampire bites, werewolf claws, magical effects, fire, sunlight, or massive physical trauma. See p. 272, for further details on soaking and damage.

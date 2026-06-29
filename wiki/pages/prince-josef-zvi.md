@@ -18,12 +18,12 @@ parent: "elders"
 
 Prince Josef Zvi imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's / Elders
-- **Foundry Name Note:** Nos
-- **Original Foundry Name:** Prince Josef Zvi (Nos)
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's / Elders
+- **Foundry name note:** Nos
+- **Original Foundry name:** Prince Josef Zvi (Nos)
 - **Advantages:** Willpower 4; Blood Pool 0/15
 
 ## Background
@@ -64,7 +64,7 @@ Under cover of day, Josef slipped into Brandl's lair and, while the prince lay h
 
 **Knowledges:** Academics 1, Investigation 1, Occult 3, Politics 2
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Animalism** (0)
   The Cainite Beast is a primal, animalistic force. While most Cainites will never know their Beasts on a fun-damental, such a creature speaks to his own. The vampire with Animalism pushes that to extremes, commanding legions of beasts to do his bidding.Without the Animal Ken Skill or the AnimalismDiscipline, animals become uncomfortable in a vampire's presence. Some attack, some run, some cause commotion.Vampires with Animalism present a dominant air, attracting such creatures and cowing them.

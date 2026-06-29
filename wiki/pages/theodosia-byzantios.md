@@ -1,7 +1,7 @@
 ---
 title: "Theodosia Byzantios"
 category: "character"
-summary: "Theodosia Byzantios imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Fanatic | Demeanor: Penitent."
+summary: "Theodosia Byzantios imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Fanatic | Demeanor: Penitent."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "player-characters"]
 visibility: "players"
@@ -16,14 +16,14 @@ parent: "player-characters"
 
 ## Overview
 
-Theodosia Byzantios imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Fanatic | Demeanor: Penitent.
+Theodosia Byzantios imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Fanatic | Demeanor: Penitent.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** Players
-- **Foundry Name Note:** Jenn
-- **Original Foundry Name:** Theodosia Byzantios (Jenn)
+- **Actor type:** Vampire
+- **Foundry folder:** Players
+- **Foundry name note:** Jenn
+- **Original Foundry name:** Theodosia Byzantios (Jenn)
 - **Nature:** Fanatic
 - **Demeanor:** Penitent
 - **Advantages:** Willpower 4; Blood Pool 12/15; The Path of Christ 4
@@ -118,7 +118,7 @@ Visions
 - **Gained experience**
   Chronicle End
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **Generation** (4)
 - **Multi-Lingua** (2)
@@ -193,7 +193,7 @@ Visions
   Accuracy: Normal
   Damage: Str; knockdown
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **○ Seeing the Unseen** (0); V20 142
   **&bull; Obfuscate:** When a vampire tries to use her heightened perceptions to notice a Kindred hidden with Obfuscate, she detects the subject's presence if her Auspex rating is higher than his Obfuscate, and she succeeds at a Perception + Awareness roll (difficulty equals 7 minus the number of dots by which her Auspex exceeds his Obfuscate). Conversely, if the target's Obfuscate outranks her Auspex, he remains undiscovered. If the two ratings are equal, both characters make a resisted roll of Perception + Awareness (Auspex user) against Manipulation + Subterfuge (Obfuscate user). The difficulty for both rolls is 7, and the character with the most successes wins.

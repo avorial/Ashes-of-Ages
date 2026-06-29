@@ -17,7 +17,7 @@ Chantry-associated NPCs imported from the Ashes of Ages Foundry world.
 - [[Ardan of Golden Lane]]
 - [[Claas Drescher]]
 - [[Gargoyle]]
-- [[Pierre De La Salle]]
+- [[Pierre de la Salle]]
 
 ## Source
 

@@ -18,12 +18,12 @@ parent: "elders"
 
 Yahya al-Qamar imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's / Elders
-- **Foundry Name Note:** Malk
-- **Original Foundry Name:** Yahya al-Qamar (Malk)
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's / Elders
+- **Foundry name note:** Malk
+- **Original Foundry name:** Yahya al-Qamar (Malk)
 - **Advantages:** Willpower 3; Blood Pool 0/14
 
 ## Background
@@ -64,7 +64,7 @@ To aid in his search, Yahya has begun calling his scattered childer back to Prag
 
 **Knowledges:** Academics 2, Enigmas 4, Investigation 2, Occult 2
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Auspex** (0)
   Sudden Revelations

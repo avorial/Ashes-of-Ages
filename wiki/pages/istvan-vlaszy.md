@@ -1,7 +1,7 @@
 ---
 title: "Istvan Vlaszy"
 category: "character"
-summary: "Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire."
+summary: "Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "player-characters"]
 visibility: "players"
@@ -16,12 +16,12 @@ parent: "player-characters"
 
 ## Overview
 
-Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire.
+Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** Players
+- **Actor type:** Vampire
+- **Foundry folder:** Players
 - **Advantages:** Willpower 8; Blood Pool 4/20; humanity 6
 
 ## Appearance
@@ -32,7 +32,7 @@ Istvan is a tall, formidable knight with piercing eyes and a perpetually stern e
 
 From his youth, Istvan excelled in combat and diplomacy, showing an innate understanding of Tzimisce courtly dynamics. He embraced his role as both warrior and emissary, often sent as a trusted envoy to hostile lands or volatile courts. Istvan's loyalty to his Tzimisce master is unwavering, as the Blood Oath is deeply ingrained in his psyche and worldview. He firmly believes in the honor of servitude and sees his family's oath as a sacred commitment that binds him to his duty, even if it costs him his life.
 
-## Roleplaying Notes
+## Roleplaying notes
 
 Istvan sees himself as a defender of his family's legacy and a stalwart protector of his Tzimisce master's interests. His code of honor compels him to confront threats directly, and he has a disdain for deception and cowardice. Although he holds other revenant families in contempt--particularly the Bratovitch--he holds respect for anyone who values duty above all else. Istvan's personal ambition is to die in service, viewing it as the ultimate honor, although he harbors a silent regret for not having lived to see the Vlaszy family's role fully acknowledged in Tzimisce courts.
 
@@ -74,7 +74,7 @@ Istvan sees himself as a defender of his family's legacy and a stalwart protecto
 - **Spent experience**
   Quietus, Obfuscsate, and Celerity
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **Generation** (5)
   5
@@ -84,7 +84,7 @@ Istvan sees himself as a defender of his family's legacy and a stalwart protecto
 - **Rune Carved Sword**
   It will try to strike members of the pack first if in range
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Celerity** (0); V20 142
   Each point of Celerity adds one die to every Dexterity-related dice roll. In addition, the player can spend one blood point to take an extra action up to the number of dots he has in Celerity at the beginning of the relevant turn; this expenditure can go beyond her normal Generation maximum. Any dots used for extra actions, however, are no longer available for Dexterity-related rolls during that turn. These additional actions must be physical (e.g., the vampire cannot use a mental Discipline like Dominate multiple times in one turn), and extra actions occur at the end of the turn (the vampire's regular action still takes place per her initiative roll).

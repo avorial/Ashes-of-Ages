@@ -1,7 +1,7 @@
 ---
 title: "Oscar Markos"
 category: "npc"
-summary: "Oscar Markos imported from the Foundry Ashes of Ages world (Unfiled Actors, Vampire). Vampire."
+summary: "Oscar Markos imported from the Foundry Ashes of Ages world (Unfiled actors, Vampire). Vampire."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "unfiled-actors"]
 visibility: "gm"
@@ -13,12 +13,12 @@ parent: "unfiled-actors"
 
 ## Overview
 
-Oscar Markos imported from the Foundry Ashes of Ages world (Unfiled Actors, Vampire). Vampire.
+Oscar Markos imported from the Foundry Ashes of Ages world (Unfiled actors, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** Unfiled
+- **Actor type:** Vampire
+- **Foundry folder:** Unfiled
 - **Advantages:** Blood Pool 0/10
 
 ## Attributes
@@ -35,7 +35,7 @@ Oscar Markos imported from the Foundry Ashes of Ages world (Unfiled Actors, Vamp
 | Intelligence | 1 |
 | Wits | 1 |
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **New background** (1)
 - **Status** (3); VDA20 183

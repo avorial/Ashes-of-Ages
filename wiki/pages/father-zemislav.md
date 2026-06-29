@@ -1,7 +1,7 @@
 ---
 title: "Father Zemislav"
 category: "character"
-summary: "Father Zemislav imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Eye of the Storm | Demeanor: Bravo | Concept: False Inquisitor."
+summary: "Father Zemislav imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Eye of the Storm | Demeanor: Bravo | Concept: False Inquisitor."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "player-characters"]
 visibility: "players"
@@ -16,14 +16,14 @@ parent: "player-characters"
 
 ## Overview
 
-Father Zemislav imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Eye of the Storm | Demeanor: Bravo | Concept: False Inquisitor.
+Father Zemislav imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Eye of the Storm | Demeanor: Bravo | Concept: False Inquisitor.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** Players
-- **Foundry Name Note:** M.Kolb
-- **Original Foundry Name:** Father Zemislav (M.Kolb)
+- **Actor type:** Vampire
+- **Foundry folder:** Players
+- **Foundry name note:** M.Kolb
+- **Original Foundry name:** Father Zemislav (M.Kolb)
 - **Nature:** Eye of the Storm
 - **Demeanor:** Bravo
 - **Concept:** False Inquisitor
@@ -103,7 +103,7 @@ Heavy Iron Spikes
 - **Gained experience**
   Between Chronicle XP
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **Domain** (1)
 - **Herd** (2)
@@ -176,7 +176,7 @@ Heavy Iron Spikes
   Accuracy: Normal
   Damage: Str; knockdown
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Obtenebration** (0); V20 188
   **Note: **Vampires using Obtenebration can see through the darkness they control, though other vampires (even those that also have Obtenebration) cannot. Dreadful tales of rival Lasombra struggling to blind and smother each other with the same wisps of darkness circulate among young members of the Clan, though no elders have come forth to substantiate these claims.

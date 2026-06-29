@@ -18,10 +18,10 @@ parent: "revenants"
 
 Sabina Premysl imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Mortal
-- **Foundry Folder:** NPC's / Reventants
+- **Actor type:** Mortal
+- **Foundry folder:** NPC's / Reventants
 - **Advantages:** Blood Pool 0/10
 
 ## Appearance
@@ -32,7 +32,7 @@ Sabina is an emaciated, waifish figure with elongated limbs and an otherworldly 
 
 Sabina was born with a psychic connection to the slumbering Methuselah of Vysehrad. Since childhood, she has been plagued by dreams and visions, fragments of the Methuselah's ancient memories that seep into her consciousness. The Premysl elders recognized this ability and honed her prophetic talents, hoping to gain insights into the Methuselah's will. Over the years, she has acted as a seer for the family, offering cryptic warnings and guiding them through her disturbing visions.
 
-## Roleplaying Notes
+## Roleplaying notes
 
 Sabina believes she is meant to serve as the Methuselah's voice in Prague, interpreting its will and guiding her family in preparation for its reawakening. While she appears passive, she harbors a quiet ambition, wanting to ensure her role as the Methuselah's chosen oracle. She resents those who dismiss her visions and has a cold hatred for Christof, whose disruption brought chaos to her family. Sabina also secretly envies Kindred, longing for a more permanent power that would free her from her revenant fate.
 
@@ -50,7 +50,7 @@ Sabina believes she is meant to serve as the Methuselah's voice in Prague, inter
 | Intelligence | 1 |
 | Wits | 1 |
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Potence** (0); V20 192
   Each dot that the vampire has in Potence adds one die to all Strength-related dice rolls. Further, the player can spend one blood point and change his Potence dice into an equal number of automatic successes to all Strength-related rolls for the turn. In melee and brawling combat, successes from Potence (either rolled or automatic) are applied to the damage roll results.

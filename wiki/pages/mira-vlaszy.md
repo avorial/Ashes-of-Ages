@@ -18,10 +18,10 @@ parent: "revenants"
 
 Mira Vlaszy imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Mortal
-- **Foundry Folder:** NPC's / Reventants
+- **Actor type:** Mortal
+- **Foundry folder:** NPC's / Reventants
 - **Advantages:** Blood Pool 0/10
 
 ## Appearance
@@ -34,7 +34,7 @@ Mira was trained not only in war but in the intricate web of Tzimisce court intr
 
 Mira developed her Presence and Animalism abilities for subtle manipulation and reconnaissance. She is particularly skilled at using small animals, such as crows and mice, as her eyes and ears in distant places. Her calm, unshakable loyalty to her master is unquestionable, but her interactions with others are often marked by a degree of skepticism. She is aware that few share her unwavering commitment to honor.
 
-## Roleplaying Notes
+## Roleplaying notes
 
 Mira seeks to uphold her family's legacy by any means necessary, valuing duty over personal ambition. She is deeply loyal to the Tzimisce and despises betrayal or disloyalty. Though devoted, she harbors private doubts about the wisdom of serving only one master, given the fracturing alliances within Tzimisce society. In the back of her mind, Mira contemplates the possibility of securing an independent foothold for her family, preserving their name should the Tzimisce elders falter.
 

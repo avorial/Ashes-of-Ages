@@ -1,5 +1,5 @@
 ---
-title: "NPC Roster"
+title: "NPC roster"
 category: "npc"
 summary: "Top-level NPC roster imported from the Ashes of Ages Foundry world."
 status: "imported"
@@ -8,7 +8,7 @@ visibility: "gm"
 approvalStatus: "approved"
 knownToPlayers: false
 ---
-# NPC Roster
+# NPC roster
 
 Top-level NPC roster imported from the Ashes of Ages Foundry world.
 

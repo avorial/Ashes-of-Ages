@@ -18,10 +18,10 @@ parent: "chantry"
 
 Gargoyle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's / Chantry
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's / Chantry
 - **Advantages:** Willpower 6; Blood Pool 0/10; humanity 3
 
 ## Attributes
@@ -127,7 +127,7 @@ Gargoyle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampi
   Accuracy: Normal
   Damage: Strength
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Potence** (0); V20 192
   Each dot that the vampire has in Potence adds one die to all Strength-related dice rolls. Further, the player can spend one blood point and change his Potence dice into an equal number of automatic successes to all Strength-related rolls for the turn. In melee and brawling combat, successes from Potence (either rolled or automatic) are applied to the damage roll results.

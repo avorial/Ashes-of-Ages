@@ -18,10 +18,10 @@ parent: "chantry"
 
 Claas Drescher imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's / Chantry
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's / Chantry
 - **Advantages:** Blood Pool 0/10
 
 ## Attributes

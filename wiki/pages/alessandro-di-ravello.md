@@ -18,12 +18,12 @@ parent: "elders"
 
 Alessandro di Ravello imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's / Elders
-- **Foundry Name Note:** Lasombra
-- **Original Foundry Name:** Alessandro di Ravello (Lasombra)
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's / Elders
+- **Foundry name note:** Lasombra
+- **Original Foundry name:** Alessandro di Ravello (Lasombra)
 - **Advantages:** Willpower 5; Blood Pool 0/30
 
 ## Background
@@ -68,7 +68,7 @@ This has also led him to support the current prince and with those succeses has 
 
 **Knowledges:** Academics 1, Enigmas 1, Medicine 1, Occult 4
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Dominate** (0)
   Cainites with Dominate embody every legend about vampire hypnotism. With a simple glance, a master of Dominate breaks wills, enslaves minds, and robs both identity and memory from her victims. While Dominate is among the fiercest weapons in a vampire's arsenal, it possesses three inherent weaknesses. First, one cannot Dominate another Cainite of thicker blood, which is to say, characters cannot use Dominate on characters of lower Generations. Second, Dominate requires eye contact, with a brief moment where the vampire'sgaze can catch a glimpse of her victim's soul. Charactersavoiding the vampire's gaze can roll Willpower, difficulty equal to the vampire's Manipulation + Intimidation. Levy a -1 to the difficulty if he tries to hide his eyes, -2 if they're obscured, or -3 if his eyes are fully covered or not at all present (ripped out, for example). Finally, the vampire must be able to communicate her wishes in a way her victim understands. If they do not share a language, she may use gestures or imagery for simple commands. Dominate difficulties are equal to the victim's current Willpower points unless otherwise noted.
