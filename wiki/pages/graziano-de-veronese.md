@@ -34,3 +34,8 @@ Graziano de Veronese is a Lasombra revolutionary introduced by [[Jakub of Thessa
 - He says seven Cainites brought down the Lasombra founder.
 - He believes breaking blood bonds will collapse elder power structures from within.
 - [[Dalibor]] pledges support during the conversation.
+
+## Chronicle 1 finale notes
+
+- Challenges whether [[Istvan Vlaszy]] can participate in the new rites before Istvan's Embrace.
+- Present in the [[Fireflower Anarch Camp]] during the [[First Fireflower Valderie]] and planning around the [[Tremere Weapon Against Shagra]].

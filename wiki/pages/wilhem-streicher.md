@@ -97,3 +97,7 @@ Though he may forever remain an unusual Brujah, Wilhem Streicher is certain of o
 - Foundry world archive: aoe.zip
 - Actor ID: QEhzLoHZrowec3zW
 - Actor folder: NPC's
+
+## Chronicle 1 finale notes
+
+- Speaks with [[Jardani Jovonovich]] at the [[Night Market]] in [[Game 10]] about the Nosferatu curse, Cain, and brotherhood.

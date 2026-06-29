@@ -84,3 +84,7 @@ Borislav thrives on violence and believes the Premysl family should rule Prague'
 
 - [[Game 1]] - identified through contacts as a revenant who worked for [[Radomir Pavlovich]].
 - [[Game 2]] - named by Dragan/Sabina as part of the Premysl household.
+
+## Chronicle 1 finale notes
+
+- Confronts [[Istvan Vlaszy]] at [[Dragan Premysl's House]], accusing him of abandoning his sister and turning toward the enemies of his masters.

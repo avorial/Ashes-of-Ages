@@ -323,3 +323,12 @@ One evening, as she quietly emptied the ashes of a fireplace in one of the many 
 
 - In [[Game 7]], Katherine begins cataloging books from her sire's library for future removal and safekeeping.
 - She assists in interpreting Theodosia's crisis and the growing revolutionary danger.
+
+## Chronicle 1 finale notes
+
+- Researches [[Garinol Intelligence]].
+- Rescues and ghouls [[Rudolph the Clockwork Alchemist]].
+- Hides [[Katherine's Hidden Trunk]] in the river after the [[Orlok Assassination]].
+- Receives the [[Stake the Librarian Offer]].
+- Helps the pack escape the [[Niktuku Attack in Estonia]] during the epilogue.
+- Discussed as a possible abbot or haven-guardian in [[Pack Roles After Prague]].

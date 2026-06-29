@@ -339,3 +339,8 @@ Synesthetia
 
 - In [[Game 8]], Eliska sees the [[Impossible River]] and follows it to the [[Butcher Shop of the Impossible River]].
 - Meat purchased there later appears to be the heart of her dead husband.
+
+## Chronicle 1 finale notes
+
+- Participates in the Fireflower/Viniculum era of the pack.
+- Receives sensory impressions from the [[Hanged Men Blood Hospitality]] in [[Game 14]], including death-rattle and rigor imagery from the blood.

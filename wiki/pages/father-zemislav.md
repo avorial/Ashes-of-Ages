@@ -355,3 +355,10 @@ Heavy Iron Spikes
 - In [[Game 6]], Father Zemislav helps calm Theodosia during her Methuselah crisis and debates theology with [[Ecaterina the Wise]].
 - In [[Game 8]], he spreads the [[Alessandro Hussite Extremist Rumor]] to weaken his sire politically.
 - He becomes the Tremere's easiest public contact point for the coterie because of his lineage and role in Radomir's investigation.
+
+## Chronicle 1 finale notes
+
+- Looks into the [[Labyrinth Chasm]] with [[Theodosia Byzantios]].
+- Uses shadow tentacles during the [[Orlok Assassination]].
+- Crafts the [[Silver Fireflower Chalice]] and leads the [[First Fireflower Valderie]].
+- Becomes the pack priest in the post-Prague Sabbat identity described in [[Pack Roles After Prague]].

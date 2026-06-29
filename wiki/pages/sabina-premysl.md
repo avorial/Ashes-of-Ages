@@ -148,3 +148,8 @@ Related: [[Sabina's Abduction]]
 
 - Sabina's Embrace by the Tremere is confirmed as having happened off screen.
 - [[Dragan Premysl]] renews his hatred of the Tremere after learning this.
+
+## Chronicle 1 finale notes
+
+- The finale treats Sabina's Tremere Embrace as already complete but off screen.
+- The group theorizes in [[Sabina as Tremere Leverage]] that she may still carry Tzimisce/revenant influence and could be used to pressure the Tremere into deploying the [[Tremere Weapon Against Shagra]].

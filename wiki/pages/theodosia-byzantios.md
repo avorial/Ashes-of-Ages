@@ -388,3 +388,10 @@ Visions
 - [[Ecaterina the Wise]] calms her and shares visions of the [[Promethean Dream]].
 - In [[Game 7]], Theodosia's voice has changed and she can use Vicissitude; [[Dragan Premysl]] resets her voice.
 - In [[Game 8]], she helps investigate the [[Impossible River]] and the Tremere parley aftermath.
+
+## Chronicle 1 finale notes
+
+- Looks into the [[Labyrinth Chasm]] and suffers spiritual damage, leaving her eyes black-on-black.
+- Her tainted blood recoils during the [[First Fireflower Valderie]].
+- In [[Game 14]], she interprets the land-spirits through a Christian theological lens rather than simply calling them pagan.
+- Discussed as a possible abbot or seer figure in [[Pack Roles After Prague]], though her Tzimisce taint complicates leadership.

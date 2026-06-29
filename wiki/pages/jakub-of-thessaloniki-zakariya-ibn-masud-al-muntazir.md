@@ -101,3 +101,8 @@ Zakariya's tactics focused on isolating Zvi, cutting him off from his sources of
 - The corrected identification is Jakub of Thessaloniki.
 - In [[Game 5]], the coterie reports to [[Prince Josef Zvi]] that Jakub killed [[Radomir Pavlovich]].
 - Jakub later brings the coterie across the rooftops to [[Graziano de Veronese]].
+
+## Chronicle 1 finale notes
+
+- Performs [[Istvan's Banu Haqim Embrace]] at the [[Fireflower Anarch Camp]].
+- Helps define the pack's break from old elder bonds after the [[Night of Chaos]].

@@ -31,3 +31,7 @@ Malina is a werewolf recognized by description as a notorious figure of the regi
 
 - Her presence inside Prague is considered alarming because werewolves normally avoid cities.
 - Jardani initially tries to conceal her identity from the group.
+
+## Chronicle 1 finale notes
+
+- Steals or hides [[Istvan Vlaszy]]'s shoes and leaves [[Malina's Rune Sword]] in place of his weapon.

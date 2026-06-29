@@ -133,3 +133,8 @@ Despite his meticulous planning, Adrastos' manipulations have their dangers. His
 
 - In [[Game 5]], Adrastos explains [[Tremere as Prague Power Brokers]].
 - In [[Game 8]], the coterie discusses him as a possible elder target in the [[Elder Targets Plot]].
+
+## Chronicle 1 finale notes
+
+- Destroyed during the [[Orlok Assassination]] at the [[Three Keys Tavern]].
+- His death helps trigger the [[Night of Chaos]] and leaves Toreador rivals competing for position.
