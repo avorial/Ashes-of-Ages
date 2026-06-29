@@ -1,15 +1,22 @@
 ---
-title: "The Ones Who Kill"
-name: "The Ones Who Kill"
-category: "lore"
-summary: "The shadow creature's phrase for the forces connected to Radomir's killer."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: The Ones Who Kill
+summary: The shadow creature's phrase for the forces connected to Radomir's killer.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: The Ones Who Kill
+status: session-notes
+parent: session-lore
 ---
+
 # The Ones Who Kill
 
 ## Overview

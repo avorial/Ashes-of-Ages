@@ -1,15 +1,23 @@
 ---
-title: "Mira Vlaszy's Testimony"
-name: "Mira Vlaszy's Testimony"
-category: "lore"
-summary: "Mira explains her role in Radomir's Tremere dealings and why Sabina may still matter."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Mira Vlaszy's Testimony
+summary: Mira explains her role in Radomir's Tremere dealings and why Sabina may
+  still matter.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Mira Vlaszy's Testimony
+status: session-notes
+parent: session-lore
 ---
+
 # Mira Vlaszy's Testimony
 
 ## Overview

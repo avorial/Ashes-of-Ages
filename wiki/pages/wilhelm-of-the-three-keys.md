@@ -1,15 +1,22 @@
 ---
-title: "Wilhelm of the Three Keys"
-name: "Wilhelm of the Three Keys"
-category: "npc"
-summary: "The accused innkeeper of the Three Keys."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Wilhelm of the Three Keys
+summary: The accused innkeeper of the Three Keys.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Wilhelm of the Three Keys
+status: session-notes
+parent: npc-roster
 ---
+
 # Wilhelm of the Three Keys
 
 ## Overview

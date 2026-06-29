@@ -1,15 +1,22 @@
 ---
-title: "Spirit-Protective Bedding Runes"
-name: "Spirit-Protective Bedding Runes"
-category: "item"
-summary: "Runes on bedding used to resist possession."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-relics-and-documents"
+category: item
+type: item
+name: Spirit-Protective Bedding Runes
+summary: Runes on bedding used to resist possession.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Spirit-Protective Bedding Runes
+status: session-notes
+parent: session-relics-and-documents
 ---
+
 # Spirit-Protective Bedding Runes
 
 ## Overview

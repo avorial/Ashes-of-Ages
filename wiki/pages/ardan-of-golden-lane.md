@@ -1,16 +1,25 @@
 ---
-title: "Ardan of Golden Lane"
-name: "Ardan of Golden Lane"
-category: "npc"
-summary: "Ardan of Golden Lane imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "chantry"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Ardan-of-Golden-Lane.png"
-parent: "chantry"
+category: npc
+type: npc
+name: Ardan of Golden Lane
+summary: Ardan of Golden Lane imported from the Foundry Ashes of Ages world
+  (Chantry, Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - chantry
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Ardan of Golden Lane
+status: imported
+cover: Ardan-of-Golden-Lane.png
+parent: chantry
 ---
+
 # Ardan of Golden Lane
 
 ![Ardan of Golden Lane](/wiki/media/Ardan-of-Golden-Lane.png)

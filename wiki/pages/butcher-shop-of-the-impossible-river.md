@@ -1,15 +1,22 @@
 ---
-title: "Butcher Shop of the Impossible River"
-name: "Butcher Shop of the Impossible River"
-category: "location"
-summary: "The butcher shop where Eliska's impossible river begins."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Butcher Shop of the Impossible River
+summary: The butcher shop where Eliska's impossible river begins.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Butcher Shop of the Impossible River
+status: session-notes
+parent: prague-locations
 ---
+
 # Butcher Shop of the Impossible River
 
 ## Overview

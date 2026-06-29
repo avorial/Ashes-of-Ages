@@ -1,16 +1,25 @@
 ---
-title: "Borislav Premysl"
-name: "Borislav Premysl"
-category: "npc"
-summary: "Borislav Premysl imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "revenants"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Borislav-Premysl.jpg"
-parent: "revenants"
+category: npc
+type: npc
+name: Borislav Premysl
+summary: Borislav Premysl imported from the Foundry Ashes of Ages world
+  (Revenants, Mortal). Mortal.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - revenants
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Borislav Premysl
+status: imported
+cover: Borislav-Premysl.jpg
+parent: revenants
 ---
+
 # Borislav Premysl
 
 ![Borislav Premysl](/wiki/media/Borislav-Premysl.jpg)

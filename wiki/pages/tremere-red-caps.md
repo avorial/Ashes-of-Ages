@@ -1,15 +1,23 @@
 ---
-title: "Tremere Red Caps"
-name: "Tremere Red Caps"
-category: "lore"
-summary: "Red-capped messengers and servants are tied to Tremere mortal support networks rather than changeling redcaps."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Tremere Red Caps
+summary: Red-capped messengers and servants are tied to Tremere mortal support
+  networks rather than changeling redcaps.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tremere Red Caps
+status: session-notes
+parent: session-lore
 ---
+
 # Tremere Red Caps
 
 ## Overview

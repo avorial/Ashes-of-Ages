@@ -1,16 +1,25 @@
 ---
-title: "Wilhem Streicher"
-name: "Wilhem Streicher"
-category: "npc"
-summary: "Wilhem Streicher imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "npc-roster"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Wilhem-Streicher.jpg"
-parent: "npc-roster"
+category: npc
+type: npc
+name: Wilhem Streicher
+summary: Wilhem Streicher imported from the Foundry Ashes of Ages world (NPC
+  Roster, Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - npc-roster
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Wilhem Streicher
+status: imported
+cover: Wilhem-Streicher.jpg
+parent: npc-roster
 ---
+
 # Wilhem Streicher
 
 ![Wilhem Streicher](/wiki/media/Wilhem-Streicher.jpg)

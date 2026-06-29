@@ -1,15 +1,22 @@
 ---
-title: "Gregory's Raid Warning"
-name: "Gregory's Raid Warning"
-category: "lore"
-summary: "Gregory says a raid against outside forces is planned in three days."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Gregory's Raid Warning
+summary: Gregory says a raid against outside forces is planned in three days.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gregory's Raid Warning
+status: session-notes
+parent: session-lore
 ---
+
 # Gregory's Raid Warning
 
 ## Overview

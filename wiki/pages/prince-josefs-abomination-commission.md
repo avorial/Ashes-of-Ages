@@ -1,15 +1,23 @@
 ---
-title: "Prince Josef's Abomination Commission"
-name: "Prince Josef's Abomination Commission"
-category: "lore"
-summary: "Prince Josef asks the coterie to investigate whether Tremere-created abominations are a true threat to Prague."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Prince Josef's Abomination Commission
+summary: Prince Josef asks the coterie to investigate whether Tremere-created
+  abominations are a true threat to Prague.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Prince Josef's Abomination Commission
+status: session-notes
+parent: session-lore
 ---
+
 # Prince Josef's Abomination Commission
 
 ## Overview

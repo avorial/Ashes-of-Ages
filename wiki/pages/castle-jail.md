@@ -1,15 +1,22 @@
 ---
-title: "Castle Jail"
-name: "Castle Jail"
-category: "location"
-summary: "Where the suspected arsonist is held."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Castle Jail
+summary: Where the suspected arsonist is held.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Castle Jail
+status: session-notes
+parent: prague-locations
 ---
+
 # Castle Jail
 
 ## Overview

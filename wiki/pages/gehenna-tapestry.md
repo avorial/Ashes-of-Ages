@@ -1,15 +1,23 @@
 ---
-title: "Gehenna Tapestry"
-name: "Gehenna Tapestry"
-category: "item"
-summary: "A tapestry offered as payment that shows visions of Gehenna when blood is poured on it."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-relics-and-documents"
+category: item
+type: item
+name: Gehenna Tapestry
+summary: A tapestry offered as payment that shows visions of Gehenna when blood
+  is poured on it.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gehenna Tapestry
+status: session-notes
+parent: session-relics-and-documents
 ---
+
 # Gehenna Tapestry
 
 ## Overview

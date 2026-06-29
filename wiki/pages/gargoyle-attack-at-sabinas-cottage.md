@@ -1,15 +1,22 @@
 ---
-title: "Gargoyle Attack at Sabina's Cottage"
-name: "Gargoyle Attack at Sabina's Cottage"
-category: "lore"
-summary: "The cliffhanger ending of Game 2."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Gargoyle Attack at Sabina's Cottage
+summary: The cliffhanger ending of Game 2.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gargoyle Attack at Sabina's Cottage
+status: session-notes
+parent: session-lore
 ---
+
 # Gargoyle Attack at Sabina's Cottage
 
 ## Event

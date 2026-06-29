@@ -1,15 +1,22 @@
 ---
-title: "Timeline"
-name: "Timeline"
-category: "lore"
-summary: "Chronological notes from the first two Ashes of Ages sessions."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Timeline
+summary: Chronological notes from the first two Ashes of Ages sessions.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Timeline
+status: session-notes
+parent: session-lore
 ---
+
 # Timeline
 
 ## 1433 - Prague in crisis

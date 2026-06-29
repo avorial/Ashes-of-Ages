@@ -1,15 +1,22 @@
 ---
-title: "Istvan Vlaszy's House"
-name: "Istvan Vlaszy's House"
-category: "location"
-summary: "Courier/transport house visited in Game 2."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Istvan Vlaszy's House
+summary: Courier/transport house visited in Game 2.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Istvan Vlaszy's House
+status: session-notes
+parent: prague-locations
 ---
+
 # Istvan Vlaszy's House
 
 ## Overview

@@ -1,15 +1,23 @@
 ---
-title: "Game 5"
-name: "Game 5"
-category: "game"
-summary: "Session synopsis and lore extraction for Ashes of Ages Game 5."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages", "game-5"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: game
+type: game
+name: Game 5
+summary: Session synopsis and lore extraction for Ashes of Ages Game 5.
+tags:
+  - session-transcript
+  - ashes-of-ages
+  - game-5
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Game 5
+status: session-notes
+parent: session-lore
 ---
+
 # Game 5
 
 ## Synopsis

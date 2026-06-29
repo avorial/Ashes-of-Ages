@@ -1,15 +1,22 @@
 ---
-title: "Radomir's Tremere Correspondence"
-name: "Radomir's Tremere Correspondence"
-category: "item"
-summary: "Letters and notes about Tremere aggression."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-relics-and-documents"
+category: item
+type: item
+name: Radomir's Tremere Correspondence
+summary: Letters and notes about Tremere aggression.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Radomir's Tremere Correspondence
+status: session-notes
+parent: session-relics-and-documents
 ---
+
 # Radomir's Tremere Correspondence
 
 ## Overview

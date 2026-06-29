@@ -1,14 +1,21 @@
 ---
-title: "Revenants"
-name: "Revenants"
-category: "npc"
-summary: "Revenant NPCs imported from the Ashes of Ages Foundry world."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+category: npc
+type: npc
+name: Revenants
+summary: Revenant NPCs imported from the Ashes of Ages Foundry world.
+tags:
+  - foundry-import
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Revenants
+status: imported
 ---
+
 # Revenants
 
 Revenant NPCs imported from the Ashes of Ages Foundry world.

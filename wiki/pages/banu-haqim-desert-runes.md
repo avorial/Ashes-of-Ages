@@ -1,15 +1,22 @@
 ---
-title: "Banu Haqim Desert Runes"
-name: "Banu Haqim Desert Runes"
-category: "lore"
-summary: "The Arabic/blood-rune clue identified at the scriptorium."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Banu Haqim Desert Runes
+summary: The Arabic/blood-rune clue identified at the scriptorium.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Banu Haqim Desert Runes
+status: session-notes
+parent: session-lore
 ---
+
 # Banu Haqim Desert Runes
 
 ## Confirmed facts

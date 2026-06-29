@@ -1,17 +1,25 @@
 ---
-title: "Game 1"
-name: "Game 1"
-category: "game"
-summary: "The coterie is summoned to Millie's Tavern, receives the mandate to investigate Radomir Pavlovich's death, and searches his compromised haven."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+category: game
+type: game
+name: Game 1
+summary: The coterie is summoned to Millie's Tavern, receives the mandate to
+  investigate Radomir Pavlovich's death, and searches his compromised haven.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Game 1
+status: session-notes
 eventDate: "1433"
 timelineDate: "1433"
-sourceImport: "wiki/imports/transcripts/game-1.md"
+sourceImport: wiki/imports/transcripts/game-1.md
 ---
+
 # Game 1
 
 ## Synopsis

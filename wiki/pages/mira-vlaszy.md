@@ -1,16 +1,25 @@
 ---
-title: "Mira Vlaszy"
-name: "Mira Vlaszy"
-category: "npc"
-summary: "Mira Vlaszy imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "revenants"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Mira-Vlaszy.jpg"
-parent: "revenants"
+category: npc
+type: npc
+name: Mira Vlaszy
+summary: Mira Vlaszy imported from the Foundry Ashes of Ages world (Revenants,
+  Mortal). Mortal.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - revenants
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Mira Vlaszy
+status: imported
+cover: Mira-Vlaszy.jpg
+parent: revenants
 ---
+
 # Mira Vlaszy
 
 ![Mira Vlaszy](/wiki/media/Mira-Vlaszy.jpg)

@@ -1,15 +1,23 @@
 ---
-title: "Game 3"
-name: "Game 3"
-category: "game"
-summary: "Session synopsis and lore extraction for Ashes of Ages Game 3."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages", "game-3"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: game
+type: game
+name: Game 3
+summary: Session synopsis and lore extraction for Ashes of Ages Game 3.
+tags:
+  - session-transcript
+  - ashes-of-ages
+  - game-3
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Game 3
+status: session-notes
+parent: session-lore
 ---
+
 # Game 3
 
 ## Synopsis

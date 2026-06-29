@@ -1,16 +1,26 @@
 ---
-title: "Jardani Jovonovich"
-name: "Jardani Jovonovich"
-category: "character"
-summary: "Jardani Jovonovich imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Architect | Demeanor: Defender."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "player-characters"]
-visibility: "players"
-approvalStatus: "approved"
+category: character
+type: character
+name: Jardani Jovonovich
+summary: "Jardani Jovonovich imported from the Foundry Ashes of Ages world
+  (Player Characters, Vampire). Vampire | Nature: Architect | Demeanor:
+  Defender."
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - player-characters
+visibility: players
+approvalStatus: approved
 knownToPlayers: true
-cover: "Jardani-Jovonovich.png"
-parent: "player-characters"
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Jardani Jovonovich
+status: imported
+cover: Jardani-Jovonovich.png
+parent: player-characters
 ---
+
 # Jardani Jovonovich
 
 ![Jardani Jovonovich](/wiki/media/Jardani-Jovonovich.png)

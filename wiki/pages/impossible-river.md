@@ -1,15 +1,23 @@
 ---
-title: "Impossible River"
-name: "Impossible River"
-category: "lore"
-summary: "Eliska sees a moonlit river that no one else sees normally, leading to a butcher shop and a personal omen."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Impossible River
+summary: Eliska sees a moonlit river that no one else sees normally, leading to
+  a butcher shop and a personal omen.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Impossible River
+status: session-notes
+parent: session-lore
 ---
+
 # Impossible River
 
 ## Overview

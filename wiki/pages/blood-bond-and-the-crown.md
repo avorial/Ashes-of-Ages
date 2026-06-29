@@ -1,15 +1,23 @@
 ---
-title: "Blood Bond and the Crown"
-name: "Blood Bond and the Crown"
-category: "lore"
-summary: "Jakub frames the blood bond as the chain created by the Crown or Crone in Noddist myth."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Blood Bond and the Crown
+summary: Jakub frames the blood bond as the chain created by the Crown or Crone
+  in Noddist myth.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Blood Bond and the Crown
+status: session-notes
+parent: session-lore
 ---
+
 # Blood Bond and the Crown
 
 ## Overview

@@ -1,16 +1,25 @@
 ---
-title: "Garinol"
-name: "Garinol"
-category: "npc"
-summary: "Garinol imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "npc-roster"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Garinol.png"
-parent: "npc-roster"
+category: npc
+type: npc
+name: Garinol
+summary: Garinol imported from the Foundry Ashes of Ages world (NPC Roster,
+  Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - npc-roster
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Garinol
+status: imported
+cover: Garinol.png
+parent: npc-roster
 ---
+
 # Garinol
 
 ![Garinol](/wiki/media/Garinol.png)

@@ -1,15 +1,22 @@
 ---
-title: "Dragan Premysl's House"
-name: "Dragan Premysl's House"
-category: "location"
-summary: "Premysl household visited in Game 2."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Dragan Premysl's House
+summary: Premysl household visited in Game 2.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Dragan Premysl's House
+status: session-notes
+parent: prague-locations
 ---
+
 # Dragan Premysl's House
 
 ## Overview

@@ -1,15 +1,22 @@
 ---
-title: "Mortal Sheriff of Prague"
-name: "Mortal Sheriff of Prague"
-category: "npc"
-summary: "A mortal law officer who begins a justice-for-favors relationship with Dalibor."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Mortal Sheriff of Prague
+summary: A mortal law officer who begins a justice-for-favors relationship with Dalibor.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Mortal Sheriff of Prague
+status: session-notes
+parent: npc-roster
 ---
+
 # Mortal Sheriff of Prague
 
 ## Overview

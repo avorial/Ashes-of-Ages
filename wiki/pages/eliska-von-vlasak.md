@@ -1,16 +1,26 @@
 ---
-title: "Eliska von Vlasak"
-name: "Eliska von Vlasak"
-category: "character"
-summary: "Eliska von Vlasak imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Visionary | Demeanor: Bon Vivant | Concept: Bon Vivant."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "player-characters"]
-visibility: "players"
-approvalStatus: "approved"
+category: character
+type: character
+name: Eliska von Vlasak
+summary: "Eliska von Vlasak imported from the Foundry Ashes of Ages world
+  (Player Characters, Vampire). Vampire | Nature: Visionary | Demeanor: Bon
+  Vivant | Concept: Bon Vivant."
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - player-characters
+visibility: players
+approvalStatus: approved
 knownToPlayers: true
-cover: "Eliska-von-Vlasak.png"
-parent: "player-characters"
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Eliska von Vlasak
+status: imported
+cover: Eliska-von-Vlasak.png
+parent: player-characters
 ---
+
 # Eliska von Vlasak
 
 ![Eliska von Vlasak](/wiki/media/Eliska-von-Vlasak.png)

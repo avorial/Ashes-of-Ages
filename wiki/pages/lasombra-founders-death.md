@@ -1,15 +1,23 @@
 ---
-title: "Lasombra Founder's Death"
-name: "Lasombra Founder's Death"
-category: "lore"
-summary: "Recent rumors and table clarification connect Lasombra upheaval to the destruction of the Lasombra founder."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Lasombra Founder's Death
+summary: Recent rumors and table clarification connect Lasombra upheaval to the
+  destruction of the Lasombra founder.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Lasombra Founder's Death
+status: session-notes
+parent: session-lore
 ---
+
 # Lasombra Founder's Death
 
 ## Overview

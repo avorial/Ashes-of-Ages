@@ -1,15 +1,23 @@
 ---
-title: "Public Elysium"
-name: "Public Elysium"
-category: "location"
-summary: "The public Elysium where the coterie sees Tremere presence after Sabina's abduction."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Public Elysium
+summary: The public Elysium where the coterie sees Tremere presence after
+  Sabina's abduction.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Public Elysium
+status: session-notes
+parent: prague-locations
 ---
+
 # Public Elysium
 
 ## Overview

@@ -1,16 +1,25 @@
 ---
-title: "Theodosia Byzantios"
-name: "Theodosia Byzantios"
-category: "character"
-summary: "Theodosia Byzantios imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Fanatic | Demeanor: Penitent."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "player-characters"]
-visibility: "players"
-approvalStatus: "approved"
+category: character
+type: character
+name: Theodosia Byzantios
+summary: "Theodosia Byzantios imported from the Foundry Ashes of Ages world
+  (Player Characters, Vampire). Vampire | Nature: Fanatic | Demeanor: Penitent."
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - player-characters
+visibility: players
+approvalStatus: approved
 knownToPlayers: true
-cover: "Theodosia-Byzantios.png"
-parent: "player-characters"
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Theodosia Byzantios
+status: imported
+cover: Theodosia-Byzantios.png
+parent: player-characters
 ---
+
 # Theodosia Byzantios
 
 ![Theodosia Byzantios](/wiki/media/Theodosia-Byzantios.png)

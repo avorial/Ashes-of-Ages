@@ -1,15 +1,22 @@
 ---
-title: "Stone of Hearts Wandering"
-name: "Stone of Hearts Wandering"
-category: "item"
-summary: "Tzimisce relic found in Radomir's haven."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-relics-and-documents"
+category: item
+type: item
+name: Stone of Hearts Wandering
+summary: Tzimisce relic found in Radomir's haven.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Stone of Hearts Wandering
+status: session-notes
+parent: session-relics-and-documents
 ---
+
 # Stone of Hearts Wandering
 
 ## Overview

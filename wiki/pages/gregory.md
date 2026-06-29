@@ -1,15 +1,23 @@
 ---
-title: "Gregory"
-name: "Gregory"
-category: "npc"
-summary: "A Ventrue at the Three Keys who dislikes Prince Josef and shares court intelligence."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Gregory
+summary: A Ventrue at the Three Keys who dislikes Prince Josef and shares court
+  intelligence.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gregory
+status: session-notes
+parent: npc-roster
 ---
+
 # Gregory
 
 ## Overview

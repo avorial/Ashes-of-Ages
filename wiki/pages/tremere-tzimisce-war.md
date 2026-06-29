@@ -1,15 +1,22 @@
 ---
-title: "Tremere-Tzimisce War"
-name: "Tremere-Tzimisce War"
-category: "lore"
-summary: "The war and suspicion surrounding Radomir's correspondence."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Tremere-Tzimisce War
+summary: The war and suspicion surrounding Radomir's correspondence.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tremere-Tzimisce War
+status: session-notes
+parent: session-lore
 ---
+
 # Tremere-Tzimisce War
 
 ## Confirmed facts

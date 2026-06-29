@@ -1,15 +1,23 @@
 ---
-title: "Graziano de Veronese"
-name: "Graziano de Veronese"
-category: "npc"
-summary: "A Lasombra revolutionary who helped destroy the Lasombra founder and advocates the Fireflower."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Graziano de Veronese
+summary: A Lasombra revolutionary who helped destroy the Lasombra founder and
+  advocates the Fireflower.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Graziano de Veronese
+status: session-notes
+parent: npc-roster
 ---
+
 # Graziano de Veronese
 
 ## Overview

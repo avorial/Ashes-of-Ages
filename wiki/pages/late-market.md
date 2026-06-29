@@ -1,15 +1,22 @@
 ---
-title: "Late Market"
-name: "Late Market"
-category: "location"
-summary: "Market that remains active after dark."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Late Market
+summary: Market that remains active after dark.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Late Market
+status: session-notes
+parent: prague-locations
 ---
+
 # Late Market
 
 ## Overview

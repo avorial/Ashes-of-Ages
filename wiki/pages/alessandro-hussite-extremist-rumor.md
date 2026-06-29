@@ -1,15 +1,23 @@
 ---
-title: "Alessandro Hussite Extremist Rumor"
-name: "Alessandro Hussite Extremist Rumor"
-category: "lore"
-summary: "Father Zemislav begins tying Alessandro to Hussite extremists to weaken him politically."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Alessandro Hussite Extremist Rumor
+summary: Father Zemislav begins tying Alessandro to Hussite extremists to weaken
+  him politically.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Alessandro Hussite Extremist Rumor
+status: session-notes
+parent: session-lore
 ---
+
 # Alessandro Hussite Extremist Rumor
 
 ## Overview

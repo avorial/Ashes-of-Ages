@@ -1,15 +1,22 @@
 ---
-title: "Church of Our Lady Before Tyn"
-name: "Church of Our Lady Before Tyn"
-category: "location"
-summary: "Church near the investigated area."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Church of Our Lady Before Tyn
+summary: Church near the investigated area.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Church of Our Lady Before Tyn
+status: session-notes
+parent: prague-locations
 ---
+
 # Church of Our Lady Before Tyn
 
 ## Overview

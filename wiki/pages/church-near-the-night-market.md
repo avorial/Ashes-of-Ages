@@ -1,15 +1,22 @@
 ---
-title: "Church Near the Night Market"
-name: "Church Near the Night Market"
-category: "location"
-summary: "The church where Theodosia is calmed and the coterie meets Ecaterina."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Church Near the Night Market
+summary: The church where Theodosia is calmed and the coterie meets Ecaterina.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Church Near the Night Market
+status: session-notes
+parent: prague-locations
 ---
+
 # Church Near the Night Market
 
 ## Overview

@@ -1,15 +1,23 @@
 ---
-title: "Elder Targets Plot"
-name: "Elder Targets Plot"
-category: "lore"
-summary: "The coterie discusses taking the Fireflower and moving against elders inside Prague."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Elder Targets Plot
+summary: The coterie discusses taking the Fireflower and moving against elders
+  inside Prague.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Elder Targets Plot
+status: session-notes
+parent: session-lore
 ---
+
 # Elder Targets Plot
 
 ## Overview

@@ -1,15 +1,23 @@
 ---
-title: "The Librarian"
-name: "The Librarian"
-category: "npc"
-summary: "A Nosferatu elder or information broker tied to Katherine and Prague's hidden archives."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: The Librarian
+summary: A Nosferatu elder or information broker tied to Katherine and Prague's
+  hidden archives.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: The Librarian
+status: session-notes
+parent: npc-roster
 ---
+
 # The Librarian
 
 ## Overview

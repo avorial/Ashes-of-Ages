@@ -1,15 +1,23 @@
 ---
-title: "Book of Koldun Exorcery"
-name: "Book of Koldun Exorcery"
-category: "item"
-summary: "A Koldunic text given to the Librarian as payment for arranging a meeting with Prince Josef."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-relics-and-documents"
+category: item
+type: item
+name: Book of Koldun Exorcery
+summary: A Koldunic text given to the Librarian as payment for arranging a
+  meeting with Prince Josef.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Book of Koldun Exorcery
+status: session-notes
+parent: session-relics-and-documents
 ---
+
 # Book of Koldun Exorcery
 
 ## Overview

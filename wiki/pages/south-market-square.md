@@ -1,15 +1,22 @@
 ---
-title: "South Market Square"
-name: "South Market Square"
-category: "location"
-summary: "Site of the radical Hussite meeting lead."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: South Market Square
+summary: Site of the radical Hussite meeting lead.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: South Market Square
+status: session-notes
+parent: prague-locations
 ---
+
 # South Market Square
 
 ## Overview

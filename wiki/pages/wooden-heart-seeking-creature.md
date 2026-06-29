@@ -1,15 +1,22 @@
 ---
-title: "Wooden Heart-Seeking Creature"
-name: "Wooden Heart-Seeking Creature"
-category: "lore"
-summary: "A blood-magic wooden creature pursues Dragan's heart after the Chantry raid."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Wooden Heart-Seeking Creature
+summary: A blood-magic wooden creature pursues Dragan's heart after the Chantry raid.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Wooden Heart-Seeking Creature
+status: session-notes
+parent: session-lore
 ---
+
 # Wooden Heart-Seeking Creature
 
 ## Overview

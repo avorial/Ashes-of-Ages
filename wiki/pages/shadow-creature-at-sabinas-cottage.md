@@ -1,15 +1,23 @@
 ---
-title: "Shadow Creature at Sabina's Cottage"
-name: "Shadow Creature at Sabina's Cottage"
-category: "lore"
-summary: "A shadow entity answers questions after the failed or co-opted ritual at Sabina's cottage."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Shadow Creature at Sabina's Cottage
+summary: A shadow entity answers questions after the failed or co-opted ritual
+  at Sabina's cottage.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Shadow Creature at Sabina's Cottage
+status: session-notes
+parent: session-lore
 ---
+
 # Shadow Creature at Sabina's Cottage
 
 ## Overview

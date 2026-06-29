@@ -1,15 +1,22 @@
 ---
-title: "Tremere Castle Near Prague"
-name: "Tremere Castle Near Prague"
-category: "location"
-summary: "Tremere-influenced location near the courier route."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Tremere Castle Near Prague
+summary: Tremere-influenced location near the courier route.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tremere Castle Near Prague
+status: session-notes
+parent: prague-locations
 ---
+
 # Tremere Castle Near Prague
 
 ## Overview

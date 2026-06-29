@@ -1,15 +1,23 @@
 ---
-title: "Radomir's Cainite Sales to the Tremere"
-name: "Radomir's Cainite Sales to the Tremere"
-category: "lore"
-summary: "Radomir sold Cainites or bodies to the Tremere in exchange for magical secrets and war knowledge."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Radomir's Cainite Sales to the Tremere
+summary: Radomir sold Cainites or bodies to the Tremere in exchange for magical
+  secrets and war knowledge.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Radomir's Cainite Sales to the Tremere
+status: session-notes
+parent: session-lore
 ---
+
 # Radomir's Cainite Sales to the Tremere
 
 ## Overview

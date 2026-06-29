@@ -1,15 +1,22 @@
 ---
-title: "Prague"
-name: "Prague"
-category: "location"
-summary: "Campaign city and political pressure cooker."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Prague
+summary: Campaign city and political pressure cooker.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Prague
+status: session-notes
+parent: prague-locations
 ---
+
 # Prague
 
 ## Overview

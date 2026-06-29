@@ -1,15 +1,22 @@
 ---
-title: "Malina"
-name: "Malina"
-category: "npc"
-summary: "A notorious local werewolf and Jardani's lover."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Malina
+summary: A notorious local werewolf and Jardani's lover.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Malina
+status: session-notes
+parent: npc-roster
 ---
+
 # Malina
 
 ## Overview

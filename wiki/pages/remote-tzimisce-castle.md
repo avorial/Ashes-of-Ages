@@ -1,15 +1,22 @@
 ---
-title: "Remote Tzimisce Castle"
-name: "Remote Tzimisce Castle"
-category: "location"
-summary: "Castle four hours north tied to Istvan's courier route."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Remote Tzimisce Castle
+summary: Castle four hours north tied to Istvan's courier route.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Remote Tzimisce Castle
+status: session-notes
+parent: prague-locations
 ---
+
 # Remote Tzimisce Castle
 
 ## Overview

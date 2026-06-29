@@ -1,16 +1,25 @@
 ---
-title: "Tobias Doubravský"
-name: "Tobias Doubravský"
-category: "npc"
-summary: "Tobias Doubravský imported from the Foundry Ashes of Ages world (Unfiled Actors, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "unfiled-actors"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Tobias-Doubravsky.jpg"
-parent: "unfiled-actors"
+category: npc
+type: npc
+name: Tobias Doubravský
+summary: Tobias Doubravský imported from the Foundry Ashes of Ages world
+  (Unfiled Actors, Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - unfiled-actors
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tobias Doubravský
+status: imported
+cover: Tobias-Doubravsky.jpg
+parent: unfiled-actors
 ---
+
 # Tobias Doubravský
 
 ![Tobias Doubravský](/wiki/media/Tobias-Doubravsky.jpg)

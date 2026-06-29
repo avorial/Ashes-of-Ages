@@ -1,15 +1,23 @@
 ---
-title: "Ari"
-name: "Ari"
-category: "npc"
-summary: "A wounded mortal servant of Prince Josef who escorts the coterie into the Jewish Quarter."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Ari
+summary: A wounded mortal servant of Prince Josef who escorts the coterie into
+  the Jewish Quarter.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Ari
+status: session-notes
+parent: npc-roster
 ---
+
 # Ari
 
 ## Overview

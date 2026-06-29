@@ -1,16 +1,25 @@
 ---
-title: "Adrastos von Orlok"
-name: "Adrastos von Orlok"
-category: "npc"
-summary: "Adrastos von Orlok imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "elders"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Adrastos-von-Orlok.png"
-parent: "elders"
+category: npc
+type: npc
+name: Adrastos von Orlok
+summary: Adrastos von Orlok imported from the Foundry Ashes of Ages world
+  (Elders, Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - elders
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Adrastos von Orlok
+status: imported
+cover: Adrastos-von-Orlok.png
+parent: elders
 ---
+
 # Adrastos von Orlok
 
 ![Adrastos von Orlok](/wiki/media/Adrastos-von-Orlok.png)

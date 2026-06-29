@@ -1,15 +1,22 @@
 ---
-title: "Adonis"
-name: "Adonis"
-category: "npc"
-summary: "An ancient Greek Gangrel living on an island in the river."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Adonis
+summary: An ancient Greek Gangrel living on an island in the river.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Adonis
+status: session-notes
+parent: npc-roster
 ---
+
 # Adonis
 
 ## Overview
