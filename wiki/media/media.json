@@ -1,1 +1,252 @@
-{}
+[
+  {
+    "file": "Dragan-Premysl.jpg",
+    "type": "image",
+    "alt": "Dragan Premysl",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Theodosia-Byzantios.png",
+    "type": "image",
+    "alt": "Theodosia Byzantios",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Eliska-von-Vlasak.png",
+    "type": "image",
+    "alt": "Eliska von Vlasak",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Istvan-Vlaszy.jpg",
+    "type": "image",
+    "alt": "Istvan Vlaszy",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Katherine-Karalova.jpeg",
+    "type": "image",
+    "alt": "Katherine Karalova",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Pierre-De-La-Salle.png",
+    "type": "image",
+    "alt": "Pierre De La Salle",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Sebik-Prazsky.jpg",
+    "type": "image",
+    "alt": "Sebik Prazsky",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Garinol.png",
+    "type": "image",
+    "alt": "Garinol",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Borislav-Premysl.jpg",
+    "type": "image",
+    "alt": "Borislav Premysl",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Ardan-of-Golden-Lane.png",
+    "type": "image",
+    "alt": "Ardan of Golden Lane",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Wilhem-Streicher.jpg",
+    "type": "image",
+    "alt": "Wilhem Streicher",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Alessandro-di-Ravello.png",
+    "type": "image",
+    "alt": "Alessandro di Ravello",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Sabina-Premysl.jpg",
+    "type": "image",
+    "alt": "Sabina Premysl",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Gargoyle.png",
+    "type": "image",
+    "alt": "Gargoyle",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Prince-Josef-Zvi.jpg",
+    "type": "image",
+    "alt": "Prince Josef Zvi",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Claas-Drescher.jpg",
+    "type": "image",
+    "alt": "Claas Drescher",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Adrastos-von-Orlok.png",
+    "type": "image",
+    "alt": "Adrastos von Orlok",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Ecaterina-the-Wise.png",
+    "type": "image",
+    "alt": "Ecaterina the Wise",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Mira-Vlaszy.jpg",
+    "type": "image",
+    "alt": "Mira Vlaszy",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Tobias-Doubravsky.jpg",
+    "type": "image",
+    "alt": "Tobias Doubravsky",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Father-Zemislav.jpeg",
+    "type": "image",
+    "alt": "Father Zemislav",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Jardani-Jovonovich.png",
+    "type": "image",
+    "alt": "Jardani Jovonovich",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Dalibor.jpg",
+    "type": "image",
+    "alt": "Dalibor",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Yahya-al-Qamar.png",
+    "type": "image",
+    "alt": "Yahya al Qamar",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  },
+  {
+    "file": "Jakub-of-Thessaloniki-Zakariya-ibn-Masud-al-Muntazir.jpg",
+    "type": "image",
+    "alt": "Jakub of Thessaloniki Zakariya ibn Masud al Muntazir",
+    "caption": "Imported Foundry portrait",
+    "tags": [
+      "foundry-import",
+      "ashes-of-ages"
+    ]
+  }
+]
