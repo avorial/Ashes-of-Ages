@@ -1,16 +1,17 @@
 ---
-title: "NPC roster"
+title: "NPC Roster"
+name: "NPC Roster"
 category: "npc"
-summary: "Top-level NPC roster imported from the Ashes of Ages Foundry world."
+summary: "Top-level NPC Roster imported from the Ashes of Ages Foundry world."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages"]
 visibility: "gm"
 approvalStatus: "approved"
 knownToPlayers: false
 ---
-# NPC roster
+# NPC Roster
 
-Top-level NPC roster imported from the Ashes of Ages Foundry world.
+Top-level NPC Roster imported from the Ashes of Ages Foundry world.
 
 ## Pages
 

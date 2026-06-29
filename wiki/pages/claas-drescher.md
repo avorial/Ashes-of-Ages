@@ -1,5 +1,6 @@
 ---
 title: "Claas Drescher"
+name: "Claas Drescher"
 category: "npc"
 summary: "Claas Drescher imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire."
 status: "imported"

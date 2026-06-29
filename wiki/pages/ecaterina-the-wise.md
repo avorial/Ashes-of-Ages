@@ -1,7 +1,8 @@
 ---
 title: "Ecaterina the Wise"
+name: "Ecaterina the Wise"
 category: "npc"
-summary: "Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC roster, Vampire). Vampire."
+summary: "Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "npc-roster"]
 visibility: "gm"
@@ -16,7 +17,7 @@ parent: "npc-roster"
 
 ## Overview
 
-Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC roster, Vampire). Vampire.
+Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire.
 
 ## Foundry details
 

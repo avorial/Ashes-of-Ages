@@ -1,5 +1,6 @@
 ---
 title: "Sebík Pražský"
+name: "Sebík Pražský"
 category: "npc"
 summary: "Sebík Pražský imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
 status: "imported"

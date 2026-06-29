@@ -1,5 +1,6 @@
-﻿---
-title: "Unfiled actors"
+---
+title: "Unfiled Actors"
+name: "Unfiled Actors"
 category: "npc"
 summary: "Top-level actor records that were not assigned to a Foundry folder."
 status: "imported"
@@ -8,7 +9,7 @@ visibility: "gm"
 approvalStatus: "approved"
 knownToPlayers: false
 ---
-# Unfiled actors
+# Unfiled Actors
 
 Top-level actor records that were not assigned to a Foundry folder.
 

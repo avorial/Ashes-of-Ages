@@ -1,7 +1,8 @@
 ---
 title: "Istvan Vlaszy"
+name: "Istvan Vlaszy"
 category: "character"
-summary: "Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire."
+summary: "Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "player-characters"]
 visibility: "players"
@@ -16,7 +17,7 @@ parent: "player-characters"
 
 ## Overview
 
-Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire.
+Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire.
 
 ## Foundry details
 

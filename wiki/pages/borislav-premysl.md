@@ -1,5 +1,6 @@
 ---
 title: "Borislav Premysl"
+name: "Borislav Premysl"
 category: "npc"
 summary: "Borislav Premysl imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal."
 status: "imported"

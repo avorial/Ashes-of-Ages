@@ -1,7 +1,8 @@
 ---
 title: "Wilhem Streicher"
+name: "Wilhem Streicher"
 category: "npc"
-summary: "Wilhem Streicher imported from the Foundry Ashes of Ages world (NPC roster, Vampire). Vampire."
+summary: "Wilhem Streicher imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "npc-roster"]
 visibility: "gm"
@@ -16,7 +17,7 @@ parent: "npc-roster"
 
 ## Overview
 
-Wilhem Streicher imported from the Foundry Ashes of Ages world (NPC roster, Vampire). Vampire.
+Wilhem Streicher imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire.
 
 ## Foundry details
 

@@ -1,5 +1,6 @@
 ---
 title: "Prince Josef Zvi"
+name: "Prince Josef Zvi"
 category: "npc"
 summary: "Prince Josef Zvi imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
 status: "imported"

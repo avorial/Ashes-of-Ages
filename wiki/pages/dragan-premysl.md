@@ -1,5 +1,6 @@
 ---
 title: "Dragan Premysl"
+name: "Dragan Premysl"
 category: "npc"
 summary: "Dragan Premysl imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal."
 status: "imported"

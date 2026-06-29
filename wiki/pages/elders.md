@@ -1,5 +1,6 @@
 ---
 title: "Elders"
+name: "Elders"
 category: "npc"
 summary: "Elder NPCs imported from the Ashes of Ages Foundry world."
 status: "imported"

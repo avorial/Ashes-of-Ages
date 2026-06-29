@@ -1,5 +1,6 @@
 ---
 title: "Marcus Jonak"
+name: "Marcus Jonak"
 category: "npc"
 summary: "Marcus Jonak imported from the Foundry Ashes of Ages world (Main, Vampire). Vampire."
 status: "imported"

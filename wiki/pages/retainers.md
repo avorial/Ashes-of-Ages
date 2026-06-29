@@ -1,5 +1,6 @@
 ---
 title: "Retainers"
+name: "Retainers"
 category: "npc"
 summary: "Retainer NPCs and creatures imported from the Ashes of Ages Foundry world."
 status: "imported"
@@ -14,7 +15,7 @@ Retainer NPCs and creatures imported from the Ashes of Ages Foundry world.
 
 ## Pages
 
-- [[Horse, large [trained]]]
+- [[Horse, Large [Trained]]]
 
 ## Source
 

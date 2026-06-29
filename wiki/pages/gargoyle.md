@@ -1,5 +1,6 @@
 ---
 title: "Gargoyle"
+name: "Gargoyle"
 category: "npc"
 summary: "Gargoyle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire."
 status: "imported"
