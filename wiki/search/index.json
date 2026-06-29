@@ -5984,29 +5984,6 @@
     "keyLinks": []
   },
   {
-    "id": "8:retainers",
-    "campaignId": 8,
-    "campaignName": "Ashes of Ages",
-    "slug": "retainers",
-    "title": "Retainers",
-    "category": "npc",
-    "summary": "Retainer NPCs and creatures imported from the Ashes of Ages Foundry world.",
-    "tags": [
-      "foundry-import",
-      "ashes-of-ages"
-    ],
-    "aliases": [],
-    "visibility": "players",
-    "approvalStatus": "approved",
-    "text": "# Retainers\n\nRetainer NPCs and creatures imported from the Ashes of Ages Foundry world.\n\n## Pages\n\n- [[Horse, Large [Trained]]]\n\n## Source\n\n- Foundry world: Ashes of Ages (aoe.zip)\n",
-    "playerText": "# Retainers\n\nRetainer NPCs and creatures imported from the Ashes of Ages Foundry world.\n\n## Pages\n\n- [[Horse, Large [Trained]]]\n\n## Source\n\n- Foundry world: Ashes of Ages (aoe.zip)\n",
-    "links": [
-      "Horse, Large [Trained"
-    ],
-    "backlinks": [],
-    "keyLinks": []
-  },
-  {
     "id": "8:revenants",
     "campaignId": 8,
     "campaignName": "Ashes of Ages",
