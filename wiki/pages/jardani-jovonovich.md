@@ -306,3 +306,8 @@ Ar
 ## Game 3-4 notes
 
 - In [[Game 3]], Jardani forces the gargoyle's wings apart at Sabina's cottage and later follows upward far enough to see Sabina carried north by a floating Cainite.
+
+## Game 5-8 notes
+
+- In [[Game 6]], [[Cosimus]] recognizes Jardani as connected to the Prometheans.
+- In [[Game 7]], [[Malina]] ambushes and tests him near the [[Night Market]], later revealed to be his lover.

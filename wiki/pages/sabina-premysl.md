@@ -134,3 +134,8 @@ Sabina believes she is meant to serve as the Methuselah's voice in Prague, inter
 - The coterie suspects a Tremere Embrace, but the transcript does not confirm it.
 
 Related: [[Sabina's Abduction]]
+
+## Game 5-8 notes
+
+- Sabina's Embrace by the Tremere is confirmed as having happened off screen.
+- [[Dragan Premysl]] renews his hatred of the Tremere after learning this.

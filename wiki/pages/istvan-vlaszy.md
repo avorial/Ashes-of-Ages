@@ -266,3 +266,10 @@ Istvan sees himself as a defender of his family's legacy and a stalwart protecto
 - In [[Game 3]], Istvan destroys the gargoyle at Sabina's cottage by taking its head.
 - In [[Game 4]], he completes Radomir's courier obligation at a [[Remote Tzimisce Castle]], witnesses red-capped war wagons attack, and is returned to Prague by Tzimisce wind-like magic.
 - He learns from [[Mira Vlaszy]] that she acted as Radomir's inside-Prague courier while he handled outside-city communication.
+
+## Game 5-8 notes
+
+- In [[Game 5]], [[Prince Josef Zvi]] takes Istvan's right arm for [[Prince Josef's Arm Ritual]], exposing ancient Tzimisce bloodline elements tied to [[Shagra]].
+- Istvan fears this revelation endangers him, his family, and possibly the Prince.
+- In [[Game 7]], he identifies [[Malina]] by description and explains why a werewolf in Prague is terrifying.
+- He helps theorize that Radomir may have been working between Prince Josef, Shagra, and Tremere knowledge.

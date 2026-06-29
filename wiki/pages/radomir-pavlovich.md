@@ -50,3 +50,8 @@ Only facts explicitly surfaced in the transcripts are included here. The identit
 - [[Dragan Premysl]] and [[Mira Vlaszy]] reveal that Radomir traded Cainites or bodies to the Tremere for magical secrets.
 - His work may have been connected to [[Prince Joseph and Antediluvian Influence]], but the crimes remain his own.
 - Sabina's abduction may be tied to knowledge Radomir tried to transmit through spirits.
+
+## Game 5-8 notes
+
+- In [[Game 5]], the coterie reports to [[Prince Josef Zvi]] that [[Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)]] killed Radomir.
+- [[Graziano de Veronese]] says Radomir was investigating the Fireflower and the nature of blood bonds, which made him a target.

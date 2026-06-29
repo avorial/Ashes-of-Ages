@@ -337,5 +337,11 @@ Heavy Iron Spikes
 ## Game 3-4 notes
 
 - In [[Game 3]], Father Zemislav uses abyssal arms during the gargoyle battle, contributing to the shadow crisis after the ritual.
-- At the [[Red Calf]], he connects Jacob's words to recent Lasombra upheaval and a black-sun vision.
+- At the [[Red Calf]], he connects Jakub's words to recent Lasombra upheaval and a black-sun vision.
 - In [[Game 4]], he witnesses the [[Hussite Crypt Penance Rite]] and researches antediluvian influence at [[The Librarian's Library]].
+
+## Game 5-8 notes
+
+- In [[Game 6]], Father Zemislav helps calm Theodosia during her Methuselah crisis and debates theology with [[Ecaterina the Wise]].
+- In [[Game 8]], he spreads the [[Alessandro Hussite Extremist Rumor]] to weaken his sire politically.
+- He becomes the Tremere's easiest public contact point for the coterie because of his lineage and role in Radomir's investigation.

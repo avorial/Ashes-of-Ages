@@ -146,3 +146,8 @@ Willpower
 - Foundry world archive: aoe.zip
 - Actor ID: VV8w6xlFyNbegAz4
 - Actor folder: NPC's
+
+## Game 5-8 notes
+
+- In [[Game 6]], Ecaterina calms [[Theodosia Byzantios]] during her Methuselah crisis and explains the [[Promethean Dream]].
+- She introduces her childe [[Cosimus]] and recognizes [[Jardani Jovonovich]]'s Promethean connection.

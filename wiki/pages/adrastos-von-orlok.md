@@ -119,3 +119,8 @@ Despite his meticulous planning, Adrastos' manipulations have their dangers. His
 
 - In [[Game 3]], a figure at [[Public Elysium]] is addressed in the transcript as Andreas or Adrastos von Orlok / Master Orlok.
 - The coterie finds him unimpressed during the Elysium sequence after Sabina's abduction. The exact transcript name should be reviewed.
+
+## Game 5-8 notes
+
+- In [[Game 5]], Adrastos explains [[Tremere as Prague Power Brokers]].
+- In [[Game 8]], the coterie discusses him as a possible elder target in the [[Elder Targets Plot]].

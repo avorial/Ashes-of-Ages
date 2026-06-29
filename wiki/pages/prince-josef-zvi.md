@@ -194,3 +194,9 @@ Under cover of day, Josef slipped into Brandl's lair and, while the prince lay h
 - Game 4 suggests Radomir's secret work may have fed attempts to help Prince Josef resist antediluvian pressure.
 - [[The Librarian]] says Josef may listen if the coterie can show his own agents are escalating Prague toward war.
 - A meeting is arranged in the [[Castle Catacombs]].
+
+## Game 5-8 notes
+
+- In [[Game 5]], Prince Josef receives the coterie privately at the [[Jewish Quarter Hidden Yeshiva]].
+- He gives the [[Prince Josef's Abomination Commission]] and performs [[Prince Josef's Arm Ritual]] on [[Istvan Vlaszy]].
+- His actions suggest he is seeking tools or knowledge against ancient vampiric influence, but he remains politically evasive about Tremere crimes.

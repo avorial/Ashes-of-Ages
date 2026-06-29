@@ -372,3 +372,10 @@ Visions
 - In [[Game 3]], Theodosia uses Dementation or Passion to deaden the gargoyle's emotional state.
 - At [[Public Elysium]], she speaks with [[Khalid Mansur]].
 - In [[Game 4]], she uses Passion to calm the Cappadocian negotiator long enough for the coterie to exit safely.
+
+## Game 5-8 notes
+
+- In [[Game 6]], Theodosia suffers [[Theodosia's Tzimisce Infection]] after praying over Radomir's stored blood.
+- [[Ecaterina the Wise]] calms her and shares visions of the [[Promethean Dream]].
+- In [[Game 7]], Theodosia's voice has changed and she can use Vicissitude; [[Dragan Premysl]] resets her voice.
+- In [[Game 8]], she helps investigate the [[Impossible River]] and the Tremere parley aftermath.

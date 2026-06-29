@@ -45,7 +45,7 @@ parent: "session-lore"
 - A [[Shadow Creature at Sabina's Cottage]] says [[Radomir Pavlovich]] was killed by darkness and by someone connected to [[The Ones Who Kill]].
 - At [[Public Elysium]], [[Dragan Premysl]] reveals [[Radomir's Cainite Sales to the Tremere]].
 - A Tremere request for retroactive Embrace permission increases suspicion that Sabina was taken by Tremere.
-- The crossbow trail leads to the [[Red Calf]], where Jacob discusses [[Blood Bond and the Crown]] and [[Fireflower and Proto-Vauldere]].
+- The crossbow trail leads to the [[Red Calf]], where Jakub discusses [[Blood Bond and the Crown]] and [[Fireflower and Proto-Vauldere]].
 
 ## Game 4
 
@@ -56,3 +56,34 @@ parent: "session-lore"
 - [[Mira Vlaszy]] confirms [[Radomir's Cainite Sales to the Tremere]] and names the [[Golden Lane Shop]].
 - At [[The Librarian's Library]], the coterie learns more about [[Prince Joseph and Antediluvian Influence]], [[Tremere Red Caps]], and [[Necromancer Countermeasures]].
 - [[The Librarian]] arranges the [[Castle Catacombs Audience]] with [[Prince Josef Zvi]].
+
+## Game 5
+
+- [[Ari]] escorts the coterie to the [[Jewish Quarter Hidden Yeshiva]] for a private audience with [[Prince Josef Zvi]].
+- The coterie identifies [[Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)]] as [[Radomir Pavlovich]]'s killer.
+- The Prince gives the [[Prince Josef's Abomination Commission]] and performs [[Prince Josef's Arm Ritual]] on [[Istvan Vlaszy]].
+- [[Adrastos von Orlok]] explains [[Tremere as Prague Power Brokers]].
+- On the rooftops, Jakub introduces the coterie to [[Graziano de Veronese]].
+
+## Game 6
+
+- [[Graziano de Veronese]] explains [[Graziano's Revolution]] and the [[Fireflower and Proto-Vauldere]].
+- [[Dalibor]] pledges support; the others remain more cautious.
+- [[Theodosia Byzantios]] suffers [[Theodosia's Tzimisce Infection]] after praying over Radomir's stored blood.
+- The coterie meets [[Ecaterina the Wise]] and [[Cosimus]] at the [[Church Near the Night Market]].
+
+## Game 7
+
+- [[Dalibor]] begins working with the [[Mortal Sheriff of Prague]] and is pointed toward [[Wilhelm of the Three Keys]].
+- [[Malina]] tests [[Jardani Jovonovich]] near the [[Night Market]].
+- The group finds the [[Burned Salubri with the Third Eye]].
+- [[Dragan Premysl]] reveals the [[Salubri Chantry Raid]] and the [[Wooden Heart-Seeking Creature]].
+- At the [[Three Keys Tavern]], [[Gregory]] gives the [[Gregory's Raid Warning]] and names [[Adonis]].
+
+## Game 8
+
+- [[Father Zemislav]] spreads the [[Alessandro Hussite Extremist Rumor]].
+- [[Eliska von Vlasak]] follows the [[Impossible River]] to the [[Butcher Shop of the Impossible River]].
+- The coterie reaches the [[Tremere Public Chantry]] and speaks with [[Pierre de la Salle]].
+- Pierre confirms [[Tremere as Garbage Men]] and offers occult exchanges.
+- The coterie discusses the [[Elder Targets Plot]] and taking the Fireflower.

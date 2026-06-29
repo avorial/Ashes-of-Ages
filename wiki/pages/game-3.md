@@ -22,7 +22,7 @@ An answering shadow-thing remains long enough to answer questions. It says [[Rad
 
 At Elysium, [[Dragan Premysl]] reveals that Radomir had secretly sold Cainites to the Tremere in exchange for war magic, texts, and secrets. The group also learns that a Tremere representative had sought retroactive permission for an Embrace, sharpening suspicion around Sabina's disappearance.
 
-The crossbow trail leads to the [[Red Calf]], where [[Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)]] appears as "Jacob" and speaks as a liberator rather than a simple assassin. He frames the blood bond as the chain of the Crown/Crone and describes the [[Fireflower and Proto-Vauldere|Fireflower]] as a way to loosen or redirect those chains.
+The crossbow trail leads to the [[Red Calf]], where [[Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)]] appears as "Jakub" and speaks as a liberator rather than a simple assassin. He frames the blood bond as the chain of the Crown/Crone and describes the [[Fireflower and Proto-Vauldere|Fireflower]] as a way to loosen or redirect those chains.
 
 ## Important Lore
 
@@ -32,7 +32,7 @@ The crossbow trail leads to the [[Red Calf]], where [[Jakub of Thessaloniki (Zak
 - [[Blood Bond and the Crown]]
 - [[Fireflower and Proto-Vauldere]]
 - [[Lasombra Founder's Death]]
-- [[Jacob's Liberation Offer]]
+- [[Jakub's Liberation Offer]]
 - [[The Ones Who Kill]]
 
 ## Important NPCs

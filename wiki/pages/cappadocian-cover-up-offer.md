@@ -14,7 +14,7 @@ parent: "session-lore"
 
 ## Overview
 
-In Game 4, a Cappadocian churchman or abbot, likely connected to [[Garinol]], tells the coterie that their mandate is to find Radomir's killer, not expose Radomir's crimes. He offers payment if they protect the court from scandal.
+In Game 4, [[Garinol]], a Cappadocian churchman or abbot, tells the coterie that their mandate is to find Radomir's killer, not expose Radomir's crimes. He offers payment if they protect the court from scandal.
 
 ## Offered Rewards
 
@@ -26,9 +26,6 @@ In Game 4, a Cappadocian churchman or abbot, likely connected to [[Garinol]], te
 
 When pushed, he produces an ear said to belong to [[Mira Vlaszy]]. Mira later says she is alive and that the ear had been handed over earlier as part of Radomir's Tremere arrangements.
 
-## Uncertain
-
-- The transcript sounds like "Brother Garganald" in places. This may be [[Garinol]], but the name is uncertain.
 
 ## Appears In
 

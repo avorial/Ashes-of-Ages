@@ -236,3 +236,9 @@ Dragan is determined to preserve the Premysl family's legacy by reawakening the 
 
 - In [[Game 3]], Dragan reveals that [[Radomir Pavlovich]] sold Cainites to the Tremere in exchange for magical texts, war magic, and secrets.
 - He suggests Radomir's own crimes may have drawn lethal consequences.
+
+## Game 5-8 notes
+
+- In [[Game 7]], Dragan returns wounded after the [[Salubri Chantry Raid]].
+- He says one Salubri warrior was compelled into sunlight and that a [[Wooden Heart-Seeking Creature]] hunted his heart.
+- After learning Sabina was Embraced by the Tremere off screen, he renews his vow of revenge.

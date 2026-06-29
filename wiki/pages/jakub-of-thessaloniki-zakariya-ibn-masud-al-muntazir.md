@@ -84,6 +84,11 @@ Zakariya's tactics focused on isolating Zvi, cutting him off from his sources of
 
 ## Game 3-4 notes
 
-- In [[Game 3]], the crossbow trail leads to the [[Red Calf]], where a man called Jacob speaks of liberation from the blood bond.
-- The transcript's Jacob may be this Jakub, but that identification should be checked against the table's intended name.
-- His speech introduces [[Blood Bond and the Crown]], [[Fireflower and Proto-Vauldere]], and [[Jacob's Liberation Offer]].
+- In [[Game 3]], the crossbow trail leads to the [[Red Calf]], where Jakub speaks of liberation from the blood bond.
+- - His speech introduces [[Blood Bond and the Crown]], [[Fireflower and Proto-Vauldere]], and [[Jakub's Liberation Offer]].
+
+## Game 5-8 notes
+
+- The corrected identification is Jakub of Thessaloniki.
+- In [[Game 5]], the coterie reports to [[Prince Josef Zvi]] that Jakub killed [[Radomir Pavlovich]].
+- Jakub later brings the coterie across the rooftops to [[Graziano de Veronese]].
