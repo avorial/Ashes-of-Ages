@@ -94,3 +94,48 @@ parent: session-lore
 - The coterie reaches the [[Tremere Public Chantry]] and speaks with [[Pierre de la Salle]].
 - Pierre confirms [[Tremere as Garbage Men]] and offers occult exchanges.
 - The coterie discusses the [[Elder Targets Plot]] and taking the Fireflower.
+
+## Games 9-14
+
+## Game 9
+
+- [[Istvan Vlaszy]] warns his caravan through the [[Gypsy Caravan Escape Warning]].
+- Istvan finds [[Borislav Premysl]] and [[Dragan's Szlachta Work]] at [[Dragan Premysl's House]].
+- [[Katherine Karalova]] gathers [[Garinol Intelligence]].
+- The coterie follows directions to the [[Hidden Salubri Cave]], learns about [[Salubri War Names]], and discovers the [[Labyrinth Chasm]].
+- [[Carrion Footprints at the River]] suggest a corpse-like watcher followed them.
+
+## Game 10
+
+- [[Malina's Rune Sword]] replaces Istvan's weapon.
+- Katherine rescues [[Rudolph the Clockwork Alchemist]].
+- The coterie carries out the [[Orlok Assassination]] at the [[Three Keys Tavern]].
+- Katherine hides [[Katherine's Hidden Trunk]] and receives the [[Stake the Librarian Offer]].
+- The group flees to the [[Fireflower Anarch Camp]].
+
+## Game 11
+
+- The camp debates Istvan's place, leading to [[Istvan's Banu Haqim Embrace]].
+- [[Father Zemislav]] creates the [[Silver Fireflower Chalice]] and leads the [[First Fireflower Valderie]].
+- The Anarch leaders discuss [[Micah Vykos]], the [[Tremere Weapon Against Shagra]], [[Sabina as Tremere Leverage]], and the [[Gunpowder Diversion at Elder Elysium]].
+- [[Katherine Karalova]] sees the [[Blue Comet Omen]].
+
+## Game 12
+
+- No raw Game 12 transcript was provided. See [[Game 12 Missing Transcript Summary]] for recap-only continuity notes.
+
+## Game 13
+
+- The coterie meets the [[Norse Setite Anteaters]]: [[Svigar Derkinson]], [[Ursa]], [[Colleen Norgobane]], and [[Thor Skydre]].
+- The northern Setites discuss [[Cain's Northern Tomb]] and offer passage on the [[Setite Ship North]].
+- A distant explosion marks the [[Gunpowder Diversion at Elder Elysium]].
+- On the road, the group survives the [[Redcap Ambush on the Road]] and meets [[Greg the Tremere]].
+- Greg demonstrates the [[Boat That Sailed on Land]] and gives the [[Tremere Origin Confession]].
+
+## Game 14
+
+- The pack crosses into the [[Land-Spirit Crossing]] and meets [[Devara]] and the [[Lithuanian Hearth Pact]].
+- Devara's coven provides [[Hanged Men Blood Hospitality]].
+- In the epilogue, the pack survives the [[Niktuku Attack in Estonia]], spreads its rites through [[St. Petersburg Sabbat Work]], and receives [[Helsinki and the Camarilla News]].
+- At sea, Istvan becomes one of the [[Unconquered Banu Haqim]].
+- The pack lands in [[Stockholm]], closing Chronicle 1. See [[Chronicle 1 Epilogue]].

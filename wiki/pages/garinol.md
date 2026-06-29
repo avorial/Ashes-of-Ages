@@ -85,3 +85,8 @@ After [Christof Romuald](https://whitewolf.fandom.com/wiki/Christof_Romuald) and
 - The corrected spelling is Garinol.
 - In [[Game 5]], [[Prince Josef Zvi]] describes Garinol as a figure of status and reputation who has helped maintain court secrets and prevent Cainite conflict.
 - Garinol remains tied to the [[Cappadocian Cover-Up Offer]].
+
+## Chronicle 1 finale notes
+
+- [[Katherine Karalova]] researches [[Garinol Intelligence]], including his monastic heresy, feeding restriction, and corpse-house interests.
+- [[Carrion Footprints at the River]] are suspected to be his, but this is not confirmed.

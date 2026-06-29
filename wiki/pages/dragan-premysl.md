@@ -251,3 +251,9 @@ Dragan is determined to preserve the Premysl family's legacy by reawakening the 
 - In [[Game 7]], Dragan returns wounded after the [[Salubri Chantry Raid]].
 - He says one Salubri warrior was compelled into sunlight and that a [[Wooden Heart-Seeking Creature]] hunted his heart.
 - After learning Sabina was Embraced by the Tremere off screen, he renews his vow of revenge.
+
+## Chronicle 1 finale notes
+
+- Found in the basement of [[Dragan Premysl's House]] performing [[Dragan's Szlachta Work]].
+- Gives [[Istvan Vlaszy]] directions to the [[Hidden Salubri Cave]].
+- Says his will and form may be influenced by spirits or "true masters."

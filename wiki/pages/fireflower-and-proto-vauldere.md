@@ -44,3 +44,9 @@ The transcript explicitly includes out-of-character discussion identifying the F
 - [[Graziano de Veronese]] explains that the Fireflower does not make one voice command another; it creates many voices so the self can be heard among them.
 - He claims masters do not automatically know the blood bond has been broken.
 - By [[Game 8]], several members of the coterie are openly considering taking the rite as part of the [[Elder Targets Plot]].
+
+## Chronicle 1 finale notes
+
+- The [[First Fireflower Valderie]] turns the proto-rite into a true pack bond through the [[Silver Fireflower Chalice]].
+- The [[Norse Setite Anteaters]] have also taken the Fireflower and intend to carry it north.
+- By the end of [[Game 14]], the coterie is no longer merely experimenting with the rite; they are an emerging Sabbat pack.

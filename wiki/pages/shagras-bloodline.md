@@ -36,3 +36,9 @@ Shagra is the name used for the Tzimisce Methuselah influence tied to [[Radomir 
 - [[Theodosia's Tzimisce Infection]]
 - [[Prince Josef's Arm Ritual]]
 - [[Prince Joseph and Antediluvian Influence]]
+
+## Chronicle 1 finale notes
+
+- The Anarch leaders describe a Shagra-linked ancient presence feeding on or controlling land magic.
+- [[Micah Vykos]] says the Tremere have a [[Tremere Weapon Against Shagra]] that can strike the ancient's psyche.
+- [[Land-Spirit Crossing]] later clarifies that Tzimisce-style land control may be a corrupted or enslaving version of older land-spirit communion.

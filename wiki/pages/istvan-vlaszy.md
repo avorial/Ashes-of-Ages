@@ -282,3 +282,12 @@ Istvan sees himself as a defender of his family's legacy and a stalwart protecto
 - Istvan fears this revelation endangers him, his family, and possibly the Prince.
 - In [[Game 7]], he identifies [[Malina]] by description and explains why a werewolf in Prague is terrifying.
 - He helps theorize that Radomir may have been working between Prince Josef, Shagra, and Tremere knowledge.
+
+## Chronicle 1 finale notes
+
+- Warns his caravan to be ready to flee Prague in [[Gypsy Caravan Escape Warning]].
+- Receives [[Malina's Rune Sword]].
+- Is ritually Embraced by [[Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)]] in [[Istvan's Banu Haqim Embrace]].
+- Crosses into the [[Land-Spirit Crossing]], where the land welcomes him rather than enslaving him.
+- Survives the Assamite blood curse through the pack bond and becomes one of the [[Unconquered Banu Haqim]].
+- Discussed as the likely pack leader after the time jump in [[Pack Roles After Prague]].

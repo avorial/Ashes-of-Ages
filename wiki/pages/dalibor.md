@@ -375,3 +375,8 @@ Dalibor of Kozojedy
 - In [[Game 6]], Dalibor pledges support to [[Graziano de Veronese]] and the revolutionary cause.
 - In [[Game 7]], he begins a justice-for-favors relationship with the [[Mortal Sheriff of Prague]] and targets [[Wilhelm of the Three Keys]].
 - In [[Game 8]], he hears from [[Pierre de la Salle]] that his sire has delivered unwanted broodmates to the Tremere.
+
+## Chronicle 1 finale notes
+
+- Participates in the [[Orlok Assassination]] at the [[Three Keys Tavern]], entering the gambling room where [[Adrastos von Orlok]] is playing dominoes.
+- Remains part of the pack's transition from Prague rebels into the post-Prague Sabbat route toward [[Stockholm]].

@@ -321,3 +321,7 @@ Ar
 
 - In [[Game 6]], [[Cosimus]] recognizes Jardani as connected to the Prometheans.
 - In [[Game 7]], [[Malina]] ambushes and tests him near the [[Night Market]], later revealed to be his lover.
+
+## Chronicle 1 finale notes
+
+- Speaks with [[Wilhem Streicher]] at the [[Night Market]] about the Nosferatu curse, Cain, and brotherhood during [[Game 10]].
