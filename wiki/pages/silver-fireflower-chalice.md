@@ -1,13 +1,14 @@
 ---
 title: "Silver Fireflower Chalice"
 name: "Silver Fireflower Chalice"
-category: "document"
+category: item
 summary: "The silver chalice Zemislav crafts for the first Fireflower Valderie."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: item
 ---
 # Silver Fireflower Chalice
 

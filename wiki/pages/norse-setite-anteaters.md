@@ -1,13 +1,14 @@
 ---
 title: "Norse Setite Anteaters"
 name: "Norse Setite Anteaters"
-category: "organization"
+category: organization
 summary: "Heretical Setites who fled north where there were no snakes and adopted northern sorceries."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: organization
 ---
 # Norse Setite Anteaters
 

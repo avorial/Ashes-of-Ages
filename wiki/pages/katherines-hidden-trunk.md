@@ -1,19 +1,20 @@
 ---
 title: "Katherine's Hidden Trunk"
 name: "Katherine's Hidden Trunk"
-category: "document"
+category: item
 summary: "The waterproof trunk of books Katherine throws into the river after Orlok's death."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: item
 ---
 # Katherine's Hidden Trunk
 
 ## Overview
 
-After the [[Orlok Assassination]], [[Katherine Karalova]] returns to [[The Librarian's Library]], silences the room, packs important books into a waterproof trunk, and throws it into the river.
+After the [[Orlok Assassination]], [[Katherine Karálová]] returns to [[The Librarian's Library]], silences the room, packs important books into a waterproof trunk, and throws it into the river.
 
 ## Contents
 

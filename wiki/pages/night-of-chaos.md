@@ -1,13 +1,14 @@
 ---
 title: "Night of Chaos"
 name: "Night of Chaos"
-category: "lore"
+category: event
 summary: "The elder-killing crisis in Prague after Orlok's assassination."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: event
 ---
 # Night of Chaos
 

@@ -2,33 +2,58 @@
 title: "Game 10"
 name: "Game 10"
 category: "game"
-summary: "Malina leaves Istvan a hostile rune sword, Katherine saves Rudolph, and the coterie assassinates Orlok at the Three Keys."
-status: "session-notes"
-tags: ["session-transcript","chronicle-1","ashes-of-ages","game-summary"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+type: "game"
+summary: "Malina leaves Istvan a hostile rune sword, Katherine saves Rudolph, and Orlok is destroyed at the Three Keys."
+tags:
+  - ashes-of-ages
+  - chronicle-1
+  - game-summary
+  - session-notes
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+status: final-archive
+parent: chronicle-1
 ---
 # Game 10
 
-## Synopsis
+## Session Synopsis
 
-[[Istvan Vlaszy]] wakes to a sign from [[Malina]]: his shoes are missing and his sword has been replaced by [[Malina's Rune Sword]], a near-identical weapon carved with runes that seems to hate vampires and tries to move on its own.
+[[Istvan Vlaszy]] wakes to find that [[Malina]] has taken his shoes and replaced his sword with [[Malina's Rune Sword]], a hostile rune-carved weapon that seems to hate vampires. [[Katherine Karálová]] rescues [[Rudolph the Clockwork Alchemist]] from a Nosferatu oubliette and ghouls him.
 
-[[Katherine Karalova]] rescues [[Rudolph the Clockwork Alchemist]] from the Nosferatu oubliette and ghouls him. At the [[Night Market]], [[Wilhem Streicher]] speaks with [[Jardani Jovonovich]] about the Nosferatu curse, Cain, and brotherhood.
+The coterie carries out the [[Orlok Assassination]] at the [[Three Keys Tavern]] with Salubri help. Orlok's Majesty, Tzimisce defenses, and a psychic observer make the attack dangerous, but the Salubri's opened third eye turns melee violence into aggravated wounds. [[Father Zemislav]] brings shadow tentacles into the fight, and Orlok falls.
 
-The coterie meets a Salubri ally at the [[Three Keys Tavern]] and carries out the [[Orlok Assassination]]. Orlok's Majesty and hidden Tzimisce defenses nearly turn the room against them, but the Salubri rides frenzy, fire, and the opened third eye to make melee wounds aggravated. [[Father Zemislav]] uses shadow tentacles once darkness returns, and Orlok is destroyed. A psychic observer escapes.
+Afterward, Katherine hides [[Katherine's Hidden Trunk]] in the river and receives the [[Stake the Librarian Offer]]. The coterie flees to the [[Fireflower Anarch Camp]].
 
-After the attack, Katherine hides her most important books in [[Katherine's Hidden Trunk]] and throws the trunk into the river. A stranger offers the [[Stake the Librarian Offer]], asking her to preserve her sire rather than kill him. The coterie flees to the [[Fireflower Anarch Camp]].
+## Major Events
 
-## Important Lore
+- [[Malina's Rune Sword]] enters play.
+- Katherine saves [[Rudolph the Clockwork Alchemist]].
+- [[Wilhem Streicher]] discusses the Nosferatu curse and Cain with [[Jardani Jovonovich]].
+- The coterie destroys [[Adrastos von Orlok]].
+- Katherine hides books in the river.
+- The coterie reaches the Anarch camp.
 
-- [[Malina's Rune Sword]]
-- [[Rudolph the Clockwork Alchemist]]
+## Character Moments
+
+- Istvan is tested again through Malina's strange gift.
+- Katherine chooses preservation of knowledge under crisis.
+- Dalibor helps enter the social space where Orlok can be reached.
+- Zemislav's shadows become decisive once darkness returns.
+
+## New Lore
+
 - [[Orlok Assassination]]
 - [[Katherine's Hidden Trunk]]
 - [[Stake the Librarian Offer]]
 - [[Fireflower Anarch Camp]]
+
+## Consequences
+
+- Orlok's death helps trigger the [[Night of Chaos]].
+- The coterie is no longer merely investigating rebellion; it has killed a major elder.
 
 ## Source
 

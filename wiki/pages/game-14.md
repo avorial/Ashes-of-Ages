@@ -2,36 +2,59 @@
 title: "Game 14"
 name: "Game 14"
 category: "game"
-summary: "The pack meets Lithuanian hearth witches, survives a long epilogue, and arrives in Stockholm as Chronicle 1 ends."
-status: "session-notes"
-tags: ["session-transcript","chronicle-1","ashes-of-ages","game-summary"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+type: "game"
+summary: "The pack meets Lithuanian hearth witches, survives a century-long epilogue, and reaches Stockholm."
+tags:
+  - ashes-of-ages
+  - chronicle-1
+  - game-summary
+  - session-notes
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+status: final-archive
+parent: chronicle-1
 ---
 # Game 14
 
-## Synopsis
+## Session Synopsis
 
-After [[Greg the Tremere]] leaves with horses, the coterie and Setites portage the boat and cross into a place where [[Istvan Vlaszy]] hears the land welcome him. This is not the familiar Tzimisce Methuselah pressure; it is the older [[Land-Spirit Crossing]] that the Tzimisce appear to have imitated or enslaved elsewhere.
+After [[Greg the Tremere]] leaves, the pack and Setites portage the boat and cross into land that welcomes [[Istvan Vlaszy]] rather than enslaving him. This [[Land-Spirit Crossing]] reveals a natural form of land communion that the Tzimisce appear to imitate or corrupt.
 
-The pack meets [[Devara]] and the [[Lithuanian Hearth Pact]]. Devara is a vampire in a Slavic wedding gown, married to the land rather than ruling it. Her coven treats the land as husband and partner, draws hospitality from hanged criminals, and distinguishes its union from Tzimisce enslavement of land-spirits. The coterie learns that Greg had spoken of hunting such heretical witches of his own clan.
+The pack meets [[Devara]] and the [[Lithuanian Hearth Pact]]. Devara is a vampire in a Slavic wedding gown, married to the land. Her coven offers [[Hanged Men Blood Hospitality]] and explains that their relationship to land-spirits is union, not domination.
 
-The finale moves quickly through years and courts. In Estonia, the pack survives a [[Niktuku Attack in Estonia]] and flees by day. In St. Petersburg, they flourish among Brujah nobles and begin spreading their rites. In Helsinki, they hear that the Anarchs have lost and that the Camarilla has formed. On the voyage to Stockholm, Istvan survives the Assamite blood curse because the pack's Viniculum protects him, making him one of the [[Unconquered Banu Haqim]]. The chronicle ends with the pack entering [[Stockholm]] and preparing for Chronicle 2.
+The finale then moves through years: Estonia, St. Petersburg, Helsinki, and the voyage to [[Stockholm]]. The pack survives the [[Niktuku Attack in Estonia]], spreads Sabbat rites among Brujah in [[St. Petersburg Sabbat Work]], hears in [[Helsinki and the Camarilla News]] that the Anarchs have lost and the Camarilla has formed, and watches Istvan survive the Banu Haqim curse as one of the [[Unconquered Banu Haqim]].
 
-## Important Lore
+## Major Events
 
-- [[Land-Spirit Crossing]]
-- [[Devara]]
+- The pack crosses into land-spirit territory.
+- Devara's coven explains a non-Tzimisce relationship to the land.
+- The pack survives Estonia and begins a long northern epilogue.
+- The Sabbat identity becomes explicit.
+- The pack lands in Stockholm.
+
+## Character Moments
+
+- Istvan feels land welcome instead of domination, then later survives the clan curse.
+- Theodosia interprets land-spirits through theology rather than dismissing them as pagan.
+- Katherine helps the pack survive the Niktuku attack.
+- Zemislav is confirmed as priest in the emerging Sabbat pack.
+
+## New Lore
+
+- [[Land Spirits and Tzimisce Dominion]]
 - [[Lithuanian Hearth Pact]]
-- [[Hanged Men Blood Hospitality]]
-- [[Niktuku Attack in Estonia]]
-- [[St. Petersburg Sabbat Work]]
-- [[Helsinki and the Camarilla News]]
 - [[Unconquered Banu Haqim]]
-- [[Stockholm]]
 - [[Chronicle 1 Epilogue]]
 - [[Pack Roles After Prague]]
+
+## Consequences
+
+- Chronicle 1 ends.
+- Chronicle 2 begins in [[Stockholm]] after a long time jump.
+- The pack carries Fireflower, land-spirit knowledge, and Prague's unresolved wounds into the north.
 
 ## Source
 

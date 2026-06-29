@@ -1,13 +1,14 @@
 ---
 title: "Lithuanian Hearth Pact"
 name: "Lithuanian Hearth Pact"
-category: "organization"
+category: organization
 summary: "The coven tradition that marries vampires to land instead of enslaving it."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: organization
 ---
 # Lithuanian Hearth Pact
 

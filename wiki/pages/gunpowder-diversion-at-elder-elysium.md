@@ -1,13 +1,14 @@
 ---
 title: "Gunpowder Diversion at Elder Elysium"
 name: "Gunpowder Diversion at Elder Elysium"
-category: "lore"
+category: event
 summary: "The Anarch explosion meant to distract Prague's elders and defenses."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: event
 ---
 # Gunpowder Diversion at Elder Elysium
 

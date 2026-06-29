@@ -1,13 +1,14 @@
 ---
 title: "St. Petersburg Sabbat Work"
 name: "St. Petersburg Sabbat Work"
-category: "lore"
+category: event
 summary: "The pack's time converting Brujah and manipulating Russian nobility."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: event
 ---
 # St. Petersburg Sabbat Work
 
