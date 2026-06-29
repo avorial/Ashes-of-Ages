@@ -1,16 +1,25 @@
 ---
-title: "Sabina Premysl"
-name: "Sabina Premysl"
-category: "npc"
-summary: "Sabina Premysl imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "revenants"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Sabina-Premysl.jpg"
-parent: "revenants"
+category: npc
+type: npc
+name: Sabina Premysl
+summary: Sabina Premysl imported from the Foundry Ashes of Ages world
+  (Revenants, Mortal). Mortal.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - revenants
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sabina Premysl
+status: imported
+cover: Sabina-Premysl.jpg
+parent: revenants
 ---
+
 # Sabina Premysl
 
 ![Sabina Premysl](/wiki/media/Sabina-Premysl.jpg)

@@ -1,15 +1,23 @@
 ---
-title: "Game 8"
-name: "Game 8"
-category: "game"
-summary: "Session synopsis and lore extraction for Ashes of Ages Game 8."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages", "game-8"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: game
+type: game
+name: Game 8
+summary: Session synopsis and lore extraction for Ashes of Ages Game 8.
+tags:
+  - session-transcript
+  - ashes-of-ages
+  - game-8
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Game 8
+status: session-notes
+parent: session-lore
 ---
+
 # Game 8
 
 ## Synopsis

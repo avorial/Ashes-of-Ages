@@ -1,15 +1,22 @@
 ---
-title: "Radomir's Missing Ritual Book"
-name: "Radomir's Missing Ritual Book"
-category: "item"
-summary: "The missing locked ritual book."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-relics-and-documents"
+category: item
+type: item
+name: Radomir's Missing Ritual Book
+summary: The missing locked ritual book.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Radomir's Missing Ritual Book
+status: session-notes
+parent: session-relics-and-documents
 ---
+
 # Radomir's Missing Ritual Book
 
 ## Overview

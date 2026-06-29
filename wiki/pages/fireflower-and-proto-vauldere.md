@@ -1,15 +1,23 @@
 ---
-title: "Fireflower and Proto-Vauldere"
-name: "Fireflower and Proto-Vauldere"
-category: "lore"
-summary: "The Fireflower is described as an early ritual path for weakening or transforming blood bonds."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Fireflower and Proto-Vauldere
+summary: The Fireflower is described as an early ritual path for weakening or
+  transforming blood bonds.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Fireflower and Proto-Vauldere
+status: session-notes
+parent: session-lore
 ---
+
 # Fireflower and Proto-Vauldere
 
 ## Overview

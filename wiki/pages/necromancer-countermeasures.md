@@ -1,15 +1,23 @@
 ---
-title: "Necromancer Countermeasures"
-name: "Necromancer Countermeasures"
-category: "lore"
-summary: "Library research records ways mortal necromancers have threatened vampiric necromancers."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Necromancer Countermeasures
+summary: Library research records ways mortal necromancers have threatened
+  vampiric necromancers.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Necromancer Countermeasures
+status: session-notes
+parent: session-lore
 ---
+
 # Necromancer Countermeasures
 
 ## Overview

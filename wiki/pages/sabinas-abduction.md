@@ -1,15 +1,23 @@
 ---
-title: "Sabina's Abduction"
-name: "Sabina's Abduction"
-category: "lore"
-summary: "Sabina is pulled through the ruined roof after the gargoyle battle and carried north by a floating Cainite."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Sabina's Abduction
+summary: Sabina is pulled through the ruined roof after the gargoyle battle and
+  carried north by a floating Cainite.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sabina's Abduction
+status: session-notes
+parent: session-lore
 ---
+
 # Sabina's Abduction
 
 ## Overview

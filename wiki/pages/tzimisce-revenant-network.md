@@ -1,15 +1,22 @@
 ---
-title: "Tzimisce Revenant Network"
-name: "Tzimisce Revenant Network"
-category: "lore"
-summary: "How Radomir and the Tzimisce use revenant families in Prague."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Tzimisce Revenant Network
+summary: How Radomir and the Tzimisce use revenant families in Prague.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tzimisce Revenant Network
+status: session-notes
+parent: session-lore
 ---
+
 # Tzimisce Revenant Network
 
 ## Confirmed facts

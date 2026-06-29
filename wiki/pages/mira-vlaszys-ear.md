@@ -1,15 +1,23 @@
 ---
-title: "Mira Vlaszy's Ear"
-name: "Mira Vlaszy's Ear"
-category: "item"
-summary: "An ear used as leverage against Istvan, later revealed to have been surrendered earlier."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-relics-and-documents"
+category: item
+type: item
+name: Mira Vlaszy's Ear
+summary: An ear used as leverage against Istvan, later revealed to have been
+  surrendered earlier.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Mira Vlaszy's Ear
+status: session-notes
+parent: session-relics-and-documents
 ---
+
 # Mira Vlaszy's Ear
 
 ## Overview

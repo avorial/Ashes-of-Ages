@@ -1,15 +1,24 @@
 ---
-title: "Oscar Markos"
-name: "Oscar Markos"
-category: "npc"
-summary: "Oscar Markos imported from the Foundry Ashes of Ages world (Unfiled Actors, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "unfiled-actors"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "unfiled-actors"
+category: npc
+type: npc
+name: Oscar Markos
+summary: Oscar Markos imported from the Foundry Ashes of Ages world (Unfiled
+  Actors, Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - unfiled-actors
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Oscar Markos
+status: imported
+parent: unfiled-actors
 ---
+
 # Oscar Markos
 
 ## Overview

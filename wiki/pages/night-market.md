@@ -1,15 +1,23 @@
 ---
-title: "Night Market"
-name: "Night Market"
-category: "location"
-summary: "Recurring Prague meeting place for the coterie and several supernatural encounters."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Night Market
+summary: Recurring Prague meeting place for the coterie and several supernatural
+  encounters.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Night Market
+status: session-notes
+parent: prague-locations
 ---
+
 # Night Market
 
 ## Overview

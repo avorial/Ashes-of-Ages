@@ -1,15 +1,23 @@
 ---
-title: "Jakub's Liberation Offer"
-name: "Jakub's Liberation Offer"
-category: "lore"
-summary: "Jakub offers the coterie a path toward fighting their blood bonds rather than serving elder commands."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Jakub's Liberation Offer
+summary: Jakub offers the coterie a path toward fighting their blood bonds
+  rather than serving elder commands.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Jakub's Liberation Offer
+status: session-notes
+parent: session-lore
 ---
+
 # Jakub's Liberation Offer
 
 ## Overview

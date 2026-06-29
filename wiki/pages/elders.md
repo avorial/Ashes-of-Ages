@@ -1,14 +1,21 @@
 ---
-title: "Elders"
-name: "Elders"
-category: "npc"
-summary: "Elder NPCs imported from the Ashes of Ages Foundry world."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+category: npc
+type: npc
+name: Elders
+summary: Elder NPCs imported from the Ashes of Ages Foundry world.
+tags:
+  - foundry-import
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Elders
+status: imported
 ---
+
 # Elders
 
 Elder NPCs imported from the Ashes of Ages Foundry world.

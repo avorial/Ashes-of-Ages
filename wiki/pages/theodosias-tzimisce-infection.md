@@ -1,15 +1,23 @@
 ---
-title: "Theodosia's Tzimisce Infection"
-name: "Theodosia's Tzimisce Infection"
-category: "lore"
-summary: "Theodosia is infected or altered by Tzimisce Methuselah blood and develops Vicissitude-like effects."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Theodosia's Tzimisce Infection
+summary: Theodosia is infected or altered by Tzimisce Methuselah blood and
+  develops Vicissitude-like effects.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Theodosia's Tzimisce Infection
+status: session-notes
+parent: session-lore
 ---
+
 # Theodosia's Tzimisce Infection
 
 ## Overview

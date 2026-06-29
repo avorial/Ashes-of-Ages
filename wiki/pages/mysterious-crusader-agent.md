@@ -1,15 +1,22 @@
 ---
-title: "Mysterious Crusader Agent"
-name: "Mysterious Crusader Agent"
-category: "lore"
-summary: "A less-than-human crusader-linked presence hinted in Game 2."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Mysterious Crusader Agent
+summary: A less-than-human crusader-linked presence hinted in Game 2.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Mysterious Crusader Agent
+status: session-notes
+parent: session-lore
 ---
+
 # Mysterious Crusader Agent
 
 ## Confirmed facts

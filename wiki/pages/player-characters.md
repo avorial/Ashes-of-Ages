@@ -1,14 +1,21 @@
 ---
-title: "Player Characters"
-name: "Player Characters"
-category: "character"
-summary: "Player character roster imported from the Ashes of Ages Foundry world."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages"]
-visibility: "players"
-approvalStatus: "approved"
+category: character
+type: character
+name: Player Characters
+summary: Player character roster imported from the Ashes of Ages Foundry world.
+tags:
+  - foundry-import
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
 knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Player Characters
+status: imported
 ---
+
 # Player Characters
 
 Player character roster imported from the Ashes of Ages Foundry world.

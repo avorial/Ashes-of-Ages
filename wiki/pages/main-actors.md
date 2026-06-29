@@ -1,14 +1,21 @@
 ---
-title: "Main Actors"
-name: "Main Actors"
-category: "npc"
-summary: "Actors from the Foundry main folder."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+category: npc
+type: npc
+name: Main Actors
+summary: Actors from the Foundry main folder.
+tags:
+  - foundry-import
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Main Actors
+status: imported
 ---
+
 # Main Actors
 
 Actors from the Foundry main folder.

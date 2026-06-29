@@ -1,15 +1,24 @@
 ---
-title: "Marcus Jonak"
-name: "Marcus Jonak"
-category: "npc"
-summary: "Marcus Jonak imported from the Foundry Ashes of Ages world (Main, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "main"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "main-actors"
+category: npc
+type: npc
+name: Marcus Jonak
+summary: Marcus Jonak imported from the Foundry Ashes of Ages world (Main,
+  Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - main
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Marcus Jonak
+status: imported
+parent: main-actors
 ---
+
 # Marcus Jonak
 
 ## Overview

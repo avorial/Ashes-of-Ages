@@ -1,15 +1,23 @@
 ---
-title: "Tremere as Garbage Men"
-name: "Tremere as Garbage Men"
-category: "lore"
-summary: "Pierre says the Tremere accept the role of converting unwanted vampires into useful servants."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Tremere as Garbage Men
+summary: Pierre says the Tremere accept the role of converting unwanted vampires
+  into useful servants.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tremere as Garbage Men
+status: session-notes
+parent: session-lore
 ---
+
 # Tremere as Garbage Men
 
 ## Overview

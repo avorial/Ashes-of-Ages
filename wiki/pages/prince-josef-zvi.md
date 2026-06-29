@@ -1,16 +1,25 @@
 ---
-title: "Prince Josef Zvi"
-name: "Prince Josef Zvi"
-category: "npc"
-summary: "Prince Josef Zvi imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "elders"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Prince-Josef-Zvi.jpg"
-parent: "elders"
+category: npc
+type: npc
+name: Prince Josef Zvi
+summary: Prince Josef Zvi imported from the Foundry Ashes of Ages world (Elders,
+  Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - elders
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Prince Josef Zvi
+status: imported
+cover: Prince-Josef-Zvi.jpg
+parent: elders
 ---
+
 # Prince Josef Zvi
 
 ![Prince Josef Zvi](/wiki/media/Prince-Josef-Zvi.jpg)

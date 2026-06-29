@@ -1,15 +1,22 @@
 ---
-title: "Cosimus"
-name: "Cosimus"
-category: "npc"
-summary: "Ecaterina's childe, connected to the Prometheans and aware of Jardani's ties."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Cosimus
+summary: Ecaterina's childe, connected to the Prometheans and aware of Jardani's ties.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Cosimus
+status: session-notes
+parent: npc-roster
 ---
+
 # Cosimus
 
 ## Overview

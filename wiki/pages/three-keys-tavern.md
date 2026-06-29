@@ -1,15 +1,22 @@
 ---
-title: "Three Keys Tavern"
-name: "Three Keys Tavern"
-category: "location"
-summary: "A rowdy tavern owned by Wilhelm where the coterie meets Gregory."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Three Keys Tavern
+summary: A rowdy tavern owned by Wilhelm where the coterie meets Gregory.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Three Keys Tavern
+status: session-notes
+parent: prague-locations
 ---
+
 # Three Keys Tavern
 
 ## Overview

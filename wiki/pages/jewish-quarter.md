@@ -1,15 +1,22 @@
 ---
-title: "Jewish Quarter"
-name: "Jewish Quarter"
-category: "location"
-summary: "Protected quarter in Prague."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Jewish Quarter
+summary: Protected quarter in Prague.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Jewish Quarter
+status: session-notes
+parent: prague-locations
 ---
+
 # Jewish Quarter
 
 ## Overview

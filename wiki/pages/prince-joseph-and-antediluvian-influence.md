@@ -1,15 +1,23 @@
 ---
-title: "Prince Joseph and Antediluvian Influence"
-name: "Prince Joseph and Antediluvian Influence"
-category: "lore"
-summary: "Radomir's work may have been tied to Prince Josef's fear of elder or antediluvian control."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Prince Joseph and Antediluvian Influence
+summary: Radomir's work may have been tied to Prince Josef's fear of elder or
+  antediluvian control.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Prince Joseph and Antediluvian Influence
+status: session-notes
+parent: session-lore
 ---
+
 # Prince Joseph and Antediluvian Influence
 
 ## Overview

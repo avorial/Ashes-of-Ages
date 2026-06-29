@@ -1,15 +1,23 @@
 ---
-title: "Tremere as Prague Power Brokers"
-name: "Tremere as Prague Power Brokers"
-category: "lore"
-summary: "Adrastos says the Tremere cannot rule Prague openly, but can empower whoever does."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Tremere as Prague Power Brokers
+summary: Adrastos says the Tremere cannot rule Prague openly, but can empower
+  whoever does.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tremere as Prague Power Brokers
+status: session-notes
+parent: session-lore
 ---
+
 # Tremere as Prague Power Brokers
 
 ## Overview

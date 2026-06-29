@@ -1,15 +1,22 @@
 ---
-title: "Radomir Pavlovich"
-name: "Radomir Pavlovich"
-category: "npc"
-summary: "Destroyed Tzimisce elder whose murder launches the chronicle investigation."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Radomir Pavlovich
+summary: Destroyed Tzimisce elder whose murder launches the chronicle investigation.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Radomir Pavlovich
+status: session-notes
+parent: npc-roster
 ---
+
 # Radomir Pavlovich
 
 ## Overview

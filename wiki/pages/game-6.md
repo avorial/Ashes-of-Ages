@@ -1,15 +1,23 @@
 ---
-title: "Game 6"
-name: "Game 6"
-category: "game"
-summary: "Session synopsis and lore extraction for Ashes of Ages Game 6."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages", "game-6"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: game
+type: game
+name: Game 6
+summary: Session synopsis and lore extraction for Ashes of Ages Game 6.
+tags:
+  - session-transcript
+  - ashes-of-ages
+  - game-6
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Game 6
+status: session-notes
+parent: session-lore
 ---
+
 # Game 6
 
 ## Synopsis

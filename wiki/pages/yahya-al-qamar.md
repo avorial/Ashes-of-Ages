@@ -1,16 +1,25 @@
 ---
-title: "Yahya al-Qamar"
-name: "Yahya al-Qamar"
-category: "npc"
-summary: "Yahya al-Qamar imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "elders"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Yahya-al-Qamar.png"
-parent: "elders"
+category: npc
+type: npc
+name: Yahya al-Qamar
+summary: Yahya al-Qamar imported from the Foundry Ashes of Ages world (Elders,
+  Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - elders
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Yahya al-Qamar
+status: imported
+cover: Yahya-al-Qamar.png
+parent: elders
 ---
+
 # Yahya al-Qamar
 
 ![Yahya al-Qamar](/wiki/media/Yahya-al-Qamar.png)

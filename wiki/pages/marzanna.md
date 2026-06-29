@@ -1,15 +1,22 @@
 ---
-title: "Marzanna"
-name: "Marzanna"
-category: "lore"
-summary: "Slavic winter/death figure mentioned in Radomir's books."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Marzanna
+summary: Slavic winter/death figure mentioned in Radomir's books.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Marzanna
+status: session-notes
+parent: session-lore
 ---
+
 # Marzanna
 
 ## Confirmed facts

@@ -1,16 +1,26 @@
 ---
-title: "Father Zemislav"
-name: "Father Zemislav"
-category: "character"
-summary: "Father Zemislav imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Eye of the Storm | Demeanor: Bravo | Concept: False Inquisitor."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "player-characters"]
-visibility: "players"
-approvalStatus: "approved"
+category: character
+type: character
+name: Father Zemislav
+summary: "Father Zemislav imported from the Foundry Ashes of Ages world (Player
+  Characters, Vampire). Vampire | Nature: Eye of the Storm | Demeanor: Bravo |
+  Concept: False Inquisitor."
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - player-characters
+visibility: players
+approvalStatus: approved
 knownToPlayers: true
-cover: "Father-Zemislav.jpeg"
-parent: "player-characters"
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Father Zemislav
+status: imported
+cover: Father-Zemislav.jpeg
+parent: player-characters
 ---
+
 # Father Zemislav
 
 ![Father Zemislav](/wiki/media/Father-Zemislav.jpeg)

@@ -1,15 +1,22 @@
 ---
-title: "Castle Catacombs Audience"
-name: "Castle Catacombs Audience"
-category: "lore"
-summary: "The Librarian arranges a meeting with Prince Josef in the castle catacombs."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Castle Catacombs Audience
+summary: The Librarian arranges a meeting with Prince Josef in the castle catacombs.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Castle Catacombs Audience
+status: session-notes
+parent: session-lore
 ---
+
 # Castle Catacombs Audience
 
 ## Overview

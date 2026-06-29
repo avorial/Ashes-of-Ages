@@ -1,15 +1,23 @@
 ---
-title: "Adrian"
-name: "Adrian"
-category: "npc"
-summary: "A Tremere figure, probably the Prague regent, connected to a retroactive Embrace permission request."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Adrian
+summary: A Tremere figure, probably the Prague regent, connected to a
+  retroactive Embrace permission request.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Adrian
+status: session-notes
+parent: npc-roster
 ---
+
 # Adrian
 
 ## Overview

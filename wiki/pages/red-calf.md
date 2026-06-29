@@ -1,15 +1,22 @@
 ---
-title: "Red Calf"
-name: "Red Calf"
-category: "location"
-summary: "A tavern where the coterie confronts Jacob after following the crossbow trail."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Red Calf
+summary: A tavern where the coterie confronts Jacob after following the crossbow trail.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Red Calf
+status: session-notes
+parent: prague-locations
 ---
+
 # Red Calf
 
 ## Overview

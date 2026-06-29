@@ -1,14 +1,21 @@
 ---
-title: "Prague Locations"
-name: "Prague Locations"
-category: "location"
-summary: "Location pages extracted from the first two Ashes of Ages transcripts."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+category: location
+type: location
+name: Prague Locations
+summary: Location pages extracted from the first two Ashes of Ages transcripts.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Prague Locations
+status: session-notes
 ---
+
 # Prague Locations
 
 ## Pages

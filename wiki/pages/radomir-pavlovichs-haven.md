@@ -1,15 +1,22 @@
 ---
-title: "Radomir Pavlovich's Haven"
-name: "Radomir Pavlovich's Haven"
-category: "location"
-summary: "Radomir's attacked haven and first investigation scene."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Radomir Pavlovich's Haven
+summary: Radomir's attacked haven and first investigation scene.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Radomir Pavlovich's Haven
+status: session-notes
+parent: prague-locations
 ---
+
 # Radomir Pavlovich's Haven
 
 ## Overview

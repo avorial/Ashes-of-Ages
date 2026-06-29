@@ -1,17 +1,26 @@
 ---
-title: "Game 2"
-name: "Game 2"
-category: "game"
-summary: "The coterie follows the revenant trail through the marketplace, questions Istvan, Dragan, and Sabina, and begins a spirit ritual before a gargoyle attack interrupts it."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+category: game
+type: game
+name: Game 2
+summary: The coterie follows the revenant trail through the marketplace,
+  questions Istvan, Dragan, and Sabina, and begins a spirit ritual before a
+  gargoyle attack interrupts it.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Game 2
+status: session-notes
 eventDate: "1433"
 timelineDate: "1433"
-sourceImport: "wiki/imports/transcripts/game-2.md"
+sourceImport: wiki/imports/transcripts/game-2.md
 ---
+
 # Game 2
 
 ## Synopsis

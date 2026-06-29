@@ -1,14 +1,21 @@
 ---
-title: "Session Relics and Documents"
-name: "Session Relics and Documents"
-category: "item"
-summary: "Relics, documents, and transcript sources from Game 1 and Game 2."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+category: item
+type: item
+name: Session Relics and Documents
+summary: Relics, documents, and transcript sources from Game 1 and Game 2.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Session Relics and Documents
+status: session-notes
 ---
+
 # Session Relics and Documents
 
 ## Pages

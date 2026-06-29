@@ -1,15 +1,23 @@
 ---
-title: "Fae Dream Fabric"
-name: "Fae Dream Fabric"
-category: "lore"
-summary: "Eliska purchases strange fae-made fabric that exists in both dream and physical worlds."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Fae Dream Fabric
+summary: Eliska purchases strange fae-made fabric that exists in both dream and
+  physical worlds.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Fae Dream Fabric
+status: session-notes
+parent: session-lore
 ---
+
 # Fae Dream Fabric
 
 ## Overview

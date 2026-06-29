@@ -1,15 +1,22 @@
 ---
-title: "Prague Curfew and Kindred Travel"
-name: "Prague Curfew and Kindred Travel"
-category: "lore"
-summary: "Curfew and movement constraints in 1433 Prague."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Prague Curfew and Kindred Travel
+summary: Curfew and movement constraints in 1433 Prague.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Prague Curfew and Kindred Travel
+status: session-notes
+parent: session-lore
 ---
+
 # Prague Curfew and Kindred Travel
 
 ## Confirmed facts

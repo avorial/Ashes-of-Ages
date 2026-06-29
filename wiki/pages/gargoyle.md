@@ -1,16 +1,25 @@
 ---
-title: "Gargoyle"
-name: "Gargoyle"
-category: "npc"
-summary: "Gargoyle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "chantry"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Gargoyle.png"
-parent: "chantry"
+category: npc
+type: npc
+name: Gargoyle
+summary: Gargoyle imported from the Foundry Ashes of Ages world (Chantry,
+  Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - chantry
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Gargoyle
+status: imported
+cover: Gargoyle.png
+parent: chantry
 ---
+
 # Gargoyle
 
 ![Gargoyle](/wiki/media/Gargoyle.png)

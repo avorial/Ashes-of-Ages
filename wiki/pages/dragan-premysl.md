@@ -1,16 +1,25 @@
 ---
-title: "Dragan Premysl"
-name: "Dragan Premysl"
-category: "npc"
-summary: "Dragan Premysl imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "revenants"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Dragan-Premysl.jpg"
-parent: "revenants"
+category: npc
+type: npc
+name: Dragan Premysl
+summary: Dragan Premysl imported from the Foundry Ashes of Ages world
+  (Revenants, Mortal). Mortal.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - revenants
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Dragan Premysl
+status: imported
+cover: Dragan-Premysl.jpg
+parent: revenants
 ---
+
 # Dragan Premysl
 
 ![Dragan Premysl](/wiki/media/Dragan-Premysl.jpg)

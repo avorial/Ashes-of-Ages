@@ -1,15 +1,22 @@
 ---
-title: "Hussite Prague"
-name: "Hussite Prague"
-category: "lore"
-summary: "Historical and supernatural context for 1433 Prague."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Hussite Prague
+summary: Historical and supernatural context for 1433 Prague.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Hussite Prague
+status: session-notes
+parent: session-lore
 ---
+
 # Hussite Prague
 
 ## Overview

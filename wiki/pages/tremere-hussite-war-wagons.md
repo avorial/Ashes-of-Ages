@@ -1,15 +1,23 @@
 ---
-title: "Tremere-Hussite War Wagons"
-name: "Tremere-Hussite War Wagons"
-category: "lore"
-summary: "Red-capped Hussite war wagons attack a Tzimisce courier castle after Istvan delivers Radomir's package."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Tremere-Hussite War Wagons
+summary: Red-capped Hussite war wagons attack a Tzimisce courier castle after
+  Istvan delivers Radomir's package.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tremere-Hussite War Wagons
+status: session-notes
+parent: session-lore
 ---
+
 # Tremere-Hussite War Wagons
 
 ## Overview

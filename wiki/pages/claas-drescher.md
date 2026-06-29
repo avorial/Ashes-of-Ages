@@ -1,16 +1,25 @@
 ---
-title: "Claas Drescher"
-name: "Claas Drescher"
-category: "npc"
-summary: "Claas Drescher imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "chantry"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Claas-Drescher.jpg"
-parent: "chantry"
+category: npc
+type: npc
+name: Claas Drescher
+summary: Claas Drescher imported from the Foundry Ashes of Ages world (Chantry,
+  Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - chantry
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Claas Drescher
+status: imported
+cover: Claas-Drescher.jpg
+parent: chantry
 ---
+
 # Claas Drescher
 
 ![Claas Drescher](/wiki/media/Claas-Drescher.jpg)

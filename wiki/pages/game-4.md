@@ -1,15 +1,23 @@
 ---
-title: "Game 4"
-name: "Game 4"
-category: "game"
-summary: "Session synopsis and lore extraction for Ashes of Ages Game 4."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages", "game-4"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: game
+type: game
+name: Game 4
+summary: Session synopsis and lore extraction for Ashes of Ages Game 4.
+tags:
+  - session-transcript
+  - ashes-of-ages
+  - game-4
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Game 4
+status: session-notes
+parent: session-lore
 ---
+
 # Game 4
 
 ## Synopsis

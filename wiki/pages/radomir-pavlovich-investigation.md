@@ -1,15 +1,22 @@
 ---
-title: "Radomir Pavlovich Investigation"
-name: "Radomir Pavlovich Investigation"
-category: "lore"
-summary: "The open murder investigation driving the first two sessions."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Radomir Pavlovich Investigation
+summary: The open murder investigation driving the first two sessions.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Radomir Pavlovich Investigation
+status: session-notes
+parent: session-lore
 ---
+
 # Radomir Pavlovich Investigation
 
 ## Confirmed facts

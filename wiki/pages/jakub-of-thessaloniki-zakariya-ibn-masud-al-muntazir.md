@@ -1,16 +1,25 @@
 ---
-title: "Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)"
-name: "Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)"
-category: "npc"
-summary: "Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir) imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "npc-roster"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Jakub-of-Thessaloniki-Zakariya-ibn-Masud-al-Muntazir.jpg"
-parent: "npc-roster"
+category: npc
+type: npc
+name: Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)
+summary: Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir) imported from
+  the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - npc-roster
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)
+status: imported
+cover: Jakub-of-Thessaloniki-Zakariya-ibn-Masud-al-Muntazir.jpg
+parent: npc-roster
 ---
+
 # Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)
 
 ![Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)](/wiki/media/Jakub-of-Thessaloniki-Zakariya-ibn-Masud-al-Muntazir.jpg)

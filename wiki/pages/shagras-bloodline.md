@@ -1,15 +1,23 @@
 ---
-title: "Shagra's Bloodline"
-name: "Shagra's Bloodline"
-category: "lore"
-summary: "The Tzimisce Methuselah influence tied to Radomir, Istvan, Theodosia's crisis, and Prague itself."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Shagra's Bloodline
+summary: The Tzimisce Methuselah influence tied to Radomir, Istvan, Theodosia's
+  crisis, and Prague itself.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Shagra's Bloodline
+status: session-notes
+parent: session-lore
 ---
+
 # Shagra's Bloodline
 
 ## Overview

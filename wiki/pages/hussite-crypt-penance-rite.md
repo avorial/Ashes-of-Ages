@@ -1,15 +1,23 @@
 ---
-title: "Hussite Crypt Penance Rite"
-name: "Hussite Crypt Penance Rite"
-category: "lore"
-summary: "Father Zemislav witnesses a man sealed into a crypt for three days after confession."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Hussite Crypt Penance Rite
+summary: Father Zemislav witnesses a man sealed into a crypt for three days
+  after confession.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Hussite Crypt Penance Rite
+status: session-notes
+parent: session-lore
 ---
+
 # Hussite Crypt Penance Rite
 
 ## Overview

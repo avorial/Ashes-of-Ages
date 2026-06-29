@@ -1,16 +1,25 @@
 ---
-title: "Istvan Vlaszy"
-name: "Istvan Vlaszy"
-category: "character"
-summary: "Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "player-characters"]
-visibility: "players"
-approvalStatus: "approved"
+category: character
+type: character
+name: Istvan Vlaszy
+summary: Istvan Vlaszy imported from the Foundry Ashes of Ages world (Player
+  Characters, Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - player-characters
+visibility: players
+approvalStatus: approved
 knownToPlayers: true
-cover: "Istvan-Vlaszy.jpg"
-parent: "player-characters"
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Istvan Vlaszy
+status: imported
+cover: Istvan-Vlaszy.jpg
+parent: player-characters
 ---
+
 # Istvan Vlaszy
 
 ![Istvan Vlaszy](/wiki/media/Istvan-Vlaszy.jpg)

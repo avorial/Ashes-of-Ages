@@ -1,15 +1,22 @@
 ---
-title: "Tremere Public Chantry"
-name: "Tremere Public Chantry"
-category: "location"
-summary: "The public Tremere Chantry front used for knowledge exchange and parley."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Tremere Public Chantry
+summary: The public Tremere Chantry front used for knowledge exchange and parley.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tremere Public Chantry
+status: session-notes
+parent: prague-locations
 ---
+
 # Tremere Public Chantry
 
 ## Overview

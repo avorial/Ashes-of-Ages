@@ -1,15 +1,22 @@
 ---
-title: "Millie's Tavern"
-name: "Millie's Tavern"
-category: "location"
-summary: "Tavern where Alessandro summons the coterie."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Millie's Tavern
+summary: Tavern where Alessandro summons the coterie.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Millie's Tavern
+status: session-notes
+parent: prague-locations
 ---
+
 # Millie's Tavern
 
 ## Overview

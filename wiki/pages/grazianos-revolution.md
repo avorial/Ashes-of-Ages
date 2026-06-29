@@ -1,15 +1,23 @@
 ---
-title: "Graziano's Revolution"
-name: "Graziano's Revolution"
-category: "lore"
-summary: "Graziano de Veronese offers a young revolutionary vision against elder blood bonds."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Graziano's Revolution
+summary: Graziano de Veronese offers a young revolutionary vision against elder
+  blood bonds.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Graziano's Revolution
+status: session-notes
+parent: session-lore
 ---
+
 # Graziano's Revolution
 
 ## Overview

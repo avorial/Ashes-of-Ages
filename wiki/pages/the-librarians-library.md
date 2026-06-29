@@ -1,15 +1,23 @@
 ---
-title: "The Librarian's Library"
-name: "The Librarian's Library"
-category: "location"
-summary: "A Nosferatu-controlled library containing forbidden, heretical, and supernatural texts."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: The Librarian's Library
+summary: A Nosferatu-controlled library containing forbidden, heretical, and
+  supernatural texts.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: The Librarian's Library
+status: session-notes
+parent: prague-locations
 ---
+
 # The Librarian's Library
 
 ## Overview

@@ -1,16 +1,26 @@
 ---
-title: "Dalibor"
-name: "Dalibor"
-category: "character"
-summary: "Dalibor imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Conniver | Demeanor: Idealist | Concept: Spy/Rogue."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "player-characters"]
-visibility: "players"
-approvalStatus: "approved"
+category: character
+type: character
+name: Dalibor
+summary: "Dalibor imported from the Foundry Ashes of Ages world (Player
+  Characters, Vampire). Vampire | Nature: Conniver | Demeanor: Idealist |
+  Concept: Spy/Rogue."
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - player-characters
+visibility: players
+approvalStatus: approved
 knownToPlayers: true
-cover: "Dalibor.jpg"
-parent: "player-characters"
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Dalibor
+status: imported
+cover: Dalibor.jpg
+parent: player-characters
 ---
+
 # Dalibor
 
 ![Dalibor](/wiki/media/Dalibor.jpg)

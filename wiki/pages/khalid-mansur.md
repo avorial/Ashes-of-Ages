@@ -1,15 +1,22 @@
 ---
-title: "Khalid Mansur"
-name: "Khalid Mansur"
-category: "npc"
-summary: "A foreign Cainite encountered by Theodosia at public Elysium."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "npc-roster"
+category: npc
+type: npc
+name: Khalid Mansur
+summary: A foreign Cainite encountered by Theodosia at public Elysium.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Khalid Mansur
+status: session-notes
+parent: npc-roster
 ---
+
 # Khalid Mansur
 
 ## Overview

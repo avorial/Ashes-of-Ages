@@ -1,15 +1,22 @@
 ---
-title: "Neonate Elysium"
-name: "Neonate Elysium"
-category: "location"
-summary: "Elysium-like place linked to the Game 2 follower."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Neonate Elysium
+summary: Elysium-like place linked to the Game 2 follower.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Neonate Elysium
+status: session-notes
+parent: prague-locations
 ---
+
 # Neonate Elysium
 
 ## Overview

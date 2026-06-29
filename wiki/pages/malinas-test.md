@@ -1,15 +1,22 @@
 ---
-title: "Malina's Test"
-name: "Malina's Test"
-category: "lore"
-summary: "Malina ambushes Jardani in Prague in war form but does not try to kill him."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Malina's Test
+summary: Malina ambushes Jardani in Prague in war form but does not try to kill him.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Malina's Test
+status: session-notes
+parent: session-lore
 ---
+
 # Malina's Test
 
 ## Overview

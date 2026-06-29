@@ -1,16 +1,25 @@
 ---
-title: "Sebík Pražský"
-name: "Sebík Pražský"
-category: "npc"
-summary: "Sebík Pražský imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "elders"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Sebik-Prazsky.jpg"
-parent: "elders"
+category: npc
+type: npc
+name: Sebík Pražský
+summary: Sebík Pražský imported from the Foundry Ashes of Ages world (Elders,
+  Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - elders
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sebík Pražský
+status: imported
+cover: Sebik-Prazsky.jpg
+parent: elders
 ---
+
 # Sebík Pražský
 
 ![Sebík Pražský](/wiki/media/Sebik-Prazsky.jpg)

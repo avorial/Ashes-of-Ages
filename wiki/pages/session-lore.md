@@ -1,14 +1,21 @@
 ---
-title: "Session Lore"
-name: "Session Lore"
-category: "lore"
-summary: "Lore and clue pages extracted from Game 1 and Game 2 transcripts."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+category: lore
+type: lore
+name: Session Lore
+summary: Lore and clue pages extracted from Game 1 and Game 2 transcripts.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Session Lore
+status: session-notes
 ---
+
 # Session Lore
 
 ## Pages

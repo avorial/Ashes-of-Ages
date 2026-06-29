@@ -1,15 +1,23 @@
 ---
-title: "Prince Josef's Arm Ritual"
-name: "Prince Josef's Arm Ritual"
-category: "lore"
-summary: "Prince Josef removes Istvan's arm and burns it into ruby-like crystals to expose ancient bloodline elements."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Prince Josef's Arm Ritual
+summary: Prince Josef removes Istvan's arm and burns it into ruby-like crystals
+  to expose ancient bloodline elements.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Prince Josef's Arm Ritual
+status: session-notes
+parent: session-lore
 ---
+
 # Prince Josef's Arm Ritual
 
 ## Overview

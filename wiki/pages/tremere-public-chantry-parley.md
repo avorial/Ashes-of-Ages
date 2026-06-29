@@ -1,15 +1,23 @@
 ---
-title: "Tremere Public Chantry Parley"
-name: "Tremere Public Chantry Parley"
-category: "lore"
-summary: "The coterie meets Pierre de la Salle at the public Tremere Chantry after investigating the butcher shop."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Tremere Public Chantry Parley
+summary: The coterie meets Pierre de la Salle at the public Tremere Chantry
+  after investigating the butcher shop.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Tremere Public Chantry Parley
+status: session-notes
+parent: session-lore
 ---
+
 # Tremere Public Chantry Parley
 
 ## Overview

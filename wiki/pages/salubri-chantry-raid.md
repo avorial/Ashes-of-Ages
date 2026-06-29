@@ -1,15 +1,22 @@
 ---
-title: "Salubri Chantry Raid"
-name: "Salubri Chantry Raid"
-category: "lore"
-summary: "Dragan smuggles Salubri warriors into Prague to attack the Tremere Chantry."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Salubri Chantry Raid
+summary: Dragan smuggles Salubri warriors into Prague to attack the Tremere Chantry.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Salubri Chantry Raid
+status: session-notes
+parent: session-lore
 ---
+
 # Salubri Chantry Raid
 
 ## Overview

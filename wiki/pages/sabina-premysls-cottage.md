@@ -1,15 +1,22 @@
 ---
-title: "Sabina Premysl's Cottage"
-name: "Sabina Premysl's Cottage"
-category: "location"
-summary: "Spirit-thin cottage and Game 2 cliffhanger location."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "prague-locations"
+category: location
+type: location
+name: Sabina Premysl's Cottage
+summary: Spirit-thin cottage and Game 2 cliffhanger location.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Sabina Premysl's Cottage
+status: session-notes
+parent: prague-locations
 ---
+
 # Sabina Premysl's Cottage
 
 ## Overview

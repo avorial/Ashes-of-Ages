@@ -1,15 +1,22 @@
 ---
-title: "Awakened Spirit Objects"
-name: "Awakened Spirit Objects"
-category: "lore"
-summary: "Spirit-bound items in Sabina's cottage."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Awakened Spirit Objects
+summary: Spirit-bound items in Sabina's cottage.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Awakened Spirit Objects
+status: session-notes
+parent: session-lore
 ---
+
 # Awakened Spirit Objects
 
 ## Confirmed facts

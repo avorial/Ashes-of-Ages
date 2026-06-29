@@ -1,16 +1,26 @@
 ---
-title: "Pierre de la Salle"
-name: "Pierre de la Salle"
-category: "npc"
-summary: "Pierre de la Salle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire | Nature: Fanatic | Demeanor: Conformist | Concept: Templar Knight."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "chantry"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Pierre-de-la-Salle.png"
-parent: "chantry"
+category: npc
+type: npc
+name: Pierre de la Salle
+summary: "Pierre de la Salle imported from the Foundry Ashes of Ages world
+  (Chantry, Vampire). Vampire | Nature: Fanatic | Demeanor: Conformist |
+  Concept: Templar Knight."
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - chantry
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Pierre de la Salle
+status: imported
+cover: Pierre-de-la-Salle.png
+parent: chantry
 ---
+
 # Pierre de la Salle
 
 ![Pierre de la Salle](/wiki/media/Pierre-de-la-Salle.png)

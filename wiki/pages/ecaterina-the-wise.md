@@ -1,16 +1,25 @@
 ---
-title: "Ecaterina the Wise"
-name: "Ecaterina the Wise"
-category: "npc"
-summary: "Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "npc-roster"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Ecaterina-the-Wise.png"
-parent: "npc-roster"
+category: npc
+type: npc
+name: Ecaterina the Wise
+summary: Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC
+  Roster, Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - npc-roster
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Ecaterina the Wise
+status: imported
+cover: Ecaterina-the-Wise.png
+parent: npc-roster
 ---
+
 # Ecaterina the Wise
 
 ![Ecaterina the Wise](/wiki/media/Ecaterina-the-Wise.png)

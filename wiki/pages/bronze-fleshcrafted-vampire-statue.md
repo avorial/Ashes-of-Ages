@@ -1,15 +1,22 @@
 ---
-title: "Bronze Fleshcrafted Vampire Statue"
-name: "Bronze Fleshcrafted Vampire Statue"
-category: "item"
-summary: "Living vampire statue removed from Radomir's haven."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-relics-and-documents"
+category: item
+type: item
+name: Bronze Fleshcrafted Vampire Statue
+summary: Living vampire statue removed from Radomir's haven.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Bronze Fleshcrafted Vampire Statue
+status: session-notes
+parent: session-relics-and-documents
 ---
+
 # Bronze Fleshcrafted Vampire Statue
 
 ## Overview

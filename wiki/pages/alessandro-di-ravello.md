@@ -1,16 +1,25 @@
 ---
-title: "Alessandro di Ravello"
-name: "Alessandro di Ravello"
-category: "npc"
-summary: "Alessandro di Ravello imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire."
-status: "imported"
-tags: ["foundry-import", "ashes-of-ages", "elders"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-cover: "Alessandro-di-Ravello.png"
-parent: "elders"
+category: npc
+type: npc
+name: Alessandro di Ravello
+summary: Alessandro di Ravello imported from the Foundry Ashes of Ages world
+  (Elders, Vampire). Vampire.
+tags:
+  - foundry-import
+  - ashes-of-ages
+  - elders
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Alessandro di Ravello
+status: imported
+cover: Alessandro-di-Ravello.png
+parent: elders
 ---
+
 # Alessandro di Ravello
 
 ![Alessandro di Ravello](/wiki/media/Alessandro-di-Ravello.png)

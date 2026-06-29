@@ -1,15 +1,23 @@
 ---
-title: "Adonis's Island Refuge"
-name: "Adonis's Island Refuge"
-category: "lore"
-summary: "An ancient Gangrel named Adonis lives on a river island that may be shielded from Shagra's touch."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Adonis's Island Refuge
+summary: An ancient Gangrel named Adonis lives on a river island that may be
+  shielded from Shagra's touch.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Adonis's Island Refuge
+status: session-notes
+parent: session-lore
 ---
+
 # Adonis's Island Refuge
 
 ## Overview

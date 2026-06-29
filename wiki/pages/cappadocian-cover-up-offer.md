@@ -1,15 +1,23 @@
 ---
-title: "Cappadocian Cover-Up Offer"
-name: "Cappadocian Cover-Up Offer"
-category: "lore"
-summary: "A Cappadocian churchman offers rewards if the coterie hides Radomir's crimes, then threatens Istvan through Mira's ear."
-status: "session-notes"
-tags: ["session-transcript", "ashes-of-ages"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
-parent: "session-lore"
+category: lore
+type: lore
+name: Cappadocian Cover-Up Offer
+summary: A Cappadocian churchman offers rewards if the coterie hides Radomir's
+  crimes, then threatens Istvan through Mira's ear.
+tags:
+  - session-transcript
+  - ashes-of-ages
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+lastEditedBy: patricthomas via bulk edit
+title: Cappadocian Cover-Up Offer
+status: session-notes
+parent: session-lore
 ---
+
 # Cappadocian Cover-Up Offer
 
 ## Overview
