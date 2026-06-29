@@ -1,7 +1,7 @@
 ---
 title: "Jardani Jovonovich"
 category: "character"
-summary: "Jardani Jovonovich imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Architect | Demeanor: Defender."
+summary: "Jardani Jovonovich imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Architect | Demeanor: Defender."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "player-characters"]
 visibility: "players"
@@ -16,14 +16,14 @@ parent: "player-characters"
 
 ## Overview
 
-Jardani Jovonovich imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Architect | Demeanor: Defender.
+Jardani Jovonovich imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Architect | Demeanor: Defender.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** Players
-- **Foundry Name Note:** Damon
-- **Original Foundry Name:** Jardani Jovonovich (Damon)
+- **Actor type:** Vampire
+- **Foundry folder:** Players
+- **Foundry name note:** Damon
+- **Original Foundry name:** Jardani Jovonovich (Damon)
 - **Nature:** Architect
 - **Demeanor:** Defender
 - **Advantages:** Willpower 7; Blood Pool 18/20; humanity 6
@@ -32,7 +32,7 @@ Jardani Jovonovich imported from the Foundry Ashes of Ages world (Player Charact
 
 Mikhail Petrovich was born in a small village near Novgorod, Russia. The son of a blacksmith, he grew up surrounded by tales of heroism and struggle against oppressive rulers. Alexei was a natural leader, known for his strong sense of justice and his ability to rally the villagers against injustices. His childhood was marked by hardship, as his family struggled under the weight of feudal obligations and harsh winters. Transformation: In 1310, during a violent raid by local nobles seeking to assert their control, Alexei's life took a tragic turn. His village was burned, and he was left for dead among the ruins. In this moment of despair was embraced by a Brujah . who recognized his potential as a revolutionary and sought to empower him. Mikhail's transformation into a vampire awakened a powerful drive within him, merging his passion for justice with newfound strength and abilities. In Prague, where Mikhail settled to escape the oppressive feudal system of Russia, he encountered a vibrant scene of rebellion and unrest. Mikhail soon encountered the Prometheans, a. Their vision resonated deeply with him, and he found himself drawn to their cause Mikhail found himself in Prague amidst the growing unrest that would lead to the Hussite Wars. The Hussites, advocating for religious reform and social justice, mirrored his own revolutionary ideals. Mikhail saw an opportunity to align himself with their cause, recognizing that their struggle against oppression could serve as a powerful movement to further the Promethean dream. He became an influential figure among the Hussites, using his oratory skills to inspire the masses. Mikhail helped organize protests and uprisings against the established Church and nobility, rallying both Kindred and mortals to fight for a common cause. His dual identity as a Brujah and a supporter of the Promethean ideals allowed him to bridge gaps between various factions, fostering unity in the fight for freedom.
 
-## Roleplaying Notes
+## Roleplaying notes
 
 Ar
 
@@ -64,7 +64,7 @@ Ar
 - **Class 1 (Heavy Clothing)**; VDA 350
   Armor adds its rating to the character’s soak dice pool against bashing damage, lethal damage, and aggravated damage from fangs and claws. It does not protect against fire or sunlight. However, armor also subtracts a number of dice from dice pools related to bodily coordination and agility (most Dexterity-based dice pools). This is reflected in the penalty listing. Attackers may make targeting rolls to hit unprotected portions of a defender and thus ignore the armor (Storyteller assigns difficulty penalty — typically +1 or +2).
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **Generation** (5); V20 114
   ●
@@ -234,7 +234,7 @@ Ar
   Damage: Str; knockdown
 - **Sword**; V20 280
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Celerity** (0); V20 142
   Each point of Celerity adds one die to every Dexterity-related dice roll. In addition, the player can spend one blood point to take an extra action up to the number of dots he has in Celerity at the beginning of the relevant turn; this expenditure can go beyond her normal Generation maximum. Any dots used for extra actions, however, are no longer available for Dexterity-related rolls during that turn. These additional actions must be physical (e.g., the vampire cannot use a mental Discipline like Dominate multiple times in one turn), and extra actions occur at the end of the turn (the vampire's regular action still takes place per her initiative roll).

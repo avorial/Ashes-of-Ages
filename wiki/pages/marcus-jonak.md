@@ -15,12 +15,12 @@ parent: "main-actors"
 
 Marcus Jonak imported from the Foundry Ashes of Ages world (Main, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** main
-- **Foundry Name Note:** Test
-- **Original Foundry Name:** Marcus Jonak (Test)
+- **Actor type:** Vampire
+- **Foundry folder:** main
+- **Foundry name note:** Test
+- **Original Foundry name:** Marcus Jonak (Test)
 - **Advantages:** Blood Pool 0/10
 
 ## Attributes
@@ -45,7 +45,7 @@ Marcus Jonak imported from the Foundry Ashes of Ages world (Main, Vampire). Vamp
 
 **Knowledges:** Academics 2, Investigation 1, Law 1
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Auspex** (0)
   The most discerning vampires see in the dark, hearwhispers on the wind and the crash of rats' feetstomping a hundred yards away. They feel the tendrils offog and know how close warm bodies are. Supernaturallevels of sensitivity and awareness blossom further as thevampire develops his gifts. Eventually, he can see thecolors of the souls around him, read minds, and piercethe illusions made by other monsters.For more on using Auspex to pierce Obfuscate and othermental illusions, see the sidebar See the Unseen(p. 195).Sensory details are of the utmost importance whenusing Auspex. Storytellers should always add additionaland useful sensory details with increasingly successful rolls.

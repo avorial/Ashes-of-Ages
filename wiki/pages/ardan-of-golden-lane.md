@@ -18,10 +18,10 @@ parent: "chantry"
 
 Ardan of Golden Lane imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's / Chantry
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's / Chantry
 - **Advantages:** Blood Pool 0/10
 
 ## Background
@@ -40,7 +40,7 @@ Though dedicated to his clan, Arden never forgot his personal ambitions. He main
 
 Now, centuries into his unlife, **Arden of Golden Lane** stands as one of the most influential Tremere in Prague. His shop of curiosities continues to serve as a front for his experiments and a gathering place for those seeking arcane knowledge. Beneath its unassuming exterior, the Tremere chantry hums with activity as Arden and his fellow warlocks continue to push the boundaries of blood magic and alchemical transformation. Hidden in plain sight, Arden manipulates the city's power players and ensures that the Tremere's influence remains strong, even as he continues his personal quest for ultimate alchemical enlightenment.
 
-## Roleplaying Notes
+## Roleplaying notes
 
 Clan
 [Tremere](https://whitewolf.fandom.com/wiki/Tremere_(VTM))

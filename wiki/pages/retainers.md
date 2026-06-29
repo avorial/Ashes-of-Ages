@@ -14,7 +14,7 @@ Retainer NPCs and creatures imported from the Ashes of Ages Foundry world.
 
 ## Pages
 
-- [[Horse, Large [Trained]]]
+- [[Horse, large [trained]]]
 
 ## Source
 

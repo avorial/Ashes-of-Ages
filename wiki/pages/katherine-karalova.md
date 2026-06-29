@@ -1,7 +1,7 @@
 ---
 title: "Katherine Karálová"
 category: "character"
-summary: "Katherine Karálová imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Defender | Demeanor: Pedagogue | Concept: Evergreen Scholar."
+summary: "Katherine Karálová imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Defender | Demeanor: Pedagogue | Concept: Evergreen Scholar."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "player-characters"]
 visibility: "players"
@@ -16,14 +16,14 @@ parent: "player-characters"
 
 ## Overview
 
-Katherine Karálová imported from the Foundry Ashes of Ages world (Player Characters, Vampire). Vampire | Nature: Defender | Demeanor: Pedagogue | Concept: Evergreen Scholar.
+Katherine Karálová imported from the Foundry Ashes of Ages world (Player characters, Vampire). Vampire | Nature: Defender | Demeanor: Pedagogue | Concept: Evergreen Scholar.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** Players
-- **Foundry Name Note:** Laura
-- **Original Foundry Name:** Katherine Karálová (Laura)
+- **Actor type:** Vampire
+- **Foundry folder:** Players
+- **Foundry name note:** Laura
+- **Original Foundry name:** Katherine Karálová (Laura)
 - **Nature:** Defender
 - **Demeanor:** Pedagogue
 - **Concept:** Evergreen Scholar
@@ -77,7 +77,7 @@ One evening, as she quietly emptied the ashes of a fireplace in one of the many 
 - **Gained experience**
   Game 14 - 04/21/2025
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **Death by Stake** (5)
   Like the vampires of legend, a wooden stake through your heart can destroy you immediately. This Flaw is worth two points if the stake must be cut from a specific type of wood, such as ash or rowan, to inflict Final Death. If any wooden stake can kill you, this Flaw is worth five points. Vampires with this Flaw do not know their vulnerability.
@@ -154,7 +154,7 @@ One evening, as she quietly emptied the ashes of a fireplace in one of the many 
   Accuracy: Normal
   Damage: Strength
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Obfuscate** (0); VDA 224
   To many common men and women living in the 13th century, the Devil lurks in every shadow and hides behind every corner. Evil is ever-present and a threat that can rarely be seen with your eyes.

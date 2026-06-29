@@ -18,12 +18,12 @@ parent: "elders"
 
 Adrastos von Orlok imported from the Foundry Ashes of Ages world (Elders, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's / Elders
-- **Foundry Name Note:** Tori Prim
-- **Original Foundry Name:** Adrastos von Orlok (Tori Prim)
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's / Elders
+- **Foundry name note:** Tori Prim
+- **Original Foundry name:** Adrastos von Orlok (Tori Prim)
 - **Advantages:** Willpower 5; Blood Pool 0/15
 
 ## Background
@@ -62,7 +62,7 @@ Despite his meticulous planning, Adrastos' manipulations have their dangers. His
 
 **Knowledges:** Academics 1, Enigmas 2, Law 2, Occult 1, Politics 3
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Auspex** (0)
   The most discerning vampires see in the dark, hear whispers on the wind and the crash of rats' feet stomping a hundred yards away. They feel the tendrils of fog and know how close warm bodies are. Supernatural levels of sensitivity and awareness blossom further as the vampire develops his gifts. Eventually, he can see the colors of the souls around him, read minds, and pierce the illusions made by other monsters.For more on using Auspex to pierce Obfuscate and othermental illusions, see the sidebar See the Unseen (p. 195).Sensory details are of the utmost importance when using Auspex. Storytellers should always add additional and useful sensory details with increasingly successful rolls.

@@ -1,5 +1,5 @@
 ---
-title: "Main Actors"
+title: "Main actors"
 category: "npc"
 summary: "Actors from the Foundry main folder."
 status: "imported"
@@ -8,7 +8,7 @@ visibility: "gm"
 approvalStatus: "approved"
 knownToPlayers: false
 ---
-# Main Actors
+# Main actors
 
 Actors from the Foundry main folder.
 

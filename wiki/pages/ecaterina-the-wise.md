@@ -1,7 +1,7 @@
 ---
 title: "Ecaterina the Wise"
 category: "npc"
-summary: "Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire."
+summary: "Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC roster, Vampire). Vampire."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "npc-roster"]
 visibility: "gm"
@@ -16,12 +16,12 @@ parent: "npc-roster"
 
 ## Overview
 
-Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC Roster, Vampire). Vampire.
+Ecaterina the Wise imported from the Foundry Ashes of Ages world (NPC roster, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's
 - **Advantages:** Blood Pool 0/10
 
 ## Background
@@ -54,7 +54,7 @@ Now, in the heart of Prague's Kindred society, Ecaterina gathers her own circle 
 
 In 1433, as Prague trembles on the edge of transformation, Ecaterina stands ready to be its catalyst, haunted by the past but relentless in her mission to shape the future.
 
-## Roleplaying Notes
+## Roleplaying notes
 
 Ecaterina the Wise, agitator of Prague
 

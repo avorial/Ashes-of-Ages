@@ -1,7 +1,7 @@
 ---
 title: "Tobias Doubravský"
 category: "npc"
-summary: "Tobias Doubravský imported from the Foundry Ashes of Ages world (Unfiled Actors, Vampire). Vampire."
+summary: "Tobias Doubravský imported from the Foundry Ashes of Ages world (Unfiled actors, Vampire). Vampire."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "unfiled-actors"]
 visibility: "gm"
@@ -16,12 +16,12 @@ parent: "unfiled-actors"
 
 ## Overview
 
-Tobias Doubravský imported from the Foundry Ashes of Ages world (Unfiled Actors, Vampire). Vampire.
+Tobias Doubravský imported from the Foundry Ashes of Ages world (Unfiled actors, Vampire). Vampire.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** Unfiled
+- **Actor type:** Vampire
+- **Foundry folder:** Unfiled
 - **Advantages:** Blood Pool 0/15
 
 ## Background
@@ -52,11 +52,11 @@ Tobias dresses in the rich garments of a nobleman, befitting his status in the s
 
 **Knowledges:** Enigmas 2, Investigation 1
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **New background** (1)
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Chimerstry** (0); VDA 204
 - **● Ignis Fatuus** (1); VDA 204

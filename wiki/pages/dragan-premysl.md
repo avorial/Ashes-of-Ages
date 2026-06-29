@@ -18,10 +18,10 @@ parent: "revenants"
 
 Dragan Premysl imported from the Foundry Ashes of Ages world (Revenants, Mortal). Mortal.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Mortal
-- **Foundry Folder:** NPC's / Reventants
+- **Actor type:** Mortal
+- **Foundry folder:** NPC's / Reventants
 - **Advantages:** Willpower 9; Blood Pool 0/10; humanity 4
 
 ## Appearance
@@ -32,7 +32,7 @@ Dragan is a towering figure with a muscular build and twisted features, includin
 
 Raised from birth to serve the dark goals of the Tzimisce and to protect the ancient sites of Bohemia, Dragan's life has been a series of violent initiations. In the Premysl family, he is a direct descendant of warriors sworn to defend the Vysehrad Hill and the secrets it conceals. Despite his revenant nature, Dragan possesses an almost religious zeal in his loyalty to the family's ancient mission. He sees the Methuselah of Vysehrad as a god and himself as its chosen protector.
 
-## Roleplaying Notes
+## Roleplaying notes
 
 Dragan is determined to preserve the Premysl family's legacy by reawakening the Methuselah of Vysehrad. He believes his own salvation lies in the fulfillment of his family's duty, and he harbors a deep resentment toward outsiders--especially those, like Christof, who dared to interfere. If given the chance, he would stop at nothing to punish anyone who would threaten Vysehrad or the Premysl legacy.
 
@@ -58,7 +58,7 @@ Dragan is determined to preserve the Premysl family's legacy by reawakening the 
 
 **Knowledges:** Medicine 2, Occult 2
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **Resources**; VDA 181
   Players may purchase Resources for their characterswith pooled Background points.
@@ -177,7 +177,7 @@ Dragan is determined to preserve the Premysl family's legacy by reawakening the 
 - **Stake**; V20 280
   May paralyze a vampire if driven through the heart. The attacker must target the heart (difficulty 9) and score three damage successes.
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Potence** (0); V20 192
   Each dot that the vampire has in Potence adds one die to all Strength-related dice rolls. Further, the player can spend one blood point and change his Potence dice into an equal number of automatic successes to all Strength-related rolls for the turn. In melee and brawling combat, successes from Potence (either rolled or automatic) are applied to the damage roll results.

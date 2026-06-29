@@ -1,29 +1,29 @@
 ---
-title: "Pierre De La Salle"
+title: "Pierre de la Salle"
 category: "npc"
-summary: "Pierre De La Salle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire | Nature: Fanatic | Demeanor: Conformist | Concept: Templar Knight."
+summary: "Pierre de la Salle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire | Nature: Fanatic | Demeanor: Conformist | Concept: Templar Knight."
 status: "imported"
 tags: ["foundry-import", "ashes-of-ages", "chantry"]
 visibility: "gm"
 approvalStatus: "approved"
 knownToPlayers: false
-cover: "Pierre-De-La-Salle.png"
+cover: "Pierre-de-la-Salle.png"
 parent: "chantry"
 ---
-# Pierre De La Salle
+# Pierre de la Salle
 
-![Pierre De La Salle](/wiki/media/Pierre-De-La-Salle.png)
+![Pierre de la Salle](/wiki/media/Pierre-de-la-Salle.png)
 
 ## Overview
 
-Pierre De La Salle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire | Nature: Fanatic | Demeanor: Conformist | Concept: Templar Knight.
+Pierre de la Salle imported from the Foundry Ashes of Ages world (Chantry, Vampire). Vampire | Nature: Fanatic | Demeanor: Conformist | Concept: Templar Knight.
 
-## Foundry Details
+## Foundry details
 
-- **Actor Type:** Vampire
-- **Foundry Folder:** NPC's / Chantry
-- **Foundry Name Note:** Ali
-- **Original Foundry Name:** Pierre De La Salle (Ali)
+- **Actor type:** Vampire
+- **Foundry folder:** NPC's / Chantry
+- **Foundry name note:** Ali
+- **Original Foundry name:** Pierre de la Salle (Ali)
 - **Nature:** Fanatic
 - **Demeanor:** Conformist
 - **Concept:** Templar Knight
@@ -69,7 +69,7 @@ Pierre De La Salle imported from the Foundry Ashes of Ages world (Chantry, Vampi
 - **Class 5 (Knight's Armor)**; VDA 350
   Armor adds its rating to the character’s soak dice pool against bashing damage, lethal damage, and aggravated damage from fangs and claws. It does not protect against fire or sunlight. However, armor also subtracts a number of dice from dice pools related to bodily coordination and agility (most Dexterity-based dice pools). This is reflected in the penalty listing. Attackers may make targeting rolls to hit unprotected portions of a defender and thus ignore the armor (Storyteller assigns difficulty penalty — typically +1 or +2).
 
-## Features, Backgrounds, Merits, and Flaws
+## Features, backgrounds, merits, and flaws
 
 - **Generation** (5)
 - **Mentor** (5)
@@ -98,7 +98,7 @@ Pierre De La Salle imported from the Foundry Ashes of Ages world (Chantry, Vampi
 - **Spear**
 - **Lance**
 
-## Disciplines and Powers
+## Disciplines and powers
 
 - **Thaumaturgy** (0)
 - **Creatio Ignis (Creation of Fire)** (0); VDA 297
