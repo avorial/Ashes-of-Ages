@@ -333,3 +333,9 @@ Heavy Iron Spikes
 ## Session notes
 
 - [[Game 1]] - introduced as a former Catholic inquisitor turned Hussite priest under [[Alessandro di Ravello]]'s influence. He removes the [[Bronze Fleshcrafted Vampire Statue]] from Radomir's haven.
+
+## Game 3-4 notes
+
+- In [[Game 3]], Father Zemislav uses abyssal arms during the gargoyle battle, contributing to the shadow crisis after the ritual.
+- At the [[Red Calf]], he connects Jacob's words to recent Lasombra upheaval and a black-sun vision.
+- In [[Game 4]], he witnesses the [[Hussite Crypt Penance Rite]] and researches antediluvian influence at [[The Librarian's Library]].

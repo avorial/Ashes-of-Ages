@@ -126,3 +126,11 @@ Sabina believes she is meant to serve as the Methuselah's voice in Prague, inter
 
 - [[Game 1]] - appears in visions connected to Radomir's haven and the Premysl revenants.
 - [[Game 2]] - explains that Radomir received a mysterious ritual package and used her as a vessel for spirit communion. She begins a ritual to contact the spirit witness before a gargoyle breaks the ward.
+
+## Game 3-4 notes
+
+- In [[Game 3]], Sabina is seized during the gargoyle attack at her cottage.
+- After the gargoyle is destroyed, she is lifted through the ruined roof and carried north by an unidentified floating Cainite.
+- The coterie suspects a Tremere Embrace, but the transcript does not confirm it.
+
+Related: [[Sabina's Abduction]]

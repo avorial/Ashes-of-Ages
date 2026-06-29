@@ -188,3 +188,9 @@ Under cover of day, Josef slipped into Brandl's lair and, while the prince lay h
 
 - [[Game 1]] - his authority frames the investigation; correspondence shows he refused Radomir's request to expel or enable attacks on Tremere domain.
 - [[Game 1]] - the [[Jewish Quarter]] is under his particular protection.
+
+## Game 3-4 notes
+
+- Game 4 suggests Radomir's secret work may have fed attempts to help Prince Josef resist antediluvian pressure.
+- [[The Librarian]] says Josef may listen if the coterie can show his own agents are escalating Prague toward war.
+- A meeting is arranged in the [[Castle Catacombs]].

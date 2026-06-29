@@ -1,0 +1,27 @@
+---
+title: "Tremere Red Caps"
+name: "Tremere Red Caps"
+category: "lore"
+summary: "Red-capped messengers and servants are tied to Tremere mortal support networks rather than changeling redcaps."
+status: "session-notes"
+tags: ["session-transcript", "ashes-of-ages"]
+visibility: "gm"
+approvalStatus: "approved"
+knownToPlayers: false
+parent: "session-lore"
+---
+# Tremere Red Caps
+
+## Overview
+
+Research at [[The Librarian's Library]] identifies red caps as Tremere-associated servants or messengers. The name derives from old mage/Ars Magica traditions of messengers wearing red caps for luck, later caught in Clan Tremere's orbit.
+
+## Confirmed Details
+
+- The red caps seen with Hussite war wagons are not identified as fae Redcaps.
+- Their association points toward Tremere influence among mortal troops and messengers.
+- This helps explain red-capped Hussite forces attacking Tzimisce holdings.
+
+## Appears In
+
+- [[Game 4]]

@@ -319,3 +319,8 @@ Synesthetia
 ## Session notes
 
 - [[Game 2]] - participates in the marketplace investigation and experiences synesthetic impressions at [[Sabina Premysl's Cottage]], including graveyard/sorrow imagery.
+
+## Game 3-4 notes
+
+- In [[Game 3]], Eliska uses an illusion of Sabina running away to confuse the gargoyle scene.
+- In [[Game 4]], she purchases and researches the [[Fae Dream Fabric]].

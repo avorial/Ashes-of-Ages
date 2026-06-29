@@ -114,3 +114,8 @@ Despite his meticulous planning, Adrastos' manipulations have their dangers. His
 - Foundry world archive: aoe.zip
 - Actor ID: Ue3ca7pC7GouxIxx
 - Actor folder: NPC's / Elders
+
+## Game 3-4 notes
+
+- In [[Game 3]], a figure at [[Public Elysium]] is addressed in the transcript as Andreas or Adrastos von Orlok / Master Orlok.
+- The coterie finds him unimpressed during the Elysium sequence after Sabina's abduction. The exact transcript name should be reviewed.

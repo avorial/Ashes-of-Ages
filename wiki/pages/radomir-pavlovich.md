@@ -44,3 +44,9 @@ Radomir Pavlovich was a Tzimisce elder in Prague and the representative/contact 
 ## Notes
 
 Only facts explicitly surfaced in the transcripts are included here. The identity of Radomir's killer remains unconfirmed.
+
+## Game 3-4 notes
+
+- [[Dragan Premysl]] and [[Mira Vlaszy]] reveal that Radomir traded Cainites or bodies to the Tremere for magical secrets.
+- His work may have been connected to [[Prince Joseph and Antediluvian Influence]], but the crimes remain his own.
+- Sabina's abduction may be tied to knowledge Radomir tried to transmit through spirits.

@@ -81,3 +81,9 @@ Zakariya's tactics focused on isolating Zvi, cutting him off from his sources of
 - Foundry world archive: aoe.zip
 - Actor ID: zINjJVvPQKlqVITV
 - Actor folder: NPC's
+
+## Game 3-4 notes
+
+- In [[Game 3]], the crossbow trail leads to the [[Red Calf]], where a man called Jacob speaks of liberation from the blood bond.
+- The transcript's Jacob may be this Jakub, but that identification should be checked against the table's intended name.
+- His speech introduces [[Blood Bond and the Crown]], [[Fireflower and Proto-Vauldere]], and [[Jacob's Liberation Offer]].

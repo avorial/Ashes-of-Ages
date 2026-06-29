@@ -68,3 +68,11 @@ Mira seeks to uphold her family's legacy by any means necessary, valuing duty ov
 - Foundry world archive: aoe.zip
 - Actor ID: gFg7AtfqV0Uik6X1
 - Actor folder: NPC's / Reventants
+
+## Game 3-4 notes
+
+- In [[Game 4]], Mira is found alive after a Cappadocian negotiator uses an ear said to be hers as leverage.
+- She says the ear had been given earlier as part of Radomir's Tremere arrangements.
+- She confirms delivering bodies to the [[Golden Lane Shop]] and explains parts of Radomir's communication network.
+
+Related: [[Mira Vlaszy's Testimony]]

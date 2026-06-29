@@ -302,3 +302,7 @@ Ar
 
 - [[Game 1]] - introduced as a Brujah supporter and leader within the Hussite movement.
 - [[Game 2]] - his Hussite/town guard contacts are noted as a possible way to move through Prague after curfew.
+
+## Game 3-4 notes
+
+- In [[Game 3]], Jardani forces the gargoyle's wings apart at Sabina's cottage and later follows upward far enough to see Sabina carried north by a floating Cainite.
