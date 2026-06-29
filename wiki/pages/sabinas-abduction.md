@@ -23,11 +23,10 @@ After the gargoyle is destroyed at [[Sabina Premysl's Cottage]], the ritual does
 - Sabina survives the immediate gargoyle attack.
 - She is taken away through the air after the ritual erupts.
 - The abductor is not identified by name in the transcript.
-- The coterie suspects Tremere involvement because of the gargoyle, blood magic, and a later Tremere request for retroactive permission for an Embrace.
+- The coterie suspects Tremere involvement because of the gargoyle, blood magic, and a later Tremere request for retroactive permission for an Embrace. The Embrace is later confirmed as having happened off screen.
 
 ## Uncertain
 
-- Whether Sabina was Embraced into Clan Tremere is strongly suspected, but not confirmed in the player-facing events.
 - The identity of the floating abductor is unknown.
 
 ## Appears In

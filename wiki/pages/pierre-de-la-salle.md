@@ -188,3 +188,8 @@ Pierre de la Salle imported from the Foundry Ashes of Ages world (Chantry, Vampi
 - Foundry world archive: aoe.zip
 - Actor ID: DvQBdT2G2g1MAvPh
 - Actor folder: NPC's / Chantry
+
+## Game 5-8 notes
+
+- In [[Game 8]], Pierre receives the coterie at the [[Tremere Public Chantry]].
+- He offers occult exchanges, asks whether they supported Dragan's attack, and confirms the logic behind [[Tremere as Garbage Men]].

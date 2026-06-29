@@ -37,3 +37,12 @@ knownToPlayers: false
 - [[Golden Lane Shop]]
 - [[The Librarian's Library]]
 - [[Castle Catacombs]]
+
+## Game 5-8 additions
+
+- [[Jewish Quarter Hidden Yeshiva]]
+- [[Night Market]]
+- [[Church Near the Night Market]]
+- [[Three Keys Tavern]]
+- [[Butcher Shop of the Impossible River]]
+- [[Tremere Public Chantry]]

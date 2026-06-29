@@ -70,4 +70,9 @@ After [Christof Romuald](https://whitewolf.fandom.com/wiki/Christof_Romuald) and
 ## Game 3-4 notes
 
 - In [[Game 4]], a Cappadocian churchman or abbot makes the [[Cappadocian Cover-Up Offer]].
-- The transcript name sounds like Brother Garganald in places; this may be Garinol or an associate, but the identification is uncertain.
+
+## Game 5-8 notes
+
+- The corrected spelling is Garinol.
+- In [[Game 5]], [[Prince Josef Zvi]] describes Garinol as a figure of status and reputation who has helped maintain court secrets and prevent Cainite conflict.
+- Garinol remains tied to the [[Cappadocian Cover-Up Offer]].

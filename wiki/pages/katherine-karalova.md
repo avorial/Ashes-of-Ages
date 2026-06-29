@@ -308,3 +308,8 @@ One evening, as she quietly emptied the ashes of a fireplace in one of the many 
 
 - In [[Game 3]], Katherine's Nosferatu connection points the coterie toward [[The Librarian]].
 - In [[Game 4]], she gives the [[Book of Koldun Exorcery]] to [[The Librarian]] as payment for arranging the audience with [[Prince Josef Zvi]].
+
+## Game 5-8 notes
+
+- In [[Game 7]], Katherine begins cataloging books from her sire's library for future removal and safekeeping.
+- She assists in interpreting Theodosia's crisis and the growing revolutionary danger.

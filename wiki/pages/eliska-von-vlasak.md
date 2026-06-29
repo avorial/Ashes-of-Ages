@@ -324,3 +324,8 @@ Synesthetia
 
 - In [[Game 3]], Eliska uses an illusion of Sabina running away to confuse the gargoyle scene.
 - In [[Game 4]], she purchases and researches the [[Fae Dream Fabric]].
+
+## Game 5-8 notes
+
+- In [[Game 8]], Eliska sees the [[Impossible River]] and follows it to the [[Butcher Shop of the Impossible River]].
+- Meat purchased there later appears to be the heart of her dead husband.

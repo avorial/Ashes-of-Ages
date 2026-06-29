@@ -230,3 +230,8 @@ This has also led him to support the current prince and with those succeses has 
 ## Session notes
 
 - [[Game 1]] - summons the coterie to [[Millie's Tavern]], announces [[Radomir Pavlovich]]'s destruction, and gives the group authority to investigate on behalf of the elders.
+
+## Game 5-8 notes
+
+- In [[Game 8]], [[Father Zemislav]] begins spreading the [[Alessandro Hussite Extremist Rumor]] to weaken Alessandro politically.
+- Alessandro is discussed as a difficult but significant elder target in the [[Elder Targets Plot]].

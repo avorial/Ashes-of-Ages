@@ -25,3 +25,7 @@ Research at [[The Librarian's Library]] identifies red caps as Tremere-associate
 ## Appears In
 
 - [[Game 4]]
+
+## Game 5-8 notes
+
+- In [[Game 5]], Istvan clarifies that the red caps he saw were a contingent of Tremere mortal resources, with active mages among some units.

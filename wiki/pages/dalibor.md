@@ -359,3 +359,9 @@ Dalibor of Kozojedy
 
 - In [[Game 3]], Dalibor uses Peaceful Touch during the gargoyle fight.
 - In [[Game 4]], he has a dangerous hunt involving a regenerating rat-faced victim and later pushes the Cappadocian negotiator over the price of silence.
+
+## Game 5-8 notes
+
+- In [[Game 6]], Dalibor pledges support to [[Graziano de Veronese]] and the revolutionary cause.
+- In [[Game 7]], he begins a justice-for-favors relationship with the [[Mortal Sheriff of Prague]] and targets [[Wilhelm of the Three Keys]].
+- In [[Game 8]], he hears from [[Pierre de la Salle]] that his sire has delivered unwanted broodmates to the Tremere.
