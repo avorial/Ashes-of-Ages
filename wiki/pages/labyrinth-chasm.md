@@ -1,13 +1,14 @@
 ---
 title: "Labyrinth Chasm"
 name: "Labyrinth Chasm"
-category: "mythos"
+category: lore
 summary: "A zero-shroud hole into the Labyrinth glimpsed below the Salubri caves."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: lore
 ---
 # Labyrinth Chasm
 

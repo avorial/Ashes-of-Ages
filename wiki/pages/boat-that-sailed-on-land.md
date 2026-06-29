@@ -1,13 +1,14 @@
 ---
 title: "Boat That Sailed on Land"
 name: "Boat That Sailed on Land"
-category: "mythos"
+category: lore
 summary: "Greg's elemental working that moves a boat across earth as if over water."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: lore
 ---
 # Boat That Sailed on Land
 

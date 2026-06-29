@@ -2,18 +2,27 @@
 title: "Micah Vykos"
 name: "Micah Vykos"
 category: "npc"
-summary: "A metamorphosis-minded Tzimisce Anarch leader called Micah and linked at the table to the Vykos name."
-status: "session-notes"
-tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+type: "npc"
+summary: "Confirmed Tzimisce Anarch leader, also called Micah, present during the Fireflower camp planning."
+tags:
+  - ashes-of-ages
+  - chronicle-1
+  - npc
+  - anarchs
+  - tzimisce
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+status: final-archive
+parent: anarchs
 ---
 # Micah Vykos
 
 ## Overview
 
-Micah is a metamorphosis-minded Tzimisce Anarch leader present in the [[Fireflower Anarch Camp]]. The table discussion implies a surname beginning with V and connects the figure to Vykos; the page title preserves that likely identity while noting the transcript's uncertainty.
+Micah Vykos is a metamorphosis-minded Tzimisce Anarch leader present in the [[Fireflower Anarch Camp]]. Micah and Vykos are the same person.
 
 ## Appears In
 
@@ -23,16 +32,14 @@ Micah is a metamorphosis-minded Tzimisce Anarch leader present in the [[Fireflow
 
 ## Confirmed Details
 
-- Micah participates in discussions about [[Istvan Vlaszy]]'s Embrace.
-- Micah speaks about the "Hydra" of elder power and the difficulty of killing it before enough heads are removed.
-- Micah says the Prince knows the Shagra creature and that it believes it enslaved him, but may be wrong.
-- Micah says the Tremere have built a weapon to strike an ancient's psyche and that the weapon may need to be forced into use.
-
-## Uncertain
-
-- Exact full name and canonical identity should be human-reviewed against future notes.
+- Participates in discussions about [[Istvan Vlaszy]]'s Embrace.
+- Speaks about the "Hydra" of elder power and the difficulty of killing it before enough heads are removed.
+- Says the Prince knows the Shagra creature and that the creature believes it enslaved him, but may be wrong.
+- Says the Tremere have built a weapon to strike an ancient's psyche and that the weapon may need to be forced into use.
 
 ## Related
 
 - [[Tremere Weapon Against Shagra]]
+- [[Tremere Plot Against Shagra]]
 - [[Night of Chaos]]
+- [[Anarchs]]

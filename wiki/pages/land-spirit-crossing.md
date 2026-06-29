@@ -1,13 +1,14 @@
 ---
 title: "Land-Spirit Crossing"
 name: "Land-Spirit Crossing"
-category: "mythos"
+category: lore
 summary: "The moment the pack crosses into land that welcomes Istvan instead of enslaving him."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: lore
 ---
 # Land-Spirit Crossing
 

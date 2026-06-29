@@ -1,13 +1,14 @@
 ---
 title: "Helsinki and the Camarilla News"
 name: "Helsinki and the Camarilla News"
-category: "lore"
+category: event
 summary: "The pack learns the Anarchs lost and the Camarilla formed."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: event
 ---
 # Helsinki and the Camarilla News
 

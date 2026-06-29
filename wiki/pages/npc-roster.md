@@ -1,32 +1,43 @@
 ---
-category: npc
-type: npc
-name: NPC Roster
-summary: Top-level NPC Roster imported from the Ashes of Ages Foundry world.
+title: "NPC Roster"
+name: "NPC Roster"
+category: "npc"
+type: "npc"
+summary: "Reader-facing NPC index for Ashes of Ages Chronicle 1."
 tags:
-  - foundry-import
   - ashes-of-ages
+  - chronicle-1
+  - index
+  - npc
 visibility: players
 approvalStatus: approved
 knownToPlayers: true
 keyLinks: []
 aliases: []
-lastEditedBy: patricthomas via bulk edit
-title: NPC Roster
-status: imported
+status: final-archive
 ---
-
 # NPC Roster
 
-Top-level NPC Roster imported from the Ashes of Ages Foundry world.
+## Quick Indexes
 
-## Pages
+- [[Prague Elders]]
+- [[Anarchs]]
+- [[Tremere]]
+- [[Tzimisce and Revenants]]
+- [[Northern Allies]]
 
-- [[Ecaterina the Wise]]
+## Frequently Referenced NPCs
+
+- [[Alessandro di Ravello]]
+- [[Prince Josef Zvi]]
+- [[Radomir Pavlovich]]
+- [[Adrastos von Orlok]]
+- [[Dragan Premysl]]
+- [[Sabina Premysl]]
 - [[Garinol]]
 - [[Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)]]
-- [[Wilhem Streicher]]
-
-## Source
-
-- Foundry world: Ashes of Ages (aoe.zip)
+- [[Graziano de Veronese]]
+- [[Micah Vykos]]
+- [[Pierre de la Salle]]
+- [[Greg the Tremere]]
+- [[Devara]]

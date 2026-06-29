@@ -101,7 +101,7 @@ parent: session-lore
 
 - [[Istvan Vlaszy]] warns his caravan through the [[Gypsy Caravan Escape Warning]].
 - Istvan finds [[Borislav Premysl]] and [[Dragan's Szlachta Work]] at [[Dragan Premysl's House]].
-- [[Katherine Karalova]] gathers [[Garinol Intelligence]].
+- [[Katherine Karálová]] gathers [[Garinol Intelligence]].
 - The coterie follows directions to the [[Hidden Salubri Cave]], learns about [[Salubri War Names]], and discovers the [[Labyrinth Chasm]].
 - [[Carrion Footprints at the River]] suggest a corpse-like watcher followed them.
 
@@ -118,7 +118,7 @@ parent: session-lore
 - The camp debates Istvan's place, leading to [[Istvan's Banu Haqim Embrace]].
 - [[Father Zemislav]] creates the [[Silver Fireflower Chalice]] and leads the [[First Fireflower Valderie]].
 - The Anarch leaders discuss [[Micah Vykos]], the [[Tremere Weapon Against Shagra]], [[Sabina as Tremere Leverage]], and the [[Gunpowder Diversion at Elder Elysium]].
-- [[Katherine Karalova]] sees the [[Blue Comet Omen]].
+- [[Katherine Karálová]] sees the [[Blue Comet Omen]].
 
 ## Game 12
 
@@ -139,3 +139,9 @@ parent: session-lore
 - In the epilogue, the pack survives the [[Niktuku Attack in Estonia]], spreads its rites through [[St. Petersburg Sabbat Work]], and receives [[Helsinki and the Camarilla News]].
 - At sea, Istvan becomes one of the [[Unconquered Banu Haqim]].
 - The pack lands in [[Stockholm]], closing Chronicle 1. See [[Chronicle 1 Epilogue]].
+
+## Reader Guide
+
+- Start with [[Chronicle 1]] for the reading order.
+- Use [[Chronicle 1 Summary]] for prose context.
+- Use [[Chronicle 1 End State]] and [[Open Threads for Chronicle 2]] after reading the session summaries.

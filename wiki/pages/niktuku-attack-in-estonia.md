@@ -1,13 +1,14 @@
 ---
 title: "Niktuku Attack in Estonia"
 name: "Niktuku Attack in Estonia"
-category: "lore"
+category: event
 summary: "The epilogue attack that drives the pack out of Estonia."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: event
 ---
 # Niktuku Attack in Estonia
 
@@ -17,7 +18,7 @@ During the Chronicle 1 epilogue, the pack spends time in Estonia before a Niktuk
 
 ## Details
 
-- [[Katherine Karalova]] saves herself and helps the pack escape by collapsing a section of the warren between them and the Niktuku.
+- [[Katherine Karálová]] saves herself and helps the pack escape by collapsing a section of the warren between them and the Niktuku.
 - [[Istvan Vlaszy]] and [[Father Zemislav]] help break out into a sunlit area.
 - The pack escapes by caravan during the day while burning under the sun's pressure.
 

@@ -2,34 +2,57 @@
 title: "Game 11"
 name: "Game 11"
 category: "game"
-summary: "Istvan is ritually Embraced, the first Fireflower Valderie binds the pack, and the Anarchs reveal the Tremere weapon plan."
-status: "session-notes"
-tags: ["session-transcript","chronicle-1","ashes-of-ages","game-summary"]
-visibility: "gm"
-approvalStatus: "approved"
-knownToPlayers: false
+type: "game"
+summary: "Istvan is ritually Embraced, the pack performs its first Fireflower Valderie, and the Shagra weapon plan emerges."
+tags:
+  - ashes-of-ages
+  - chronicle-1
+  - game-summary
+  - session-notes
+visibility: players
+approvalStatus: approved
+knownToPlayers: true
+keyLinks: []
+aliases: []
+status: final-archive
+parent: chronicle-1
 ---
 # Game 11
 
-## Synopsis
+## Session Synopsis
 
-The coterie wakes in the [[Fireflower Anarch Camp]] after Orlok's death. Prague is entering the [[Night of Chaos]], with elders dead and power in flux. [[Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)]], [[Graziano de Veronese]], and [[Micah Vykos]] debate [[Istvan Vlaszy]]'s fate. Jakub performs [[Istvan's Banu Haqim Embrace]], calling on distant Assamite blood and leaving Istvan free of the old Tzimisce revenant silence.
+The coterie wakes in the [[Fireflower Anarch Camp]] after Orlok's destruction. [[Jakub of Thessaloniki (Zakariya ibn Masud al-Muntazir)]], [[Graziano de Veronese]], and [[Micah Vykos]] debate whether [[Istvan Vlaszy]] can take part in the new rites while still mortal or revenant. Jakub answers by performing [[Istvan's Banu Haqim Embrace]] through a ritual potion connected to distant Assamite blood.
 
-[[Father Zemislav]] forms the [[Silver Fireflower Chalice]] and leads the [[First Fireflower Valderie]]. The ritual produces a true flower of flame, strange visions, and the first bond of the pack. The group realizes that [[Sabina Premysl]], though Embraced by the Tremere off screen, may still be a route for Tzimisce influence because her body and blood carry the old revenant connection.
+[[Father Zemislav]] creates the [[Silver Fireflower Chalice]] and leads the [[First Fireflower Valderie]]. The rite produces a true flower of flame, visions, and the first pack bond. The group realizes that [[Sabina Premysl]], though Embraced by the Tremere off screen, may still carry Tzimisce vulnerabilities.
 
-The Anarch leaders explain the [[Tremere Weapon Against Shagra]] and the [[Gunpowder Diversion at Elder Elysium]]. Their plan is to force or lure the Tremere into using their weapon against Shagra's flesh room while the city reels from another attack. Fleeing Prague remains a serious option.
+The Anarch leaders reveal the [[Tremere Weapon Against Shagra]] and discuss the [[Gunpowder Diversion at Elder Elysium]]. The coterie must decide whether to help force the Tremere to use the weapon or flee Prague before the ancient Tzimisce influence finds them.
 
-## Important Lore
+## Major Events
 
-- [[Night of Chaos]]
+- Istvan becomes Banu Haqim through Jakub's ritual Embrace.
+- The first Fireflower Valderie binds the group.
+- Theodosia's tainted blood reacts badly to the chalice.
+- Micah Vykos explains the Shagra problem and Tremere weapon.
+- The Anarchs prepare another explosion in Prague.
+
+## Character Moments
+
+- Istvan is remade from revenant servant into Cainite judge.
+- Zemislav becomes the ritual center of the future pack.
+- Theodosia's corruption remains visible even in a rite of liberation.
+- Katherine sees the [[Blue Comet Omen]].
+
+## New Lore
+
 - [[Istvan's Banu Haqim Embrace]]
 - [[First Fireflower Valderie]]
-- [[Silver Fireflower Chalice]]
-- [[Micah Vykos]]
-- [[Tremere Weapon Against Shagra]]
+- [[Tremere Plot Against Shagra]]
 - [[Sabina as Tremere Leverage]]
-- [[Gunpowder Diversion at Elder Elysium]]
-- [[Blue Comet Omen]]
+
+## Consequences
+
+- The coterie becomes the beginning of a Sabbat pack.
+- Prague's conflict shifts from elder assassination to ancient land-spirit war.
 
 ## Source
 

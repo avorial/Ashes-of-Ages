@@ -1,19 +1,20 @@
 ---
 title: "Tremere Origin Confession"
 name: "Tremere Origin Confession"
-category: "lore"
+category: lore
 summary: "Greg's account of Tremere origins and altered Tzimisce vitae."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: lore
 ---
 # Tremere Origin Confession
 
 ## Overview
 
-[[Greg the Tremere]] gives [[Katherine Karalova]] and the group a frank explanation of Tremere origins and hubris.
+[[Greg the Tremere]] gives [[Katherine Karálová]] and the group a frank explanation of Tremere origins and hubris.
 
 ## Claims
 

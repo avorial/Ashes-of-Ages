@@ -1,13 +1,14 @@
 ---
 title: "Orlok Assassination"
 name: "Orlok Assassination"
-category: "lore"
+category: event
 summary: "The Three Keys attack that destroys Count Adrastos von Orlok."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: event
 ---
 # Orlok Assassination
 

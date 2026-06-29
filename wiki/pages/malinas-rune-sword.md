@@ -1,13 +1,14 @@
 ---
 title: "Malina's Rune Sword"
 name: "Malina's Rune Sword"
-category: "document"
+category: item
 summary: "The hostile rune-carved sword Malina leaves for Istvan."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: item
 ---
 # Malina's Rune Sword
 

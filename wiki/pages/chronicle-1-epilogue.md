@@ -31,7 +31,7 @@ The end of [[Game 14]] compresses roughly a century after the flight from Prague
 - The coterie is now unambiguously Sabbat.
 - [[Father Zemislav]] is the pack priest.
 - [[Istvan Vlaszy]] is discussed as a likely pack leader.
-- [[Katherine Karalova]] or [[Theodosia Byzantios]] are discussed as possible abbots or haven-guardians.
+- [[Katherine Karálová]] or [[Theodosia Byzantios]] are discussed as possible abbots or haven-guardians.
 
 ## Open Threads
 
@@ -39,3 +39,10 @@ The end of [[Game 14]] compresses roughly a century after the flight from Prague
 - [[Katherine's Hidden Trunk]]
 - Theodosia's Tzimisce taint
 - Stockholm court politics
+
+## Reader Links
+
+- [[Chronicle 1 End State]]
+- [[Open Threads for Chronicle 2]]
+- [[Northern Road and Stockholm]]
+- [[Stockholm]]

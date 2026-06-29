@@ -1,13 +1,14 @@
 ---
 title: "Hanged Men Blood Hospitality"
 name: "Hanged Men Blood Hospitality"
-category: "mythos"
+category: lore
 summary: "The Lithuanian coven's hospitality drawn from executed criminals."
 status: "session-notes"
 tags: ["session-transcript","chronicle-1","ashes-of-ages","chronicle-finale"]
-visibility: "gm"
+visibility: players
 approvalStatus: "approved"
-knownToPlayers: false
+knownToPlayers: true
+type: lore
 ---
 # Hanged Men Blood Hospitality
 
