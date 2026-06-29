@@ -231,3 +231,8 @@ Dragan is determined to preserve the Premysl family's legacy by reawakening the 
 ## Session notes
 
 - [[Game 2]] - visited at [[Dragan Premysl's House]] after [[Istvan Vlaszy]] leads the coterie there. Dragan confirms loyalty to [[Radomir Pavlovich]], bargains with the investigators, and directs them toward [[Sabina Premysl]].
+
+## Game 3-4 notes
+
+- In [[Game 3]], Dragan reveals that [[Radomir Pavlovich]] sold Cainites to the Tremere in exchange for magical texts, war magic, and secrets.
+- He suggests Radomir's own crimes may have drawn lethal consequences.

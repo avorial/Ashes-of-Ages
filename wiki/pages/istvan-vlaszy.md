@@ -260,3 +260,9 @@ Istvan sees himself as a defender of his family's legacy and a stalwart protecto
 ## Session notes
 
 - [[Game 2]] - was the second-highest bidder for [[Radomir Pavlovich's Haven]]. The coterie questions him at [[Istvan Vlaszy's House]], where he reveals his courier work for Radomir and a package route to a [[Remote Tzimisce Castle]].
+
+## Game 3-4 notes
+
+- In [[Game 3]], Istvan destroys the gargoyle at Sabina's cottage by taking its head.
+- In [[Game 4]], he completes Radomir's courier obligation at a [[Remote Tzimisce Castle]], witnesses red-capped war wagons attack, and is returned to Prague by Tzimisce wind-like magic.
+- He learns from [[Mira Vlaszy]] that she acted as Radomir's inside-Prague courier while he handled outside-city communication.

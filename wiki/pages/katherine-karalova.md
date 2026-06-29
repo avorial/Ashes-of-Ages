@@ -303,3 +303,8 @@ One evening, as she quietly emptied the ashes of a fireplace in one of the many 
 ## Session notes
 
 - [[Game 1]] - researches the blood/rune clue at the [[University of Prague Scriptorium]] and links it to pre-Islamic Banu Haqim desert/djinn magic.
+
+## Game 3-4 notes
+
+- In [[Game 3]], Katherine's Nosferatu connection points the coterie toward [[The Librarian]].
+- In [[Game 4]], she gives the [[Book of Koldun Exorcery]] to [[The Librarian]] as payment for arranging the audience with [[Prince Josef Zvi]].

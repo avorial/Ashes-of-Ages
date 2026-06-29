@@ -25,3 +25,22 @@ knownToPlayers: false
 - [[Mysterious Crusader Agent]]
 - [[Prague Curfew and Kindred Travel]]
 - [[Timeline]]
+
+## Game 3-4 additions
+
+- [[Sabina's Abduction]]
+- [[Shadow Creature at Sabina's Cottage]]
+- [[Radomir's Cainite Sales to the Tremere]]
+- [[Blood Bond and the Crown]]
+- [[Fireflower and Proto-Vauldere]]
+- [[Lasombra Founder's Death]]
+- [[Jacob's Liberation Offer]]
+- [[The Ones Who Kill]]
+- [[Tremere Red Caps]]
+- [[Tremere-Hussite War Wagons]]
+- [[Mira Vlaszy's Testimony]]
+- [[Prince Joseph and Antediluvian Influence]]
+- [[Cappadocian Cover-Up Offer]]
+- [[Hussite Crypt Penance Rite]]
+- [[Necromancer Countermeasures]]
+- [[Castle Catacombs Audience]]

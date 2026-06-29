@@ -354,3 +354,8 @@ Dalibor of Kozojedy
 
 - [[Game 1]] - arranges through retainers to buy [[Radomir Pavlovich's Haven]].
 - [[Game 2]] - his purchase is confirmed; [[Istvan Vlaszy]] was the losing bidder.
+
+## Game 3-4 notes
+
+- In [[Game 3]], Dalibor uses Peaceful Touch during the gargoyle fight.
+- In [[Game 4]], he has a dangerous hunt involving a regenerating rat-faced victim and later pushes the Cappadocian negotiator over the price of silence.

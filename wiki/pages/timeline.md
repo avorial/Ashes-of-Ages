@@ -37,3 +37,22 @@ parent: "session-lore"
 - The group reaches [[Sabina Premysl's Cottage]], where the spirit world is dangerously close.
 - Sabina reveals that the mystery package contained rituals and runes used in Radomir's spirit research.
 - A gargoyle breaks through the roof as Sabina begins recreating the ritual.
+
+## Game 3
+
+- The coterie fights the gargoyle at [[Sabina Premysl's Cottage]] and [[Istvan Vlaszy]] destroys it.
+- [[Sabina Premysl]] is pulled through the roof and carried north by an unidentified floating Cainite.
+- A [[Shadow Creature at Sabina's Cottage]] says [[Radomir Pavlovich]] was killed by darkness and by someone connected to [[The Ones Who Kill]].
+- At [[Public Elysium]], [[Dragan Premysl]] reveals [[Radomir's Cainite Sales to the Tremere]].
+- A Tremere request for retroactive Embrace permission increases suspicion that Sabina was taken by Tremere.
+- The crossbow trail leads to the [[Red Calf]], where Jacob discusses [[Blood Bond and the Crown]] and [[Fireflower and Proto-Vauldere]].
+
+## Game 4
+
+- [[Istvan Vlaszy]] delivers Radomir's package to a [[Remote Tzimisce Castle]] and sees [[Tremere-Hussite War Wagons]] attack.
+- [[Eliska von Vlasak]] obtains the [[Fae Dream Fabric]].
+- [[Father Zemislav]] witnesses the [[Hussite Crypt Penance Rite]].
+- A Cappadocian negotiator makes the [[Cappadocian Cover-Up Offer]] and threatens Istvan with [[Mira Vlaszy's Ear]].
+- [[Mira Vlaszy]] confirms [[Radomir's Cainite Sales to the Tremere]] and names the [[Golden Lane Shop]].
+- At [[The Librarian's Library]], the coterie learns more about [[Prince Joseph and Antediluvian Influence]], [[Tremere Red Caps]], and [[Necromancer Countermeasures]].
+- [[The Librarian]] arranges the [[Castle Catacombs Audience]] with [[Prince Josef Zvi]].

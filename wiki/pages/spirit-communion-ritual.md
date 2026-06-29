@@ -26,3 +26,8 @@ parent: "session-lore"
 
 - Spirit activity is explicitly dangerous.
 - Istvan says a spirit's behavior is shaped by observation and awareness; more eyes may help, but antagonizing spirits remains dangerous.
+
+## Game 3 notes
+
+- The recreated ritual at Sabina's cottage is interrupted by the gargoyle and then overtaken by darker forces.
+- The resulting shadow creature answers questions about Radomir's killer, but in cryptic terms.

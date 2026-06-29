@@ -66,3 +66,8 @@ After [Christof Romuald](https://whitewolf.fandom.com/wiki/Christof_Romuald) and
 - Foundry world archive: aoe.zip
 - Actor ID: IjR6oPSOdsmtfVGq
 - Actor folder: NPC's
+
+## Game 3-4 notes
+
+- In [[Game 4]], a Cappadocian churchman or abbot makes the [[Cappadocian Cover-Up Offer]].
+- The transcript name sounds like Brother Garganald in places; this may be Garinol or an associate, but the identification is uncertain.

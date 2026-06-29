@@ -20,3 +20,10 @@ knownToPlayers: false
 - [[Radomir's Tremere Correspondence]]
 - [[Game 1 Transcript]]
 - [[Game 2 Transcript]]
+
+## Game 3-4 additions
+
+- [[Gehenna Tapestry]]
+- [[Fae Dream Fabric]]
+- [[Book of Koldun Exorcery]]
+- [[Mira Vlaszy's Ear]]

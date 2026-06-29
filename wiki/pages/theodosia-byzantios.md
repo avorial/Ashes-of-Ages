@@ -366,3 +366,9 @@ Visions
 
 - [[Game 1]] - uses visions and supernatural perception during the haven investigation.
 - [[Game 2]] - is overwhelmed by nature spirits at [[Sabina Premysl's Cottage]] where the Gauntlet is extremely thin.
+
+## Game 3-4 notes
+
+- In [[Game 3]], Theodosia uses Dementation or Passion to deaden the gargoyle's emotional state.
+- At [[Public Elysium]], she speaks with [[Khalid Mansur]].
+- In [[Game 4]], she uses Passion to calm the Cappadocian negotiator long enough for the coterie to exit safely.

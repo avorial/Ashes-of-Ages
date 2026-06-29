@@ -23,3 +23,9 @@ parent: "session-lore"
 ## Unconfirmed
 
 - The transcripts make Tremere involvement a strong suspicion, but do not prove that Tremere killed Radomir.
+
+## Game 3-4 notes
+
+- Dragan and Mira reveal that Radomir secretly traded Cainites or bodies to the Tremere for war magic and esoteric knowledge.
+- Sabina's suspected Tremere abduction and the red-capped war wagons attacking a Tzimisce castle both escalate the conflict.
+- Game 4 research identifies the red caps as Tremere-linked servants or messengers.

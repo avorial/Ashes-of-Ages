@@ -28,3 +28,12 @@ knownToPlayers: false
 - [[Neonate Elysium]]
 - [[Remote Tzimisce Castle]]
 - [[Tremere Castle Near Prague]]
+
+## Game 3-4 additions
+
+- [[Red Calf]]
+- [[Public Elysium]]
+- [[Mira Vlaszy's House]]
+- [[Golden Lane Shop]]
+- [[The Librarian's Library]]
+- [[Castle Catacombs]]
